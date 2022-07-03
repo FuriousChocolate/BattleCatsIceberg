@@ -29,10 +29,10 @@ function changeSelected(id) {
     let mediaImage;
     console.log(entries[id].mediaType)
     if (entries[id].media == "none") {
-        mediaImage = "<img class=\"entry-image\" src=\"../media/NoMedia.svg\">";
+        mediaImage = "<img class=\"entry-image\" src=\"media/NoMedia.svg\">";
     }
     else if (entries[id].mediaType == "image") {
-        mediaImage = "<img class=\"entry-image\" src=\"../media/" + entries[id].media + "\">";
+        mediaImage = "<img class=\"entry-image\" src=\"media/" + entries[id].media + "\">";
     }
     else if (entries[id].mediaType == "HTML") {
         mediaImage = entries[id].media;

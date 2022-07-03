@@ -34,10 +34,10 @@ function changeSelected(id) {
     console.log(entries[id].mediaType)
     if (entries[id].media == "none") {
         // Sets the image to a basic image that says "no media available" if there is no media to display for the current entry.
-        mediaImage = "<img class=\"entry-image\" src=\"../media/NoMedia.svg\">";
+        mediaImage = "<img class=\"entry-image\" src=\"media/NoMedia.svg\">";
     }
     else if (entries[id].mediaType == "image") {
-        mediaImage = "<img class=\"entry-image\" src=\"../media/" + entries[id].media + "\">";
+        mediaImage = "<img class=\"entry-image\" src=\"media/" + entries[id].media + "\">";
     }
     else if (entries[id].mediaType == "HTML") {
         mediaImage = entries[id].media;
