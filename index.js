@@ -6,7 +6,7 @@ entries.sort(function(a,b) {
 
 if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
     // true for mobile device
-    document.innerHTML = <h1>We're sorry, but The Battle Cats Iceberg doesn't work on mobile devices. Please try again from a computer.</h1>
+    document.innerHTML = "<h1>We're sorry, but The Battle Cats Iceberg doesn't work on mobile devices. Please try again from a computer.</h1>"
 }
 // creates a clickable text for each entry.
 
