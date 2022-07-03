@@ -21,6 +21,7 @@ for (let i = 0; i < entries.length; i++) {
 for (let i = 0; i < entries.length; i++) {
     if (entries[i].tier == tier) {
         document.getElementById(i).addEventListener("click", function(){changeSelected(i)});
+        document.getElementById(i).addEventListener("touchstart", function(){changeSelected(i)});
     }
 }
 

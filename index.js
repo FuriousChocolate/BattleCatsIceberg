@@ -24,6 +24,7 @@ for (let tier = 1; tier <= 8; tier++) {
 // makes the buttons clickable
 for (let i = 0; i < entries.length; i++) {
     document.getElementById(i).addEventListener("click", function(){changeSelected(i)});
+    document.getElementById(i).addEventListener("touchstart", function(){changeSelected(i)});
 }
 
 let selectedEntry = 0
@@ -58,7 +59,9 @@ function changeSelected(id) {
 
 
 document.getElementById("prev-entry-btn").addEventListener("click", selectPrevious);
+document.getElementById("prev-entry-btn").addEventListener("touchstart", selectPrevious);
 document.getElementById("next-entry-btn").addEventListener("click", selectNext);
+document.getElementById("next-entry-btn").addEventListener("touchstart", selectNext);
 // changes the selected entry to the next one. If it is alredy the final entry, nothing happens.
 function selectNext() {
     if (selectedEntry == entries.length) {
