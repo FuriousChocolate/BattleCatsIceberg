@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>The Ultimate Battle Cats Iceberg</title>
+
+        <!╌ favicon links ╌>
+        <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+        <link rel="manifest" href="favicon/site.webmanifest">
+        <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">
+
+       <!-- bootstrap -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+        
+        <!-- js and css files -->
+        <script type="module" src="byTier.js"></script>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="font.css">
+        
+    </head>
+    <body>
+        <!-- navbar -->
+        <nav id="navbar" class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+                <!-- navbar title -->
+              <a class="navbar-brand" href="./index.html">The Battle Cats Iceberg</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link" href="./index.html">Main Page</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="./aboutUs.html">About Us</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle active" aria-current="page" href="./byTier.html?tier1" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      By Tier
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="./byTier.html?tier1">Tier 1</a></li>
+                        <li><a class="dropdown-item" href="./byTier.html?tier2">Tier 2</a></li>
+                        <li><a class="dropdown-item" href="./byTier.html?tier3">Tier 3</a></li>
+                        <li><a class="dropdown-item" href="./byTier.html?tier4">Tier 4</a></li>
+                        <li><a class="dropdown-item" href="./byTier.html?tier5">Tier 5</a></li>
+                        <li><a class="dropdown-item" href="./byTier.html?tier6">Tier 6</a></li>
+                        <li><a class="dropdown-item" href="./byTier.html?tier7">Tier 7</a></li>
+                        <li><a class="dropdown-item" href="./byTier.html?tier8">Tier 8</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+
+        <!-- the iceberg -->  
+        <div class="tier">
+            <h1 id="tier-name"></h1>
+            <h3><div id="tier-content"></div></h3>
+        </div>
+    
+        <!-- the description for the selected entry -->
+        <div id="entry-description">
+            <h1>Try Clicking on an entry!</h1>
+            <p><h4>The Battle Cats Iceberg is a website designed to be the ultimate compendium of battle cats knowladge and lore, spanning from tier 1, well known or trivial facts about The Battle Cats, to tier 8, the deepest and darkest mysteries that the game has to offer. Simply click an entry to read more about it! Please be aware that not all entries are fact, and many of these are just theories that have been created using what we know about The Battle Cats.</h4></p>
+        </div>
+
+        
+    </body>
+</html>

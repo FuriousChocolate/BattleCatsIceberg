@@ -1,0 +1,147 @@
+body {
+    background-color: #404040;
+}
+.background {
+    position: absolute;
+    top: 3.5rem;
+    left: 0rem;
+    z-index: -100;
+}
+#nav-buttons {
+    position: absolute;
+    top: 3.5rem;
+    left: 40.188rem;
+    line-height: 0rem;
+    z-index: 0;
+    margin: 3rem;
+    color: #cfcfcf;
+}
+#prev-entry-btn {
+    position: absolute;
+    top: 5.5rem;
+    left: 42.188rem;
+}
+#next-entry-btn {
+    position: absolute;
+    top: 5.5rem;
+    right: 2rem;
+}
+#entry-info {
+    position: absolute;
+    top: 5.75rem;
+    left: 51rem;
+    color:white;
+    font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
+}
+#entry-description {
+    position: absolute;
+    top: 6.5rem;
+    left: 40.188rem;
+    z-index: 0;
+    margin: 3rem;
+    color: #cfcfcf;
+}
+.tier {
+    position: absolute;
+    top: 3.5rem;
+    left: 0rem;
+    z-index: 0;
+    margin: 3rem;
+    color: #cfcfcf;
+    max-width: 37.188rem;
+    text-align: center;
+}
+#about-us {
+    color: #ffffff;
+    margin: 10rem;
+    text-align: center;
+}
+.iceberg {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 40.188rem;
+}
+.btn-primary {
+    background-color: #ffffff00 !important;
+    border: none !important;
+    padding: none !important;
+    padding-inline-start: 0.25rem !important;
+    padding-inline-end: 0.25rem !important;
+    padding-block: 0px !important;
+    color: #cfcfcf;
+}
+.entry-image {
+    height: 18.75rem;
+    width: auto;
+}
+.title {
+    margin-bottom: 0.5rem !important;
+    font-size: 2.375rem !important;
+}
+#tier1 {
+    top: 3.5rem;
+    left: 40.188rem;
+    line-height: 0rem;
+    width: 40.188rem;
+    height: 8.1rem;
+    padding-top: 0.1rem;
+    margin: auto;
+}
+#tier2 {
+    top: 3.5rem;
+    left: 40.188rem;
+    line-height: 0rem;
+    width: 40.188rem;
+    height: 8.5rem;
+    padding-top: 0.5rem;
+}
+#tier3 {
+    top: 3.5rem;
+    left: 40.188rem;
+    line-height: 0rem;
+    width: 40.188rem;
+    height: 9.9rem;
+    padding-top: 0.5rem;
+}
+#tier4 {
+    top: 3.5rem;
+    left: 40.188rem;
+    line-height: 0rem;
+    width: 40.188rem;
+    height: 8.9rem;
+    padding-top: 0.5rem;
+}
+#tier5 {
+    top: 3.5rem;
+    left: 40.188rem;
+    line-height: 0rem;
+    width: 40.188rem;
+    height: 9.1rem;
+    padding-top: 0.5rem;
+}
+#tier6 {
+    top: 3.5rem;
+    left: 40.188rem;
+    line-height: 0rem;
+    width: 40.188rem;
+    height: 8rem;
+    padding-top: 0.5rem;
+}
+#tier7 {
+    top: 3.5rem;
+    left: 40.188rem;
+    line-height: 0rem;
+    width: 40.188rem;
+    height: 8.7rem;
+    padding-top: 0.5rem;
+}
+#tier8 {
+    top: 3.5rem;
+    left: 40.188rem;
+    line-height: 0rem;
+    width: 40.188rem;
+    height: 8.4rem;
+    padding-top: 0.5rem;
+}
+
+
