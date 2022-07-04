@@ -12,14 +12,16 @@ window.mobileAndTabletCheck = function() {
 
 if(window.mobileAndTabletCheck() || "ontouchstart" in document.documentElement) {
     // true for mobile device
-    console.log("stuff is happening")
+    alert("mobile browser detected");
     document.getElementById("content").innerHTML = "<h1>We're sorry, but The Battle Cats Iceberg doesn't work on mobile devices. Please try again from a computer.</h1>"
+} 
+else {
+    alert("no browser detected");
 }
 // creates a clickable text for each entry.
 
 // loops through each tier and adds buttons. 
 for (let tier = 1; tier <= 8; tier++) {
-
     let innerHTML = "";
     // Selects the correct div for the current tier.
     const div = document.getElementById("tier" + tier);
