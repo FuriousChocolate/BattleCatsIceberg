@@ -2,9 +2,6 @@ body {
     background-color: #404040;
 }
 .background {
-    position: absolute;
-    top: 3.5rem;
-    left: 0rem;
     z-index: -100;
 }
 #content {
@@ -16,9 +13,18 @@ body {
         top: 75.5rem;
         left: 2rem;
     }
+    #entry-bytier {
+        position: absolute;
+        left: 2rem;
+    }
 }
 @media only screen and (min-width: 991px) {
     #entry {
+        position: absolute;
+        top: 5.5rem;
+        left: 42.188rem;
+    }
+    #entry-bytier {
         position: absolute;
         top: 5.5rem;
         left: 42.188rem;
@@ -45,9 +51,6 @@ body {
     color: #cfcfcf;
 }
 .tier {
-    position: absolute;
-    top: 3.5rem;
-    left: 0rem;
     z-index: 0;
     margin: 3rem;
     color: #cfcfcf;
@@ -63,6 +66,13 @@ body {
     overflow: hidden;
     text-overflow: ellipsis;
     max-width: 40.188rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    
+}
+.iceberg div {
+    grid-row-start: 1;
+    grid-column-start: 1;
 }
 .btn-primary {
     background-color: #ffffff00 !important;
@@ -86,8 +96,6 @@ body {
     font-size: 2.375rem !important;
 }
 #tier1 {
-    top: 3.5rem;
-    left: 40.188rem;
     line-height: 0rem;
     width: 40.188rem;
     height: 8.1rem;
@@ -95,56 +103,42 @@ body {
     margin: auto;
 }
 #tier2 {
-    top: 3.5rem;
-    left: 40.188rem;
     line-height: 0rem;
     width: 40.188rem;
     height: 8.5rem;
     padding-top: 0.5rem;
 }
 #tier3 {
-    top: 3.5rem;
-    left: 40.188rem;
     line-height: 0rem;
     width: 40.188rem;
     height: 9.9rem;
     padding-top: 0.5rem;
 }
 #tier4 {
-    top: 3.5rem;
-    left: 40.188rem;
     line-height: 0rem;
     width: 40.188rem;
     height: 8.9rem;
     padding-top: 0.5rem;
 }
 #tier5 {
-    top: 3.5rem;
-    left: 40.188rem;
     line-height: 0rem;
     width: 40.188rem;
     height: 9.1rem;
     padding-top: 0.5rem;
 }
 #tier6 {
-    top: 3.5rem;
-    left: 40.188rem;
     line-height: 0rem;
     width: 40.188rem;
     height: 8rem;
     padding-top: 0.5rem;
 }
 #tier7 {
-    top: 3.5rem;
-    left: 40.188rem;
     line-height: 0rem;
     width: 40.188rem;
     height: 8.7rem;
     padding-top: 0.5rem;
 }
 #tier8 {
-    top: 3.5rem;
-    left: 40.188rem;
     line-height: 0rem;
     width: 40.188rem;
     height: 8.4rem;
