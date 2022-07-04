@@ -105,3 +105,9 @@ document.addEventListener('keyup', (event) => {
         selectNext();
     }
 }, false);
+
+document.addEventListener("touchStart", alert)
+
+function alert() {
+    alert("E");
+}
