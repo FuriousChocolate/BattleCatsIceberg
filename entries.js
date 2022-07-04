@@ -1,5 +1,5 @@
 
-[
+export const entries = [
     {
         "name": "Official user surveys",
         "description": "Once every year, PONOS gives players the opportunity to earn some free Cat Food by answering an online survey. The questions players are asked typically relate to the game's future in some way; what collabs they'd like to see, what new features would be best for the game, what they want to see more of in cat units' designs, etc.",
@@ -737,4 +737,4 @@
         "mediaType": "image",
         "tier": 3
     }
-]
+];

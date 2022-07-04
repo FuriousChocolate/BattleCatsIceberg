@@ -1,5 +1,6 @@
 // imports the entries from the json file
-import entries from './entries.json' assert {type: 'json'};
+import {entries} from './entries.js'// assert {type: 'json'};
+//let entries = require('./entries.json');
 entries.sort(function(a,b) {
     return a.tier - b.tier;
 })
