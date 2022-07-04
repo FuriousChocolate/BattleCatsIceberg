@@ -7,41 +7,41 @@ body {
     left: 0rem;
     z-index: -100;
 }
-#nav-buttons {
-    position: absolute;
-    top: 3.5rem;
-    left: 40.188rem;
-    line-height: 0rem;
-    z-index: 0;
-    margin: 3rem;
-    color: #cfcfcf;
-}
 #content {
     color: white;
 }
+@media only screen and (max-width: 991px) {
+    #entry {
+        position: absolute;
+        top: 75.5rem;
+        left: 2rem;
+    }
+}
+@media only screen and (min-width: 991px) {
+    #entry {
+        position: absolute;
+        top: 5.5rem;
+        left: 42.188rem;
+    }
+}
 #prev-entry-btn {
     position: absolute;
-    top: 5.5rem;
-    left: 42.188rem;
 }
 #next-entry-btn {
     position: absolute;
-    top: 5.5rem;
     right: 2rem;
 }
 #entry-info {
     position: absolute;
-    top: 5.75rem;
-    left: 51rem;
+    top: 0.5rem;
+    left: 8.5rem;
     color:white;
     font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
 }
 #entry-description {
-    position: absolute;
-    top: 6.5rem;
-    left: 40.188rem;
     z-index: 0;
-    margin: 3rem;
+    margin-top: 3rem;
+    margin-right: 2rem;
     color: #cfcfcf;
 }
 .tier {
@@ -73,9 +73,13 @@ body {
     padding-block: 0px !important;
     color: #cfcfcf;
 }
-.entry-image {
+.entry-image-computer {
     height: 18.75rem;
     width: auto;
+}
+.entry-image-mobile {
+    width: 30rem;
+    height: auto;
 }
 .title {
     margin-bottom: 0.5rem !important;

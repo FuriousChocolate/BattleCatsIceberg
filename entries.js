@@ -670,8 +670,8 @@ export const entries = [
     {
         "name": "Floor 30 Sniper cheese",
         "description": "The first-ever Floor 30 cheese involves using Sniper the Cat to send Awakened Bahamut flying past Hermit Cat, thereby letting you attack the enemy base with the boss still alive. It's technically one of the most accessible means of beating the stage, but it's so hard to pull off that most players would never even consider it, and the amount of power creep affecting Floor 30 has not helped in that regard.",
-        "media": "none",
-        "mediaType": "image",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4qEEpHs8vqI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
         "tier": 3
     },
     {
