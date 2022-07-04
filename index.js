@@ -71,11 +71,15 @@ function changeSelected(id) {
     return;
 }
 
+if (mode == "computer") {
+    document.getElementById("prev-entry-btn").addEventListener("click", selectPrevious);
+    document.getElementById("next-entry-btn").addEventListener("click", selectNext);
+} 
+else {
+    document.getElementById("prev-entry-btn").addEventListener("touchstart", selectPrevious);
+    document.getElementById("next-entry-btn").addEventListener("touchstart", selectNext);
+}
 
-document.getElementById("prev-entry-btn").addEventListener("click", selectPrevious);
-document.getElementById("prev-entry-btn").addEventListener("touchstart", selectPrevious);
-document.getElementById("next-entry-btn").addEventListener("click", selectNext);
-document.getElementById("next-entry-btn").addEventListener("touchstart", selectNext);
 // changes the selected entry to the next one. If it is alredy the final entry, nothing happens.
 function selectNext() {
     if (selectedEntry == entries.length) {
