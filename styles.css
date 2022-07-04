@@ -16,6 +16,9 @@ body {
     margin: 3rem;
     color: #cfcfcf;
 }
+#content {
+    color: white;
+}
 #prev-entry-btn {
     position: absolute;
     top: 5.5rem;
