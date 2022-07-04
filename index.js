@@ -14,7 +14,7 @@ window.onload = function noMobile() {
     if(window.mobileAndTabletCheck() || "ontouchstart" in document.documentElement) {
         // true for mobile device
         alert("mobile browser detected");
-        document.getElementById("content").innerHTML = "<h1>We're sorry, but The Battle Cats Iceberg doesn't work on mobile devices. Please try again from a computer.</h1>"
+        //document.getElementById("content").innerHTML = "<h1>We're sorry, but The Battle Cats Iceberg doesn't work on mobile devices. Please try again from a computer.</h1>"
     } 
     else {
         alert("no browser detected");
