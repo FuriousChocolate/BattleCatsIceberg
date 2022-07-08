@@ -662,7 +662,7 @@ export const entries = [
     },
     {
         "name": "r/battlecatscomics",
-        "description": "This one explains itself.",
+        "description": "A small subreddit for posting battle cats comics. Visit it <a href=\"https://www.reddit.com/r/battlecatscomics/\">here</a>.",
         "media": "BCComics.png",
         "mediaType": "image",
         "tier": 3
@@ -677,57 +677,57 @@ export const entries = [
     {
         "name": "Long Distance Daboo",
         "description": "Daboo of the Dead originally had Long Distance, with an effective range of 0-800. The sudden change to Omni Strike was made because of a cheese discovered not long after Dead on Debut was released, but some clever players have made do and worked out even more cunning ways of cheesing it.",
-        "media": "none",
-        "mediaType": "image",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/94hDsvTdVsw?start=30\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
         "tier": 3
     },
     {
-        "name": "Swordsman Johnny is the worst cat unit",
-        "description": "Swordsman is a Rare Cat from the Princess Punt collab, who evolves into Swordsman Johnny. He has no redeeming qualities whatsoever.",
-        "media": "none",
+        "name": "Cheetah cat",
+        "description": "Cheetah cat (Japanese: ネコチーター, neko chiita) is an Uber Rare cat unit with horrendus stats that is only possible to get by cheating, as it has no means of obtaining. In japanese, cheetah and cheater are pronounced the exact same way (chiita), and so the name of the unit is a play on words, as it is a cheetah that only \"cheaters\" would be able to obtain.",
+        "media": "Cheetah.gif",
         "mediaType": "image",
         "tier": 3
     },
     {
         "name": "St. Dober's Savage Blows",
         "description": "A typo that stuck around for a few months before it was fixed to say Surge Attacks. Kasli the Bane's descriptions used to have this error too, and hers were fixed in the same update as St. Dober's.",
-        "media": "none",
+        "media": "DoberSBlow.jpg",
         "mediaType": "image",
         "tier": 3
     },
     {
         "name": "\"Mr.\" games",
         "description": "True to his descriptions, Mr. was the star of his own mobile game series before being added to The Battle Cats. Some of his games included Mr.Oops!!, Mr.AahH!! and Mr.NooO!!; none of them can be downloaded anymore.",
-        "media": "none",
+        "media": "MrAahh",
         "mediaType": "image",
         "tier": 3
     },
     {
         "name": "Strongest possible enemy",
         "description": "In terms of overall stats, the strongest enemy you could possibly fight is Wrath of the Wormhole's 600% Super Cosmic Cyclone without any anti-Starred Alien Treasures, which has a colossal 63,999,936 health and an average-for-a-Cyclone-but-still-pretty-high 53,280 attack.",
-        "media": "none",
+        "media": "SCC.gif",
         "mediaType": "image",
         "tier": 3
     },
     {
         "name": "The real reason why Nurse Wuffa uses unevolved Crazed Cats",
         "description": "According to his channel description, he usually does it out of laziness: \"I upload some game about cats takin over the world. I use first form Crazeds because I'm too lazy to change the form or because I don't want to use Manics.\"",
-        "media": "none",
+        "media": "WuffaCrazedReason.png",
         "mediaType": "image",
         "tier": 3
     },
     {
         "name": "Careful advocat 22",
         "description": "Ever since early 2020 IIRC, it's been rare not to see Battle Cats videos on YouTube getting spammed with bizarre, meaningless comments such as \"Helpful engineer 19\" and \"Strong advocat 53\" within seconds of being uploaded. While you may think that these are just bots, many of them have actual videos and profiles, and some were even created before these comments started appearing; this may suggest that something more insidious is going on behind the scenes.",
-        "media": "none",
+        "media": "BotComment.png",
         "mediaType": "image",
         "tier": 3
     },
     {
         "name": "Mr. Mer reused from Kumanchu Royale",
-        "description": "https://www.youtube.com/watch?v=nIyrIKVgics",
-        "media": "none",
-        "mediaType": "image",
+        "description": "The enemy \"Mr. Mer\" that was introduced into battle cats in version 10.4 was actually a reused enemy from one of Ponos' old games, Kumanchu Royale, also known as The Battle Bears or Kumanchu Rowairu",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nIyrIKVgics\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
         "tier": 3
     },
     {
