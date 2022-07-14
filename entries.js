@@ -697,8 +697,8 @@ export const entries = [
     },
     {
         "name": "\"Mr.\" games",
-        "description": "True to his descriptions, Mr. was the star of his own mobile game series before being added to The Battle Cats. Some of his games included Mr.Oops!!, Mr.AahH!! and Mr.NooO!!; none of them can be downloaded anymore.",
-        "media": "MrAahh",
+        "description": "True to his descriptions, Mr. was the star of his own mobile game series before being added to The Battle Cats. Some of his games included <a href=\"https://www.youtube.com/watch?v=bff97aiPMHM\">Mr.Oops!!</a>, <a href=\"https://www.youtube.com/watch?v=phndpuyHgzo\">Mr.AahH!!</a> and <a href=\"https://www.youtube.com/watch?v=9nojWrkolk4\">Mr.NooO!!</a>; none of them can be downloaded anymore.",
+        "media": "MrAahh.webp",
         "mediaType": "image",
         "tier": 3
     },
@@ -728,6 +728,125 @@ export const entries = [
         "description": "The enemy \"Mr. Mer\" that was introduced into battle cats in version 10.4 was actually a reused enemy from one of Ponos' old games, Kumanchu Royale, also known as The Battle Bears or Kumanchu Rowairu",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nIyrIKVgics\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
+        "tier": 3
+    },
+    {
+        "name": "Gamatoto isn't a cat",
+        "description": "One of the activities that Gamatoto can get up to in the expedition log is discovering that he's not actually a cat.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "Fatherly Cat (Shopkeeper)",
+        "description": "A Special Cat that went unused for some time before finally being implemented as part of the BCJP x The Burgle Cats collab. Oddly, this collab has shown no signs of coming to BCEN even after The Burgle Cats' official English release.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "The Demon King",
+        "description": "A mysterious entity sealed away(?) by Master Uril(?), allegedly a threat to the entire world.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "The REAL ultimate superweapon",
+        "description": "This is mentioned in the SoL ending, but its identity remains ambiguous. It's either Relic Bun-Bun or the final boss of UL.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "Idi is female",
+        "description": " Confirmed by the description of the Meow Medal \"Ancient Annihilator\".",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "The guild of forbidden knowledge",
+        "description": "Another mystery from the SoL ending, it could be the Relics, the Doges who revived Mecha-Bun, or something else entirely.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "The ancient forest",
+        "description": "The source of Emperor Cat's cursed power, a place with major connections to Relic enemies - and perhaps even the Demon King as well. It could be the sacred forest that Urs & Fenrir were supposed to guard, but it's hard to say with how little we know about it. (Edit: Confirmed to be Ancient Forest Labyrinth.)",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "Alpacky is trans",
+        "description": "Camelle is male and Alpacky is female, and yet both are supposed to be the same character. Of course, it's entirely possible that this was just a translation error or a result of the writers forgetting Camelle's gender.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "Body & Soul and Weak & Mildly Acidic are about the cats' darkest hour",
+        "description": "While it's hard to say for certain what's going on these sub-chapters, the level names paint a very bleak picture overall, with Sunset's Howl bringing out the hidden dark powers of three Berserkories, Warrior's Dawn bringing flashbacks to when the cats fought one of their first truly challenging battles, At Least I'm a Cat being about finding the positives in a situation with only negatives, and so on. No More Bad Dreams is when the despair reaches its end, and finding, or rather, being found by the next Legend, Red Riding Mina, is what finally lifts the cats' spirits and gets them Learning to Love again.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "The guild of assassins",
+        "description": "It's heavily implied that most of the Black cats and enemies are assassins of some sort, and Black Betakkuma's description confirms that there exists a guild of them.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "Japanese Empire of Cats takes place entirely within Japan",
+        "description": " This is why Japanese gameplay videos of stage 48 always use the dawn/sunset overworld background instead of the iconic dark cave. Other differences include alternate sprites for every Treasure and enemy base, some of which can be seen in the default title screen regardless of game version.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "\"Any enemy can Crit\" bug",
+        "description": "When a non-Critting enemy attacks at just the right moment during a Critical wave, the enemy in question will also launch a Crit. This is most commonly seen with the Owlbrows in Floor 47, the infamous Corrupted Moneko + Puffsley's Comet stage.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "Cat Beacon",
+        "description": "BCJP has this seldom-used feature which from my understanding lets you use Bluetooth when attending certain real-life events to unlock free units such as Maneki Cat... and Maneki Cat... and Maneki Cat.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "PONOS Art Contests",
+        "description": "Ponos has held art contests so that fan-designed cats could make their way into the game. Some examples are Catburger, Mightycat, and Farmer cat.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "Knights of the Round Table",
+        "description": "Due to character limits, Weak & Mildly Acidic's second stage has always been known as Knights of the Round, but the full name, Knights of the Round Table, could once be seen under the sub-chapter's info section.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "Cargo ship base",
+        "description": "Shown in the Into the Future main menu background, yet it doesn't actually appear in any stage.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 3
+    },
+    {
+        "name": "Mystic Uril's parrot is a liar",
+        "description": "His English description clarifies that it's the parrot who says he sealed away the Demon King, and in Japanese it outright states that he makes the parrot (or cockatoo) do it. Either the Demon King was never truly sealed away or it wasn't Uril who stopped him.",
+        "media": "none",
+        "mediaType": "image",
         "tier": 3
     },
     {
