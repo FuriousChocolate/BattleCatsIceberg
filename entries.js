@@ -158,7 +158,7 @@ export const entries = [
     },
     {
         "name": "Ponos didn't create legned helpers",
-        "description": "A little while before PONOS released legend helpers into the game, <a href=\"https://www.reddit.com/r/battlecats/comments/hkudjv/fanmade_i_made_a_gamatoto_helper_that_is_rarer/\">a fan made version</a> was posted on reddit that has a striking resemblance to the offical ones that came out after it. Coincidence? Believe what you want.",
+        "description": "A little while <em>before</em> PONOS released legend helpers into the game, <a href=\"https://www.reddit.com/r/battlecats/comments/hkudjv/fanmade_i_made_a_gamatoto_helper_that_is_rarer/\">a fan made version</a> was posted on reddit that has a striking resemblance to the offical ones that came out after it. Coincidence? Believe what you want.",
         "media": "LegendHelper.png",
         "mediaType": "image",
         "tier": 4
@@ -850,10 +850,52 @@ export const entries = [
         "tier": 3
     },
     {
+        "name": "Rain D. is (possibly) a man in a costume",
+        "description": "Hinted at in his Japanese description: \"Is very confident in his ability to sing. Naturally, he's a huge fan of the Yomiuri Giants. <b>There are also rumors that somebody is inside his fur</b>, but he himself has denied them.\"",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Mini-games",
+        "description": "Every now and then in The Battle Cats Together!, the game will give you the chance to play one of four different mini-games to win various items and a 20% energy refill.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BaRaoN2dkwE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 4
+    },
+    {
+        "name": "Entry animations",
+        "description": "Certain units have extremely brief animations played only when entering the battle, or when landing on the ground after being knocked back. The only examples I know of are Awakened/Raging Bahamut Cat, Bronze Cat's evolution line, Apple Cat's evolution line, Cat's Gift, and bullet trains first two forms, but I'm sure there are others. The easiest way to see the very start of a unit's walking animation for yourself is using the Cat Guide. In the example above I am rapidly tapping the icon in the corner for iCat to constantly restart it's walking animation, showing how it starts on the floor and then has a few frames where it \"stands up\" then contines walking never to do that \"standing up\" animation again.",
+        "media": "EntryAnim.gif",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Spritesheet glitches",
+        "description": "When your device is running low on storage, certain sprites will begin to display as large black or white squares or will just display the wrong images.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Battle Cats Rangers",
+        "description": " In April 2017, PONOS and Memory Inc. released a clicker spin-off called Battle Cats Rangers, to lukewarm reception. The game did not hold players' attention for long, ultimately leading to its removal from the App Store and Google Play Store in March 2019.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "\"Swallowed\" D'artanyan",
+        "description": " Another creation of u/Pokemondogod's. Looked much the same as the normal D'artanyan in his first appearance, and even more so before he became swallowed.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
         "name": "Example entry",
         "description": "Example description. <a href=\"www.google.com\">Example link</a>.",
         "media": "none",
         "mediaType": "image",
-        "tier": 3
+        "tier": 4
     }
 ];
