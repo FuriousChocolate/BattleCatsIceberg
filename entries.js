@@ -243,7 +243,7 @@ export const entries = [
     {
         "name": "OG Balrog Cat",
         "description": "Players who joined around of the time of the second Street Fighter collab may know Balrog Cat as a mediocre collab Rare Cat, but before thenm that moniker belonged to Lesser Demon Cat's True Form, who is now called Greater Balrog Cat.",
-        "media": "BalrogCat.png",
+        "media": "BalrogCat.gif",
         "mediaType": "image",
         "tier": 1
     },
@@ -782,7 +782,7 @@ export const entries = [
     {
         "name": "Alpacky is trans",
         "description": "Camelle is male and Alpacky is female, and yet both are supposed to be the same character. Of course, it's entirely possible that this was just a translation error or a result of the writers forgetting Camelle's gender.",
-        "media": "TransAplacky.png",
+        "media": "TransAlpacky.png",
         "mediaType": "image",
         "tier": 3
     },
@@ -852,7 +852,7 @@ export const entries = [
     {
         "name": "Rain D. is (possibly) a man in a costume",
         "description": "Hinted at in his Japanese description: \"Is very confident in his ability to sing. Naturally, he's a huge fan of the Yomiuri Giants. <b>There are also rumors that somebody is inside his fur</b>, but he himself has denied them.\"",
-        "media": "none",
+        "media": "RainD.png",
         "mediaType": "image",
         "tier": 4
     },
@@ -873,21 +873,105 @@ export const entries = [
     {
         "name": "Spritesheet glitches",
         "description": "When your device is running low on storage, certain sprites will begin to display as large black or white squares or will just display the wrong images.",
-        "media": "none",
+        "media": "SpritesheetGlitch.jpg",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "Battle Cats Rangers",
         "description": " In April 2017, PONOS and Memory Inc. released a clicker spin-off called Battle Cats Rangers, to lukewarm reception. The game did not hold players' attention for long, ultimately leading to its removal from the App Store and Google Play Store in March 2019.",
-        "media": "none",
+        "media": "BattleCatsRangers.png",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "\"Swallowed\" D'artanyan",
-        "description": " Another creation of u/Pokemondogod's. Looked much the same as the normal D'artanyan in his first appearance, and even more so before he became swallowed.",
-        "media": "none",
+        "description": " Another creation of <a href=\"https://www.reddit.com/u/Pokemondogod/\">u/Pokemondogod</a>'s. Looked much the same as the normal D'artanyan in his <a href=\"https://www.reddit.com/r/battlecats/comments/ikgs2e/fluff_he_beckons_for_soundsmeet_swallowed/\">first appearance</a>, and even more so <a href=\"https://www.reddit.com/r/battlecats/comments/ioq5gw/fluff_swallowed_dart_before_he_becameswallowed/\">before he became swallowed</a>.",
+        "media": "SwallowedDart.webp",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "There are three Cat Bros",
+        "description": "There are 3 different units with the name cat bros: <a href=\"https://battle-cats.fandom.com/wiki/Cat_Bros_(Special_Cat)\">a serial code cat repurposed for a 2017 social media campaign</a>, <a href=\"https://battle-cats.fandom.com/wiki/Cat_Bros_(Rare_Cat)#Cat_Bros\">a Traitless-resistant meatshield obtainable from a Battle Cats Together! promotional stage in BCJP</a>, and <a href=\"https://battle-cats.fandom.com/wiki/Cat_Bros_(Switch_Special_Cat)#Cat_Bros\">a Battle Cats Together!-exclusive unit with no abilities</a>.",
+        "media": "CatBros.png",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Kalisa, type xx",
+        "description": "Divine Kalisa's original name, changed within 1 week of her True Form being added.",
+        "media": "KalisaXX.png",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "TGCW",
+        "description": "<a href=\"https://www.reddit.com/r/battlecats/comments/l4mx64/fan_made_tgcw_19_ftless_fat_cats/\">The Great Cat War (TGCW)</a> is a Pokémon FireRed rom hack made by <a href=\"https://www.reddit.com/u/AnakinBahmoot/\">u/AnakinBahmoot</a>, its <a href=\"https://www.reddit.com/r/battlecats/comments/70cpnq/fanmade_tgcw_is_out/\">initial release</a> dating back to September 15, 2017. It still gets updates every now and then, and has its own (dead) subreddit at <a href=\"https://www.reddit.com/r/TheGreatCatWar/\">r/TheGreatCatWar</a>.",
+        "media": "TGCW.png",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Unit 339",
+        "description": "Even though iron wall is a cannon, the wall it creates is classified as a cat unit in the games code (unit 339). Its menu icon is the same as basic cat and it has 0 speed, so even if you hacked it in, it would be pretty useless.",
+        "media": "Unit339.png",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "The significance of the number two",
+        "description": "National Cat Day in Japan falls on February 22 (2/22), as the Japanese word for two is に (pronounced \"ni\"), which is used in the spelling of \"nyan\" (にゃん). This is why the number two is so prominent throughout the game.",
+        "media": "CatDay.webp",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "iCat has bad AI",
+        "description": "Meme spawned from Regit's video on 2-star Suburbs of the Dead.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/r-U2Of6ID1w?start=798\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 4
+    },
+    {
+        "name": "Calamity Stages",
+        "description": " The \"Li'l Awakens!\" maps used to have flashing text that read \"Calamity Stage\" underneath their names, presumably denoting the 4-star restrictions present within the stages. It was removed in 6.5, when the \"Conditions\" button was added.",
+        "media": "CalamityStage.png",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Apisa",
+        "description": "One of the first fan-made enemies to actually be fightable. Created by <a href=\"https://www.reddit.com/u/dankerlordx/\">u/dankerlordx</a> and showcased by Tesalan Pasalan, Apisa was an ancient aphid before it was cool.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RzM13JZhJCE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 4
+    },
+    {
+        "name": "Overleveled cat \"cursed images\"",
+        "description": "An r/battlecats meme from 3 years ago. It all started with u/dankerlordx posting a \"blessedly cursed\" image of his level 1+29 Robocat, and then everyone was scrambling to post cursed images of their own overleveled cats.",
+        "media": "RoboBoost.png",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Inquiry code viewable from device settings",
+        "description": "This one explains itself.",
+        "media": "BattleCatsSettings.png",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Specific unit restrictions",
+        "description": "Some of the Madoka Magica collab stages restricted hand-picked units instead of just limiting you to certain categories. In the Charlotte stages, you couldn't use Bebe, and Homulilly's stages forbade you from using Homura Akemi as well as her Li'l variant. These types of restrictions can also be seen in some sesonal event stages such as the legendary bug net ones.",
+        "media": "SpecialRestrictions.png",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Three-way collabs",
+        "description": "These include BCJP x Million Arthur x Dragon Poker (2014), BCJP x Nebaaru-kun x Nyan Puzzle (2016), and BCTW x Kaohsiung Rapid Transit x Majimeow (2019).",
+        "media": "ThreeWayCollab.webp",
         "mediaType": "image",
         "tier": 4
     },
