@@ -48,12 +48,12 @@ body {
     z-index: 0;
     margin-top: 3rem;
     margin-right: 2rem;
-    color: #cfcfcf;
+    color: #ffffff;
 }
 .tier {
     z-index: 0;
     margin: 3rem;
-    color: #cfcfcf;
+    color: #ffffff;
     max-width: 37.188rem;
     text-align: center;
 }
@@ -81,7 +81,7 @@ body {
     padding-inline-start: 0.25rem !important;
     padding-inline-end: 0.25rem !important;
     padding-block: 0px !important;
-    color: #cfcfcf;
+    color: #ffffff;
 }
 .entry-image-computer {
     height: 18.75rem;
@@ -101,48 +101,57 @@ body {
     height: 8.1rem;
     padding-top: 0.1rem;
     margin: auto;
+    text-align: center;
+
 }
 #tier2 {
     line-height: 0rem;
     width: 40.188rem;
     height: 8.5rem;
     padding-top: 0.5rem;
+    text-align: center;
 }
 #tier3 {
     line-height: 0rem;
     width: 40.188rem;
     height: 9.9rem;
     padding-top: 0.5rem;
+    text-align: center;
 }
 #tier4 {
     line-height: 0rem;
     width: 40.188rem;
     height: 8.9rem;
     padding-top: 0.5rem;
+    text-align: center;
 }
 #tier5 {
     line-height: 0rem;
     width: 40.188rem;
     height: 9.1rem;
     padding-top: 0.5rem;
+    text-align: center;
 }
 #tier6 {
     line-height: 0rem;
     width: 40.188rem;
     height: 8rem;
     padding-top: 0.5rem;
+    text-align: center;
 }
 #tier7 {
     line-height: 0rem;
     width: 40.188rem;
     height: 8.7rem;
     padding-top: 0.5rem;
+    text-align: center;
 }
 #tier8 {
     line-height: 0rem;
     width: 40.188rem;
     height: 8.4rem;
     padding-top: 0.5rem;
+    text-align: center;
 }
 
 

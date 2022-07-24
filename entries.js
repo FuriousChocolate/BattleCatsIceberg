@@ -976,10 +976,150 @@ export const entries = [
         "tier": 4
     },
     {
+        "name": "Satan Claus has no English name",
+        "description": "The English event info for Christmas in Space doesn't give the Alien Santa Nyandam a name, so the closest thing available is his Japanese name, Satan Claus.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "The Cat and Doge Armies used to be allies",
+        "description": " Implied by Doguemon's description (\"...this was created by ancient Cats then sold to Doges for use as flowerbed decorations.\"), which would otherwise mean that the original Cat Army sent gifts to their own enemies.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Nerfed Stages",
+        "description": "Ponos rarely nerfs stages but on occasion they decide to make them easier when higher crowned versions of them come out or just for random reasons. Some examples include the nerf of Puffer Planet, the nerf of Growing Strange (which only happened because Lucas the Forth mentioned it to Sean Koble, a former PONOS employee/translator at the 2018 Gamestart PONOS booth in Singapore), and most recently the nerf of Korea, which Lucas suggusts is probably for Risemara players.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Puffer Planet was supposed to be Deadly",
+        "description": "Puffsley's Comet is the only Merciless Advent boss in the Heavenly Tower, and his stage drops a gold Meow Medal like all six Deadly Advents rather than platinum. It seems like the stage was originally intended to be part of the Deadly Advents, but then got pushed up to Merciless last minute.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "The Pure Land w/ continues",
+        "description": "For some reason, The Pure Land wasn't a No Continues stage in its first-ever appearance. This was fixed in the update following its release, but BCEN players had to wait until then before they could get the stage.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Battle Cats gummies and wafers",
+        "description": "Yes, these are a real thing (in Japan), and there are even units based off of them: Gummy Cat and Wafer Cat.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Switch-exclusive cats",
+        "description": "While many of you are surely already aware of the PC version's VIP Ubers and Bun Bun Monger Prototype, the Switch port has its fair share of exclusive units as well - most of which are now unobtainable - Coro Dragon, Beetle Cat, Cat Bros, Pichoan Cat and Leaking Cat.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Emperor Cat's possessor",
+        "description": "The Japanese name for Possessed by Evil is Possessed by the Demon King, which has some serious lore implications.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Real people in Battle Cats",
+        "description": "Real people have been featured as collab and/or serial code cats that you can send off to war like any other cat unit. Besides PIKOTARO, these include PONOS employees Yamaoka Minori and Nakamura Kanae; each of the members of the Japanese rock band Kishidan; and YouTubers Hikakin, Chocolate, Cuckoo Crew, and Hiroshi Mihara.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Chief Peng and Dark Emperor Santa have descriptions",
+        "description": "In The Battle Cats POP! (the watered-down 3DS port), both appear as normal enemies, which means they also have their own Enemy Guide entries.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Emperor Cat was supposed to be in UL",
+        "description": "Not only is he the only Legend Rare Cat or advent boss to have any lore relevance, he's also fought as a Relic enemy, just like Ultimate Mecha-Bun, Dogumaru and Urs. Dark Lord's Decree could easily have been the original name for Possessed by Evil, and putting him in that stage would have made him the ancestral counterpart to Li'l Nyandam.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "The Face in Heads Off",
+        "description": "Heads Off is a game about giant disembodied heads screaming in agony to propel themselves through the air, and one of them is The Face himself.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Bahamut's costume was designed to limit his power",
+        "description": "Regardless of whether it was given to him by the Cat Army or by the Doge Army, it isn't too much of a stretch to assume that his suit was designed specifically to minimize his destructive power. Wouldn't want him causing another apocalypse and all.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Maneki Cat in BCEN",
+        "description": "In 8.6, PONOS added data and even a Cat Guide slot for the BCJP-exclusive Maneki Cat to BCEN, but nothing has ever come of it.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Sliming to Victory is a collab",
+        "description": "With Namesta, a PONOS-developed racing game with slugs and jockeys animated just as hilariously as the Sluggies. I have no idea if the game still exists or not, but don't hold your breath for an English release.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "GirlsMons game",
+        "description": "The Girls & Monsters Ubers were originally from a very short-lived puzzle RPG of the same name. Undead Cat has his roots there as well, so he has a cameo at the very bottom of the Girls & Monsters event's poster.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Gacha Cat's level scaling",
+        "description": "Gacha Cat (the unit) has mediocre stats up until level 30, but gets exponentially stronger once you start using Catseyes on him. No other unit has this quirk.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Kyoto Project",
+        "description": "A defunct tower defense game with a lot of similarities to The Battle Cats, and a lot of differences. PONOS added its protagonist, Kyosaka Nanaho, to The Battle Cats around the time of the game's shutdown.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "Relic enemies are soulless",
+        "description": "Forest magic, elder forest sorcery, uncanny magic, it makes no difference; no matter what you call it, the power with which Emperor Cat became the first ruler of the Cat Empire was the same force that caused him to gradually lose his soul and become a tyrant who turned against his own subjects. We know this because Tyrant Cat's description says the Relic power came at an unseen cost, that being his soul, which would imply that every Relic enemy has or will suffer a similar fate.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
+        "name": "False Resurrection refers to Mecha-Bun's weakened state",
+        "description": "A few stages after False Resurrection is the Laboratory of Relics, where Relic Bun-Bun has been revived as Mecha-Bun by a dark union of Doges. Of course, as anyone who's played An Ancient Curse can attest to, Mecha-Bun is several times easier and less threatening than its original form, hence its revival was a False Resurrection.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 4
+    },
+    {
         "name": "Example entry",
         "description": "Example description. <a href=\"www.google.com\">Example link</a>.",
         "media": "none",
         "mediaType": "image",
-        "tier": 4
+        "tier": 5
     }
 ];

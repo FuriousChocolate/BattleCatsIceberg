@@ -4,6 +4,7 @@ entries.sort(function(a,b) {
     return a.tier - b.tier;
 })
 
+// Gives a warning if the user is on mobile because I'm so bad at css the wesite looks horrible on non PC devices lmao.
 let mode = "computer";
 window.mobileAndTabletCheck = function() {
     let check = false;
@@ -19,6 +20,8 @@ window.onload = function noMobile() {
     } 
 } 
 
+// An array for the button spacing on each tier because I was too lazy to figure out a way to do it with css. Units are in rems.
+const buttonSpacing = [0.07, 0, 0.02, 0.01, 0, 0, 0, 0];
 // creates a clickable text for each entry.
 
 // loops through each tier and adds buttons. 
@@ -29,7 +32,7 @@ for (let tier = 1; tier <= 8; tier++) {
     // Adds each entry to the current tier, only if it is supposed to be there.
     for (let i = 0; i < entries.length; i++) {
         if (entries[i].tier == tier) {
-            innerHTML += "<button class=\"btn btn-primary\" id=\"" + i + "\">" + "<h6 class=\"impact\">" + entries[i].name + "</h6>" + "</button>"
+            innerHTML += "<button style=\"margin: " + buttonSpacing[tier - 1] + "rem;\" class=\"btn btn-primary\" id=\"" + i + "\">" + "<h6 class=\"impact\">" + entries[i].name + "</h6>" + "</button>"
         }
     }
     // Once all the correct entries have been put together, they are put inside the div.
@@ -62,9 +65,9 @@ function changeSelected(id) {
     document.getElementById("entry-description-content").innerHTML = "<h2 style=\"padding-top: 1rem;\">Description</h2><p><h4>" + entries[id].description + "</h4></p>";
     document.getElementById("entry-info").innerHTML = "(Tier: " + entries[id].tier + ") Entry No." + (id + 1) + " - " + entries[id].name
     // Makes the old entry slighlty dimmer.
-    document.getElementById(selectedEntry).style.color = "#cfcfcf";
+    document.getElementById(selectedEntry).style.color = "#ffffff";
     // Makes the selected entry brighter.
-    document.getElementById(id).style.color = "#ffffff";
+    document.getElementById(id).style.color = "#9cc7ff";
     // Updates the selected entry to be the current one.
     selectedEntry = id;
     return;
