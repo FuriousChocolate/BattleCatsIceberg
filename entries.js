@@ -1094,7 +1094,7 @@ export const entries = [
     },
     {
         "name": "Gacha Cat's level scaling",
-        "description": "Gacha Cat (the unit) has mediocre stats up until level 30, but gets exponentially stronger once you start using Catseyes on him. No other unit has this quirk. In the picture above, the left graph is a graph of HP vs. Level for Basic Cat, and the right is HP vs. Level for Gacha Cat.",
+        "description": "Gacha Cat (the unit) has mediocre stats up until level 20, but gets exponentially stronger past that. No other unit has this quirk. In the picture above, the left graph is a graph of HP vs. Level for Basic Cat, and the right is HP vs. Level for Gacha Cat.",
         "media": "GachaCatScaling.png",
         "mediaType": "image",
         "tier": 4
