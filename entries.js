@@ -18,7 +18,7 @@ export const entries = [
     },
     {
         "name": "Nova PRO doesn't make any cats or enemies himself",
-        "description": "Because he only gives credit when introducing a fan-made unit for the first time, a common misconception is that he was the one behind all these characters, which is not true - each and every one of them was made by considerably more talented individuals than Nova, such as <a href=\"https://www.reddit.com/u/ITStumbler/\">u/ITStumbler</a>. He did have some degree of involvement in the Crazed Nekolugas and other recent ones, but otherwise he has not created any units by himself.",
+        "description": "Because he only gives credit when introducing a fan-made unit for the first time, a common misconception is that he was the one behind all these characters, which is not true - each and every one of them was made by considerably more talented individuals than Nova, such as <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/ITStumbler/\">u/ITStumbler</a>. He did have some degree of involvement in the Crazed Nekolugas and other recent ones, but otherwise he has not created any units by himself.",
         "media": "Novapro.jpg",
         "mediaType": "image",
         "tier": 1
@@ -39,14 +39,14 @@ export const entries = [
     },
     {
         "name": "Noob vs PRO vs HACKER",
-        "description": "An infamously awful <a href=\"https://www.youtube.com/watch?v=jn6GTMygGTs\">\"video\"</a> by KuGo, best known for having the \"pro\" use Backhoe Cat, a cat that can only target Metal enemies, in a stage with no Metal enemies whatsoever. Despite its considerable lack of quality, the \"video\" got big enough to spawn both a <a href=\"https://www.youtube.com/watch?v=qHR3gahD3e8\">parody</a> by Lucas IV, which has more effort put into it than the real thing, <a href=\"https://youtu.be/UvErxqN_hj8\">a parody</a> made by Furious Chocolate, and <a href=\"https://youtu.be/jQnP0zo9nZE\">a similarly-titled abomination</a> by Lankybox, which, if you can believe it, is even less watchable than KuGo's.",
+        "description": "An infamously awful <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=jn6GTMygGTs\">\"video\"</a> by KuGo, best known for having the \"pro\" use Backhoe Cat, a cat that can only target Metal enemies, in a stage with no Metal enemies whatsoever. Despite its considerable lack of quality, the \"video\" got big enough to spawn both a <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=qHR3gahD3e8\">parody</a> by Lucas IV, which has more effort put into it than the real thing, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/UvErxqN_hj8\">a parody</a> made by Furious Chocolate, and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/jQnP0zo9nZE\">a similarly-titled abomination</a> by Lankybox, which, if you can believe it, is even less watchable than KuGo's.",
         "media": "NvPvH.jpg",
         "mediaType": "image",
         "tier": 1
     },
     {
         "name": "\"Crazed Nekolugas\" don't exist",
-        "description": "Because he uses them so often throughout his videos but only clarified that they were fan-made when first introducing them, there are a few people who don't realize that <a href=\"https://youtu.be/ODjgR34twsE\">the Crazed Nekolugas used by Nova PRO</a> are entirely unofficial.",
+        "description": "Because he uses them so often throughout his videos but only clarified that they were fan-made when first introducing them, there are a few people who don't realize that <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/ODjgR34twsE\">the Crazed Nekolugas used by Nova PRO</a> are entirely unofficial.",
         "media": "CrazedLugas.png",
         "mediaType": "image",
         "tier": 1
@@ -58,13 +58,15 @@ export const entries = [
         "mediaType": "image",
         "tier": 1
     },
+    /* I removed this one because I made a more comprehensive entry detailing a lot of  BC websites to replace it.
     {
         "name": "Mygamatoto",
-        "description": "<a href=\"https://mygamatoto.com\">Mygamatoto.com</a>, a fan site created by <a href=\"https://www.reddit.com/user/gamatoto\">u/gamatoto</a>, often called the English <a href=\"https://battlecats-db.com/\">Battle Cats DB</a>. Though at first it paled in comparison to its Japanese counterpart, it has since been updated to allow for viewing of enemy stats, basic information about every stage, the top 10 cats for each stat, and tier lists for each Uber set.",
+        "description": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://mygamatoto.com\">Mygamatoto.com</a>, a fan site created by <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/user/gamatoto\">u/gamatoto</a>, often called the English <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battlecats-db.com/\">Battle Cats DB</a>. Though at first it paled in comparison to its Japanese counterpart, it has since been updated to allow for viewing of enemy stats, basic information about every stage, the top 10 cats for each stat, and tier lists for each Uber set.",
         "media": "Mygamatoto.png",
         "mediaType": "image",
         "tier": 1
     },
+    */
     {
         "name": "Battle Cats weekend",
         "description": "During the early months of the COVID-19 pandemic, PONOS would give players a free Leadership every day of every weekend.",
@@ -102,7 +104,7 @@ export const entries = [
     },
     {
         "name": "7",
-        "description": "One of the few Japanese Battle Cats YouTubers popular within the BCEN community, <a href=\"https://www.youtube.com/c/7r_yik\">7 / しち</a> is best known for being one of the fastest YouTubers to showcase new content, posting in-depth unit reviews à la SilumantomCat, and showing players how to do some of the lesser-known cheeses and unconventional strategies.",
+        "description": "One of the few Japanese Battle Cats YouTubers popular within the BCEN community, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/c/7r_yik\">7 / しち</a> is best known for being one of the fastest YouTubers to showcase new content, posting in-depth unit reviews à la SilumantomCat, and showing players how to do some of the lesser-known cheeses and unconventional strategies.",
         "media": "7.png",
         "mediaType": "image",
         "tier": 1
@@ -135,30 +137,34 @@ export const entries = [
         "mediaType": "image",
         "tier": 1
     },
+    /* I removed this one because I made a more comprehensive entry detailing a lot of  BC websites to replace it.
     {
         "name": "Godfat",
-        "description": "<a href=\"https://bc.godfat.org/\">godfat</a> - The premier site for gacha forecasting (seed tracking), named after its creator <a href=\"https://www.reddit.com/u/godfat/\">u/godfat</a>.",
+        "description": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bc.godfat.org/\">godfat</a> - The premier site for gacha forecasting (seed tracking), named after its creator <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/godfat/\">u/godfat</a>.",
         "media": "Godfat.png",
         "mediaType": "image",
         "tier": 1
     },
+    */
     {
         "name": "Power creep",
-        "description": "<a href=\"https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerCreep\">Power creep</a> is the phenomenon that arises when a game is constantly being updated with more and more powerful characters, abilities or items and ways to upgrade them, which inevitably leads to older ones becoming obsolete, challenging stages becoming pushovers - and The Battle Cats is no exception to this. Gacha True Forms tend to be the worst offenders because of how early they can be unlocked; provided you can beat the Catfruit stages, you could have Octopus Cat, Cyberpunk Cat, and other such game breakers fresh out of beating EoC Ch. 3.",
+        "description": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerCreep\">Power creep</a> is the phenomenon that arises when a game is constantly being updated with more and more powerful characters, abilities or items and ways to upgrade them, which inevitably leads to older ones becoming obsolete, challenging stages becoming pushovers - and The Battle Cats is no exception to this. Gacha True Forms tend to be the worst offenders because of how early they can be unlocked; provided you can beat the Catfruit stages, you could have Octopus Cat, Cyberpunk Cat, and other such game breakers fresh out of beating EoC Ch. 3.",
         "media": "none",
         "mediaType": "image",
         "tier": 1
     },
+    /* I removed this one because I made a more comprehensive entry detailing a lot of  BC websites to replace it.
     {
         "name": "The Black Catculator",
-        "description": "When asking how to beat a stage, players will often be asked to list all the units and upgrades they have acquired - something for which not everyone has the patience to do every time they need help. The solution? Giant Google Docs spreadsheets! <a href=\"https://www.reddit.com/r/battlecats/comments/8peerw/off_topic_rate_my_spreadsheet_upgrade/\">Starting out</a> as an upgraded version of an older spreadsheet creator and <a href=\"https://www.reddit.com/r/battlecats/comments/dvv9rq/announcement_spreadsheet_new_black_catculator_v30/\">merged</a> with <a href=\"https://www.reddit.com/r/battlecats/comments/8h4wsj/off_topic_the_catculator/\">the Catculator</a> last year, <a href=\"https://www.reddit.com/r/battlecats/comments/8h4wsj/off_topic_the_catculator/\">the Black Catculator</a> is a labor of love painstakingly codeveloped by <a href=\"https://www.reddit.com/user/Noxisblack\">u/Noxisblack</a>, <a href=\"https://www.reddit.com/user/ivwaurt\">u/ivwaurt</a> and <a href=\"https://www.reddit.com/user/NASnowy\">u/NASnowy</a>. With potential to track every detail of your progress that could possibly affect a strategy, it is truly the height of Battle Cats spreadsheet-making technology.",
+        "description": "When asking how to beat a stage, players will often be asked to list all the units and upgrades they have acquired - something for which not everyone has the patience to do every time they need help. The solution? Giant Google Docs spreadsheets! <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/8peerw/off_topic_rate_my_spreadsheet_upgrade/\">Starting out</a> as an upgraded version of an older spreadsheet creator and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/dvv9rq/announcement_spreadsheet_new_black_catculator_v30/\">merged</a> with <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/8h4wsj/off_topic_the_catculator/\">the Catculator</a> last year, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/8h4wsj/off_topic_the_catculator/\">the Black Catculator</a> is a labor of love painstakingly codeveloped by <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/user/Noxisblack\">u/Noxisblack</a>, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/user/ivwaurt\">u/ivwaurt</a> and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/user/NASnowy\">u/NASnowy</a>. With potential to track every detail of your progress that could possibly affect a strategy, it is truly the height of Battle Cats spreadsheet-making technology.",
         "media": "BlackCalculator.png",
         "mediaType": "image",
         "tier": 1
     },
+    */
     {
         "name": "Ponos didn't create legned helpers",
-        "description": "A little while <em>before</em> PONOS released legend helpers into the game, <a href=\"https://www.reddit.com/r/battlecats/comments/hkudjv/fanmade_i_made_a_gamatoto_helper_that_is_rarer/\">a fan made version</a> was posted on reddit that has a striking resemblance to the offical ones that came out after it. Coincidence? Believe what you want.",
+        "description": "A little while <em>before</em> PONOS released legend helpers into the game, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/hkudjv/fanmade_i_made_a_gamatoto_helper_that_is_rarer/\">a fan made version</a> was posted on reddit that has a striking resemblance to the offical ones that came out after it. Coincidence? Believe what you want.",
         "media": "LegendHelper.png",
         "mediaType": "image",
         "tier": 4
@@ -305,7 +311,7 @@ export const entries = [
     },
     {
         "name": "Ultra Souls are based on Japanese folktales",
-        "description": "The Uber Rare ones, anyway; Ushiwakamaru is based on <a href=\"https://en.wikipedia.org/wiki/Minamoto_no_Yoshitsune\">a real person</a> who inspired and appears in many legends. The first seven Ultra Souls' origins are explained in detail in <a href=\"https://www.reddit.com/u/TheSupremeLordofPi/\">u/TheSupremeLordofPi</a>'s post \"<a href=\"https://www.reddit.com/r/battlecats/comments/ai052t/cats_the_japanese_legends_behind_the_ultra_souls/\">The Japanese Legends behind the Ultra Souls (improved)</a>\". As for Kintaro, who didn't exist when that post was made, his design is a textbook description of <a href=\"https://en.wikipedia.org/wiki/Kintar%C5%8D\">Kintarō</a>, and Kinrangers RoboForce brings in his animal friends.",
+        "description": "The Uber Rare ones, anyway; Ushiwakamaru is based on <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://en.wikipedia.org/wiki/Minamoto_no_Yoshitsune\">a real person</a> who inspired and appears in many legends. The first seven Ultra Souls' origins are explained in detail in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/TheSupremeLordofPi/\">u/TheSupremeLordofPi</a>'s post \"<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/ai052t/cats_the_japanese_legends_behind_the_ultra_souls/\">The Japanese Legends behind the Ultra Souls (improved)</a>\". As for Kintaro, who didn't exist when that post was made, his design is a textbook description of <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://en.wikipedia.org/wiki/Kintar%C5%8D\">Kintarō</a>, and Kinrangers RoboForce brings in his animal friends.",
         "media": "UltraSouls.jpg",
         "mediaType": "image",
         "tier": 2
@@ -319,7 +325,7 @@ export const entries = [
     },
     {
         "name": "Ferrari esports partnership",
-        "description": "For some weird reason, <a href=\"https://www.ponos.jp/news/2021/07/13/\">ponos partnered with Ferrari Esports.</a>",
+        "description": "For some weird reason, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.ponos.jp/news/2021/07/13/\">ponos partnered with Ferrari Esports.</a>",
         "media": "BattleCatsCar.jpg",
         "mediaType": "image",
         "tier": 2
@@ -333,14 +339,14 @@ export const entries = [
     },
     {
         "name": "One Lineup SoL",
-        "description": "A group project between several Battle Cats YouTubers to beat all of SoL with only 10 different units. This challenge has been completed three times: <a href=\"https://www.youtube.com/watch?v=u78rFeKMA2E\">once with no restrictions</a>, <a href=\"https://www.youtube.com/watch?v=iC3Nz-TirTQ\">once without Ubers</a>, <a href=\"https://youtu.be/besbNdYdpO4\">once with only 3 units</a>, and finally <a href=\"https://www.youtube.com/watch?v=aaZg0b2WLEE\">once with 4-star restrictions</a>. The first discussion surrounding the idea of a \"One Lineup SoL\" on r/battlecats was started by <a href=\"https://www.reddit.com/u/deltalaser99/\">u/deltalaser99</a>.",
+        "description": "A group project between several Battle Cats YouTubers to beat all of SoL with only 10 different units. This challenge has been completed three times: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=u78rFeKMA2E\">once with no restrictions</a>, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=iC3Nz-TirTQ\">once without Ubers</a>, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/besbNdYdpO4\">once with only 3 units</a>, and finally <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=aaZg0b2WLEE\">once with 4-star restrictions</a>. The first discussion surrounding the idea of a \"One Lineup SoL\" on r/battlecats was started by <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/deltalaser99/\">u/deltalaser99</a>.",
         "media": "1LineupSoL.png",
         "mediaType": "image",
         "tier": 2
     },
     {
         "name": "\"Special\" Mitama",
-        "description": "An OC designed by <a href=\"https://www.reddit.com/u/pokemondogod/\">u/pokemondogod</a>, a failed clone of Mitama, and the unofficial mascot of r/battlecats. As you can see, she looks almost the same as the original, but with <a href=\"https://www.reddit.com/r/battlecats/comments/hqfen2/fluff_what_can_she_do_and_other_miko_mitamas_cant/\">a</a> <a href=\"https://www.reddit.com/r/battlecats/comments/hswu9z/fluff_what_can_she_do_and_other_miko_mitamas_cant/\">few</a> <a href=\"https://www.reddit.com/r/battlecats/comments/ijw8y3/fluff_heres_special_mitamas_full_body_in_case_you/\">minor</a> <a href=\"https://www.reddit.com/r/battlecats/comments/iwzd1z/fluff_if_you_remembered_special_mitama_is/\">differences</a> here and there. <a href=\"https://www.reddit.com/r/battlecats/comments/hpamxa/fluff_when_people_asked_me_to_draw_mitama_the/\">Here</a> is her first appearance on r/battlecats, and <a href=\"https://www.reddit.com/r/battlecats/comments/hprocc/fluff_never_draw_miko_mitama_before_so_i_decided/\">this</a> is what she looked like before attaining her Oracle form.",
+        "description": "An OC designed by <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/pokemondogod/\">u/pokemondogod</a>, a failed clone of Mitama, and the unofficial mascot of r/battlecats. As you can see, she looks almost the same as the original, but with <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/hqfen2/fluff_what_can_she_do_and_other_miko_mitamas_cant/\">a</a> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/hswu9z/fluff_what_can_she_do_and_other_miko_mitamas_cant/\">few</a> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/ijw8y3/fluff_heres_special_mitamas_full_body_in_case_you/\">minor</a> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/iwzd1z/fluff_if_you_remembered_special_mitama_is/\">differences</a> here and there. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/hpamxa/fluff_when_people_asked_me_to_draw_mitama_the/\">Here</a> is her first appearance on r/battlecats, and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/hprocc/fluff_never_draw_miko_mitama_before_so_i_decided/\">this</a> is what she looked like before attaining her Oracle form.",
         "media": "SpecialMitama.png",
         "mediaType": "image",
         "tier": 2
@@ -354,7 +360,7 @@ export const entries = [
     },
     {
         "name": "PONOS URLs",
-        "description": "The url where ponos servers are located is known to the public, but getting data from them is not that simple... The key to unlocking <a href=\"https://www.reddit.com/r/battlecats/wiki/ponos_urls\">the encyption behind ponos' data</a> is known only to a select few members of the battle cats community, known as \"dataminers\".",
+        "description": "The url where ponos servers are located is known to the public, but getting data from them is not that simple... The key to unlocking <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/wiki/ponos_urls\">the encyption behind ponos' data</a> is known only to a select few members of the battle cats community, known as \"dataminers\".",
         "media": "PonosURLs.png",
         "mediaType": "image",
         "tier": 2
@@ -368,21 +374,21 @@ export const entries = [
     },
     {
         "name": "Layering",
-        "description": "Lucas IV made <a href=\"https://www.youtube.com/watch?v=UDBdbD9IF-s\">a whole video</a> about this mechanic, explaining it better than I ever could, but in short, a unit's \"layer\" determines how offset it is from a normal unit path, so that it can be differentiated from the other units around it. As you can see in the image above, lolicats are coded to always be on the same layer, while mr. has normal layer spawning, which is why you can see multiple shadows slightly up and down from eachother in the same spot.",
+        "description": "Lucas IV made <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=UDBdbD9IF-s\">a whole video</a> about this mechanic, explaining it better than I ever could, but in short, a unit's \"layer\" determines how offset it is from a normal unit path, so that it can be differentiated from the other units around it. As you can see in the image above, lolicats are coded to always be on the same layer, while mr. has normal layer spawning, which is why you can see multiple shadows slightly up and down from eachother in the same spot.",
         "media": "Layering.png",
         "mediaType": "image",
         "tier": 2
     },
     {
         "name": "Jizo demoted to S-tier",
-        "description": "Long ago, the SS-tier Ubers of the BCEN tier list lived in harmony, originally only consisting of Kasa Jizo and Miko Mitama. But <a href=\"https://www.youtube.com/watch?v=uprW5mkQe7w\">everything changed</a> on October 24th, 2020.",
+        "description": "Long ago, the SS-tier Ubers of the BCEN tier list lived in harmony, originally only consisting of Kasa Jizo and Miko Mitama. But <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=uprW5mkQe7w\">everything changed</a> on October 24th, 2020.",
         "media": "NoooooJizooooo.png",
         "mediaType": "image",
         "tier": 2
     },
     {
         "name": "SarothCyngus' chiptunes",
-        "description": "<a href=\"https://www.youtube.com/channel/UCtdiO7Y3rpiEhQCYcJsa2-Q\">SarothCyngus</a> has a whole <a href=\"https://youtube.com/playlist?list=PLlPQ7ILgUJ5w-eqHetAWWaLxa4ojPJKhq\">playlist</a>'s worth of Battle Cats songs recreated as chiptune arrangements, along with some completely original tunes designed for each of the advent bosses. He doesn't get much recognition despite his outstanding talent, so give them a listen when you have time, okay?",
+        "description": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/channel/UCtdiO7Y3rpiEhQCYcJsa2-Q\">SarothCyngus</a> has a whole <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtube.com/playlist?list=PLlPQ7ILgUJ5w-eqHetAWWaLxa4ojPJKhq\">playlist</a>'s worth of Battle Cats songs recreated as chiptune arrangements, along with some completely original tunes designed for each of the advent bosses. He doesn't get much recognition despite his outstanding talent, so give them a listen when you have time, okay?",
         "media": "Chiptunes.png",
         "mediaType": "image",
         "tier": 2
@@ -403,7 +409,7 @@ export const entries = [
     },
     {
         "name": "Tales of the Glitchluga",
-        "description": "It just wouldn't be April Fools' Day without Lucas IV posting a top-tier Battle Cats meme video to mark the occasion. His video for 2021, <a href=\"https://www.youtube.com/watch?v=pqNCcGVG9LI\">Tales of the Glitchluga</a>, is a must-watch for sure, so I won't spoil it for you.",
+        "description": "It just wouldn't be April Fools' Day without Lucas IV posting a top-tier Battle Cats meme video to mark the occasion. His video for 2021, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=pqNCcGVG9LI\">Tales of the Glitchluga</a>, is a must-watch for sure, so I won't spoil it for you.",
         "media": "Glitchlugas.png",
         "mediaType": "image",
         "tier": 2
@@ -529,7 +535,7 @@ export const entries = [
     },
     {
         "name": "W",
-        "description": "The BCJP-exclusive <a href=\"https://battle-cats.fandom.com/wiki/Nico_Training_Yawame\">second Dojo stage</a> features literal Ws as enemies.",
+        "description": "The BCJP-exclusive <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battle-cats.fandom.com/wiki/Nico_Training_Yawame\">second Dojo stage</a> features literal Ws as enemies. In japan the character \"w\" is used to represent laughter, so if this were ever translated to English (Which probably won't ever happen), they would be replaced with \"ha\" so that when a lot of them come out of the base at once it would form \"hahahahahahaha\"",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/k62Bj_EteDU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
         "tier": 2
@@ -599,7 +605,7 @@ export const entries = [
     },
     {
         "name": "Undead Cat",
-        "description": "A character from the defunct puzzle RPG GirlsMons, immortalized as a BCJP-exclusive Special Cat that is unlocked by clicking a hidden <a href=\"https://ponos.s3.amazonaws.com/information/appli/battlecats/news/girlsmons_charaget.html\">URL</a> (found in the Help menu IIRC).",
+        "description": "A character from the defunct puzzle RPG GirlsMons, immortalized as a BCJP-exclusive Special Cat that is unlocked by clicking a hidden <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ponos.s3.amazonaws.com/information/appli/battlecats/news/girlsmons_charaget.html\">URL</a> (found in the Help menu IIRC).",
         "media": "UndeadCat.webp",
         "mediaType": "image",
         "tier": 3
@@ -662,7 +668,7 @@ export const entries = [
     },
     {
         "name": "r/battlecatscomics",
-        "description": "A small subreddit for posting battle cats comics. Visit it <a href=\"https://www.reddit.com/r/battlecatscomics/\">here</a>.",
+        "description": "A small subreddit for posting battle cats comics. Visit it <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecatscomics/\">here</a>.",
         "media": "BCComics.png",
         "mediaType": "image",
         "tier": 3
@@ -697,7 +703,7 @@ export const entries = [
     },
     {
         "name": "\"Mr.\" games",
-        "description": "True to his descriptions, Mr. was the star of his own mobile game series before being added to The Battle Cats. Some of his games included <a href=\"https://www.youtube.com/watch?v=bff97aiPMHM\">Mr.Oops!!</a>, <a href=\"https://www.youtube.com/watch?v=phndpuyHgzo\">Mr.AahH!!</a> and <a href=\"https://www.youtube.com/watch?v=9nojWrkolk4\">Mr.NooO!!</a>; none of them can be downloaded anymore.",
+        "description": "True to his descriptions, Mr. was the star of his own mobile game series before being added to The Battle Cats. Some of his games included <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=bff97aiPMHM\">Mr.Oops!!</a>, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=phndpuyHgzo\">Mr.AahH!!</a> and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=9nojWrkolk4\">Mr.NooO!!</a>; none of them can be downloaded anymore.",
         "media": "MrAahh.webp",
         "mediaType": "image",
         "tier": 3
@@ -746,7 +752,7 @@ export const entries = [
     },
     {
         "name": "The Demon King",
-        "description": "A mysterious entity sealed away(?) by Master Uril(?), allegedly a threat to the entire world. Read more about it <a href=\"https://www.reddit.com/r/battlecats/comments/mw5c5z/battle_cats_lore_theory_2_the_demon_king_part_2/\">here</a> or <a href=\"https://www.reddit.com/r/battlecats/comments/mcc5qi/discussion_the_lore_of_emperor_cat_and_the_demon/\">here</a>.",
+        "description": "A mysterious entity sealed away(?) by Master Uril(?), allegedly a threat to the entire world. Read more about it <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/mw5c5z/battle_cats_lore_theory_2_the_demon_king_part_2/\">here</a> or <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/mcc5qi/discussion_the_lore_of_emperor_cat_and_the_demon/\">here</a>.",
         "media": "none",
         "mediaType": "image",
         "tier": 3
@@ -886,14 +892,14 @@ export const entries = [
     },
     {
         "name": "\"Swallowed\" D'artanyan",
-        "description": " Another creation of <a href=\"https://www.reddit.com/u/Pokemondogod/\">u/Pokemondogod</a>'s. Looked much the same as the normal D'artanyan in his <a href=\"https://www.reddit.com/r/battlecats/comments/ikgs2e/fluff_he_beckons_for_soundsmeet_swallowed/\">first appearance</a>, and even more so <a href=\"https://www.reddit.com/r/battlecats/comments/ioq5gw/fluff_swallowed_dart_before_he_becameswallowed/\">before he became swallowed</a>.",
+        "description": " Another creation of <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/Pokemondogod/\">u/Pokemondogod</a>'s. Looked much the same as the normal D'artanyan in his <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/ikgs2e/fluff_he_beckons_for_soundsmeet_swallowed/\">first appearance</a>, and even more so <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/ioq5gw/fluff_swallowed_dart_before_he_becameswallowed/\">before he became swallowed</a>.",
         "media": "SwallowedDart.webp",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "There are three Cat Bros",
-        "description": "There are 3 different units with the name cat bros: <a href=\"https://battle-cats.fandom.com/wiki/Cat_Bros_(Special_Cat)\">a serial code cat repurposed for a 2017 social media campaign</a>, <a href=\"https://battle-cats.fandom.com/wiki/Cat_Bros_(Rare_Cat)#Cat_Bros\">a Traitless-resistant meatshield obtainable from a Battle Cats Together! promotional stage in BCJP</a>, and <a href=\"https://battle-cats.fandom.com/wiki/Cat_Bros_(Switch_Special_Cat)#Cat_Bros\">a Battle Cats Together!-exclusive unit with no abilities</a>.",
+        "description": "There are 3 different units with the name cat bros: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battle-cats.fandom.com/wiki/Cat_Bros_(Special_Cat)\">a serial code cat repurposed for a 2017 social media campaign</a>, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battle-cats.fandom.com/wiki/Cat_Bros_(Rare_Cat)#Cat_Bros\">a Traitless-resistant meatshield obtainable from a Battle Cats Together! promotional stage in BCJP</a>, and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battle-cats.fandom.com/wiki/Cat_Bros_(Switch_Special_Cat)#Cat_Bros\">a Battle Cats Together!-exclusive unit with no abilities</a>.",
         "media": "CatBros.png",
         "mediaType": "image",
         "tier": 4
@@ -907,7 +913,7 @@ export const entries = [
     },
     {
         "name": "TGCW",
-        "description": "<a href=\"https://www.reddit.com/r/battlecats/comments/l4mx64/fan_made_tgcw_19_ftless_fat_cats/\">The Great Cat War (TGCW)</a> is a Pokémon FireRed rom hack made by <a href=\"https://www.reddit.com/u/AnakinBahmoot/\">u/AnakinBahmoot</a>, its <a href=\"https://www.reddit.com/r/battlecats/comments/70cpnq/fanmade_tgcw_is_out/\">initial release</a> dating back to September 15, 2017. It still gets updates every now and then, and has its own (dead) subreddit at <a href=\"https://www.reddit.com/r/TheGreatCatWar/\">r/TheGreatCatWar</a>.",
+        "description": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/l4mx64/fan_made_tgcw_19_ftless_fat_cats/\">The Great Cat War (TGCW)</a> is a Pokémon FireRed rom hack made by <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/AnakinBahmoot/\">u/AnakinBahmoot</a>, its <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/70cpnq/fanmade_tgcw_is_out/\">initial release</a> dating back to September 15, 2017. It still gets updates every now and then, and has its own (dead) subreddit at <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/TheGreatCatWar/\">r/TheGreatCatWar</a>.",
         "media": "TGCW.png",
         "mediaType": "image",
         "tier": 4
@@ -942,7 +948,7 @@ export const entries = [
     },
     {
         "name": "Apisa",
-        "description": "One of the first fan-made enemies to actually be fightable. Created by <a href=\"https://www.reddit.com/u/dankerlordx/\">u/dankerlordx</a> and showcased by Tesalan Pasalan, Apisa was an ancient aphid before it was cool.",
+        "description": "One of the first fan-made enemies to actually be fightable. Created by <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/dankerlordx/\">u/dankerlordx</a> and showcased by Tesalan Pasalan, Apisa was an ancient aphid before it was cool.",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RzM13JZhJCE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
         "tier": 4
@@ -978,7 +984,7 @@ export const entries = [
     {
         "name": "Satan Claus has no English name",
         "description": "The English event info for Christmas in Space doesn't give the Alien Santa Nyandam a name, so the closest thing available is his Japanese name, Satan Claus.",
-        "media": "none",
+        "media": "SatanClaus.gif",
         "mediaType": "image",
         "tier": 4
     },
@@ -992,7 +998,7 @@ export const entries = [
     {
         "name": "Nerfed Stages",
         "description": "Ponos rarely nerfs stages but on occasion they decide to make them easier when higher crowned versions of them come out or just for random reasons. Some examples include the nerf of Puffer Planet, the nerf of Growing Strange (which only happened because Lucas the Forth mentioned it to Sean Koble, a former PONOS employee/translator at the 2018 Gamestart PONOS booth in Singapore), and most recently the nerf of Korea, which Lucas suggusts is probably for Risemara players.",
-        "media": "none",
+        "media": "KoreaNerf.png",
         "mediaType": "image",
         "tier": 4
     },
@@ -1116,8 +1122,15 @@ export const entries = [
         "tier": 4
     },
     {
+        "name": "Battle cats websites",
+        "description": "There are <em>tons</em> of websites created by the community to help battle cats players with various things. Here is a list of just a few of them: <ul><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://clamchowder.pythonanywhere.com/static/update.html\">Clamchowder's website</a> for automatically datamining info on the latest update.</li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battlecats-db.com/\">\"Spica\"</a>, also known as the battle cats database. A site with info about all sorts of cats, stages, enemies, and more!</li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battle-cats.fandom.com/wiki/Battle_Cats_Wiki\">The battle cats wiki</a>, a website for everything you could want to know about The Battle Cats. Often known for having info that isn't 100% trustable or reliable, especially for strategies and non-factual information, but still an overall very useful resource for people looking to know more about The Battle Cats.</li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\" https://thanksfeanor.pythonanywhere.com/UDP\">The Uber description project (UDP)</a> is a website created by ThanksFëanor to document the usefulness of all Ubers and what scenarios they might work best in, if at all. It has a lot of work put into it and a lot of people spent a lot of time writing info for it, so I recommend you check it out!</li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://thanksfeanor.pythonanywhere.com/black-catculator\">The Black Calculator</a> is a website (technically just a really advanced google spreadsheet) that is designed so that a Battle Cats player would be able to create a copy of it and input all of their unit, treasure, and progress info into it so that they wouldn't have to constantly post screenshots of their ubers or other things when asking for help. I haven't looked into it too much so it probably has a lot more features than what I just described, and it is an overall very useful tool.</li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://alcantha.github.io/cat_combo_viewer/\">The Catcombo Viewer</a> Pretty self explanatory. The ultimate website for all things Catcombo.</li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://clamchowder.pythonanywhere.com/missions.html\">The Monthly Mission Finder</a> is a website that helps you find the most efficient way to do your monthly missions and help you get the most XP possible while simultaneously spending the least energy.</li></li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bc.godfat.org/help\">Battle Cats Rolls</a>, a website to \"track\" your gacha rolls and see what units you will get next. I <b>strongly</b> discourage anyone from using this site as I beleive it ruins the fun of the game, but I had to leave it in this list because I valued an ultimate comprehensive iceberg above all else.</li></ul>",
+        "media": "Spica.png",
+        "mediaType": "image",
+        "tier": 2
+    },
+    {
         "name": "Example entry",
-        "description": "Example description. <a href=\"www.google.com\">Example link</a>.",
+        "description": "Example description. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"www.google.com\">Example link</a>.",
         "media": "none",
         "mediaType": "image",
         "tier": 5
