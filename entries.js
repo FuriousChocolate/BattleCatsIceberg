@@ -1,4 +1,3 @@
-
 export const entries = [
     {
         "name": "Official user surveys",
@@ -991,7 +990,7 @@ export const entries = [
     {
         "name": "The Cat and Doge Armies used to be allies",
         "description": " Implied by Doguemon's description (\"...this was created by ancient Cats then sold to Doges for use as flowerbed decorations.\"), which would otherwise mean that the original Cat Army sent gifts to their own enemies.",
-        "media": "none",
+        "media": "Allies.png",
         "mediaType": "image",
         "tier": 4
     },
@@ -1005,49 +1004,49 @@ export const entries = [
     {
         "name": "Puffer Planet was supposed to be Deadly",
         "description": "Puffsley's Comet is the only Merciless Advent boss in the Heavenly Tower, and his stage drops a gold Meow Medal like all six Deadly Advents rather than platinum. It seems like the stage was originally intended to be part of the Deadly Advents, but then got pushed up to Merciless last minute.",
-        "media": "none",
+        "media": "PufferDeadly.png",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "The Pure Land w/ continues",
-        "description": "For some reason, The Pure Land wasn't a No Continues stage in its first-ever appearance. This was fixed in the update following its release, but BCEN players had to wait until then before they could get the stage.",
-        "media": "none",
-        "mediaType": "image",
+        "description": "For some reason, The Pure Land wasn't a No Continues stage in its first-ever appearance. This was fixed in the update following its release, but BCEN players had to wait until then before they could get the stage. As you can see in the video above, there is no flashing text in the corner of the stage name when the player is first entering.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0rA4i_5jLG4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
         "tier": 4
     },
     {
         "name": "Battle Cats gummies and wafers",
         "description": "Yes, these are a real thing (in Japan), and there are even units based off of them: Gummy Cat and Wafer Cat.",
-        "media": "none",
+        "media": "Wafers.jpg",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "Switch-exclusive cats",
         "description": "While many of you are surely already aware of the PC version's VIP Ubers and Bun Bun Monger Prototype, the Switch port has its fair share of exclusive units as well - most of which are now unobtainable - Coro Dragon, Beetle Cat, Cat Bros, Pichoan Cat and Leaking Cat.",
-        "media": "none",
+        "media": "LeakingCat.webp",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "Emperor Cat's possessor",
         "description": "The Japanese name for Possessed by Evil is Possessed by the Demon King, which has some serious lore implications.",
-        "media": "none",
+        "media": "PosessedByTheDemonKing.png",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "Real people in Battle Cats",
         "description": "Real people have been featured as collab and/or serial code cats that you can send off to war like any other cat unit. Besides PIKOTARO, these include PONOS employees Yamaoka Minori and Nakamura Kanae; each of the members of the Japanese rock band Kishidan; and YouTubers Hikakin, Chocolate, Cuckoo Crew, and Hiroshi Mihara.",
-        "media": "none",
+        "media": "IRLCollab.gif",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "Chief Peng and Dark Emperor Santa have descriptions",
         "description": "In The Battle Cats POP! (the watered-down 3DS port), both appear as normal enemies, which means they also have their own Enemy Guide entries.",
-        "media": "none",
+        "media": "DarkEmperorSanta.webp",
         "mediaType": "image",
         "tier": 4
     },
@@ -1061,52 +1060,53 @@ export const entries = [
     {
         "name": "The Face in Heads Off",
         "description": "Heads Off is a game about giant disembodied heads screaming in agony to propel themselves through the air, and one of them is The Face himself.",
-        "media": "none",
+        "media": "TheFace.jpg",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "Bahamut's costume was designed to limit his power",
         "description": "Regardless of whether it was given to him by the Cat Army or by the Doge Army, it isn't too much of a stretch to assume that his suit was designed specifically to minimize his destructive power. Wouldn't want him causing another apocalypse and all.",
-        "media": "none",
+        "media": "BahamutSuit.png",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "Maneki Cat in BCEN",
         "description": "In 8.6, PONOS added data and even a Cat Guide slot for the BCJP-exclusive Maneki Cat to BCEN, but nothing has ever come of it.",
-        "media": "none",
+        "media": "ManekiSlot.png",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "Sliming to Victory is a collab",
         "description": "With Namesta, a PONOS-developed racing game with slugs and jockeys animated just as hilariously as the Sluggies. I have no idea if the game still exists or not, but don't hold your breath for an English release.",
-        "media": "none",
-        "mediaType": "image",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/p-enMNLkePQ\" title\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
         "tier": 4
     },
     {
         "name": "GirlsMons game",
         "description": "The Girls & Monsters Ubers were originally from a very short-lived puzzle RPG of the same name. Undead Cat has his roots there as well, so he has a cameo at the very bottom of the Girls & Monsters event's poster.",
-        "media": "none",
+        "media": "GirlsNMons.png",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "Gacha Cat's level scaling",
-        "description": "Gacha Cat (the unit) has mediocre stats up until level 30, but gets exponentially stronger once you start using Catseyes on him. No other unit has this quirk.",
-        "media": "none",
+        "description": "Gacha Cat (the unit) has mediocre stats up until level 30, but gets exponentially stronger once you start using Catseyes on him. No other unit has this quirk. In the picture above, the left graph is a graph of HP vs. Level for Basic Cat, and the right is HP vs. Level for Gacha Cat.",
+        "media": "GachaCatScaling.png",
         "mediaType": "image",
         "tier": 4
     },
     {
         "name": "Kyoto Project",
         "description": "A defunct tower defense game with a lot of similarities to The Battle Cats, and a lot of differences. PONOS added its protagonist, Kyosaka Nanaho, to The Battle Cats around the time of the game's shutdown.",
-        "media": "none",
-        "mediaType": "image",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6RJdZMe-V5M\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
         "tier": 4
     },
+    /* Commented this one out for now since new information has determined that it isn't true.
     {
         "name": "Relic enemies are soulless",
         "description": "Forest magic, elder forest sorcery, uncanny magic, it makes no difference; no matter what you call it, the power with which Emperor Cat became the first ruler of the Cat Empire was the same force that caused him to gradually lose his soul and become a tyrant who turned against his own subjects. We know this because Tyrant Cat's description says the Relic power came at an unseen cost, that being his soul, which would imply that every Relic enemy has or will suffer a similar fate.",
@@ -1114,10 +1114,11 @@ export const entries = [
         "mediaType": "image",
         "tier": 4
     },
+    */
     {
         "name": "False Resurrection refers to Mecha-Bun's weakened state",
         "description": "A few stages after False Resurrection is the Laboratory of Relics, where Relic Bun-Bun has been revived as Mecha-Bun by a dark union of Doges. Of course, as anyone who's played An Ancient Curse can attest to, Mecha-Bun is several times easier and less threatening than its original form, hence its revival was a False Resurrection.",
-        "media": "none",
+        "media": "MechaBun.gif",
         "mediaType": "image",
         "tier": 4
     },
