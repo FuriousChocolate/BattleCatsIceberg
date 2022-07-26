@@ -535,7 +535,7 @@ export const entries = [
     },
     {
         "name": "W",
-        "description": "The BCJP-exclusive <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battle-cats.fandom.com/wiki/Nico_Training_Yawame\">second Dojo stage</a> features literal Ws as enemies. In japan the character \"w\" is used to represent laughter, so if this were ever translated to English (Which probably won't ever happen), they would be replaced with \"ha\" so that when a lot of them come out of the base at once it would form \"hahahahahahaha\"",
+        "description": "The BCJP-exclusive <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battle-cats.fandom.com/wiki/Nico_Training_Yawame\">second Dojo stage</a> features literal Ws as enemies. In Japan the character \"w\" is used to represent laughter, so if this were ever translated to English (Which probably won't ever happen), they would be replaced with \"ha\" so that when a lot of them come out of the base at once it would form \"hahahahahahaha\"",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/k62Bj_EteDU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
         "tier": 2
