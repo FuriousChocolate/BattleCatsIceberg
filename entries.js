@@ -282,7 +282,7 @@ export const entries = [
     },
     {
         "name": "Togelan Pasalan's gender",
-        "description": "A subject of many debates, as his description in his Uber set's info page says, \"...gets stronger as <em>she</em> takes damage,\" while the rest of her descriptions say, \"...gets stronger the more damage <em>he</em> takes.\"",
+        "description": "A subject of many debates, as his description in his Uber set's info page says, \"<i>...gets stronger as <u>she</u> takes damage</i>\", while the rest of her descriptions say, \"<i>...gets stronger the more damage <u>he</u> takes.</i>\"",
         "media": "Togelan.webp",
         "mediaType": "image",
         "tier": 1
@@ -989,7 +989,7 @@ export const entries = [
     },
     {
         "name": "The Cat and Doge Armies used to be allies",
-        "description": " Implied by Doguemon's description (\"...this was created by ancient Cats then sold to Doges for use as flowerbed decorations.\"), which would otherwise mean that the original Cat Army sent gifts to their own enemies.",
+        "description": " Implied by Doguemon's description (\"<i>...this was created by ancient Cats then sold to Doges for use as flowerbed decorations.</i>\"), which would otherwise mean that the original Cat Army sent gifts to their own enemies.",
         "media": "Allies.png",
         "mediaType": "image",
         "tier": 4
@@ -1128,6 +1128,41 @@ export const entries = [
         "media": "Spica.png",
         "mediaType": "image",
         "tier": 2
+    },
+    {
+        "name": "There are two versions of Sliming to Victory and A Cultured Festival",
+        "description": "Slug Jockey Cat wasn't in <a href=\"https://battlecats-db.com/stage/s01142.html\">the first Sliming to Victory event</a>, and the first two Cultured Festivals lacked any Lucky Ticket drops. When the rewards were updated, PONOS created <a href=\"https://battlecats-db.com/stage/s01164.html\">new maps</a> instead of updating the old ones, which still exist but will never be seen again.",
+        "media": "Slug.gif",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "The Physical Cats",
+        "description": "The most popular video by Yo-kai Watch/Battle Cats YouTuber <a href=\"https://www.youtube.com/channel/UCdUGq6NAeAW2QGGBIp0qwNA\">しのぶ/shinobu789</a>, who modded the game to have a physics engine. Needless to say, things got weird.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/k2mxkAHIP4I\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 5
+    },
+    {
+        "name": "Froggo",
+        "description": "Before Croakley had an English name, some members of the community knew him by the unofficial nickname of \"Froggo\". Fell out of use once BCEN 6.3 was released, but it survives through a <a href=\"https://www.youtube.com/watch?v=63n88owup4k\">video</a> by Anwar 04, as well as <a href=\"https://www.youtube.com/watch?v=zH4NavUm4kA\">a Nurse Wuffa video</a>.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/63n88owup4k\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 5
+    },
+    {
+        "name": "Relics molt",
+        "description": "A disgusting yet plausible explanation to why their skin/fur appears to be deteriorating - a design trend most apparent with Oldhorn, Lowkey, and Loris. Could you imagine shedding your skin and continuing to wear part of the old one as a mask? In Loris' EN description, it states that \"<i>.. it's actually just what his eyes look like... Weird how he can throw them like that. Relics, amirite?</i>\" which would further suggust that Loris is \"shedding\" it's eyes and throwing them at the enemy.",
+        "media": "Loris.gif",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Ballistik Wars collab",
+        "description": "Back in August of 2019, u/JonesHtog posted what was supposedly <a href=\"https://www.reddit.com/r/battlecats/comments/cn55q3/bcen_crossover_announcement_ballistic_wars_x_the/\">a hidden announcement image</a> for a BCEN-exclusive Ballistik Wars collab. After 2 days, it was <a href=\"https://www.reddit.com/r/battlecats/comments/cnulvh/bcen_ballistik_wars_be_fake/\">revealed to be fake</a> by u/frostfiresoul, who helped to create the image.",
+        "media": "BallisticWars.webp",
+        "mediaType": "image",
+        "tier": 5
     },
     {
         "name": "Example entry",
