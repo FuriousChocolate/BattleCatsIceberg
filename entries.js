@@ -1131,21 +1131,21 @@ export const entries = [
     },
     {
         "name": "There are two versions of Sliming to Victory and A Cultured Festival",
-        "description": "Slug Jockey Cat wasn't in <a href=\"https://battlecats-db.com/stage/s01142.html\">the first Sliming to Victory event</a>, and the first two Cultured Festivals lacked any Lucky Ticket drops. When the rewards were updated, PONOS created <a href=\"https://battlecats-db.com/stage/s01164.html\">new maps</a> instead of updating the old ones, which still exist but will never be seen again.",
+        "description": "Slug Jockey Cat wasn't in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battlecats-db.com/stage/s01142.html\">the first Sliming to Victory event</a>, and the first two Cultured Festivals lacked any Lucky Ticket drops. When the rewards were updated, PONOS created <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battlecats-db.com/stage/s01164.html\">new maps</a> instead of updating the old ones, which still exist but will never be seen again.",
         "media": "Slug.gif",
         "mediaType": "image",
         "tier": 5
     },
     {
         "name": "The Physical Cats",
-        "description": "The most popular video by Yo-kai Watch/Battle Cats YouTuber <a href=\"https://www.youtube.com/channel/UCdUGq6NAeAW2QGGBIp0qwNA\">しのぶ/shinobu789</a>, who modded the game to have a physics engine. Needless to say, things got weird.",
+        "description": "The most popular video by Yo-kai Watch/Battle Cats YouTuber <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/channel/UCdUGq6NAeAW2QGGBIp0qwNA\">しのぶ/shinobu789</a>, who modded the game to have a physics engine. Needless to say, things got weird.",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/k2mxkAHIP4I\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
         "tier": 5
     },
     {
         "name": "Froggo",
-        "description": "Before Croakley had an English name, some members of the community knew him by the unofficial nickname of \"Froggo\". Fell out of use once BCEN 6.3 was released, but it survives through a <a href=\"https://www.youtube.com/watch?v=63n88owup4k\">video</a> by Anwar 04, as well as <a href=\"https://www.youtube.com/watch?v=zH4NavUm4kA\">a Nurse Wuffa video</a>.",
+        "description": "Before Croakley had an English name, some members of the community knew him by the unofficial nickname of \"Froggo\". Fell out of use once BCEN 6.3 was released, but it survives through a <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=63n88owup4k\">video</a> by Anwar 04, as well as <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=zH4NavUm4kA\">a Nurse Wuffa video</a>.",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/63n88owup4k\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
         "tier": 5
@@ -1159,8 +1159,143 @@ export const entries = [
     },
     {
         "name": "Ballistik Wars collab",
-        "description": "Back in August of 2019, u/JonesHtog posted what was supposedly <a href=\"https://www.reddit.com/r/battlecats/comments/cn55q3/bcen_crossover_announcement_ballistic_wars_x_the/\">a hidden announcement image</a> for a BCEN-exclusive Ballistik Wars collab. After 2 days, it was <a href=\"https://www.reddit.com/r/battlecats/comments/cnulvh/bcen_ballistik_wars_be_fake/\">revealed to be fake</a> by u/frostfiresoul, who helped to create the image.",
+        "description": "Back in August of 2019, u/JonesHtog posted what was supposedly <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/cn55q3/bcen_crossover_announcement_ballistic_wars_x_the/\">a hidden announcement image</a> for a BCEN-exclusive Ballistik Wars collab. After 2 days, it was <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/cnulvh/bcen_ballistik_wars_be_fake/\">revealed to be fake</a> by u/frostfiresoul, who helped to create the image.",
         "media": "BallisticWars.webp",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Cats 'Round the World!",
+        "description": " In mid-2017, BCEN players were given the opportunity to unlock Squish Ball Cat by getting <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=GsndcYMtiow\">these</a> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=TJTJ0Jxz3ko\">six</a> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=UKz8Sd3Cwpc\">Battle</a> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=3L68xbHK7QA\">Cats</a> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=pdOyAwWgNWA\">YouTube</a> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=X_7aTP0pA_8\">videos</a> to 2 million views. Each video belonged to a different country and language, hence why the campaign was named Cats 'Round the World!.        ",
+        "media": "CRTW.webp",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Nurse Wuffa using Ubers",
+        "description": "He spawns Unknown Cat and Wargod Keiji near the end of his guides for <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=LmUPSwARTeM\">Tuesday Stage</a>, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=pu6vkdkptMI\">Friday Stage</a> and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=UUcOpFIc7hM\">Milky Tunnel</a>, though neither Uber actually gets to do anything.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LmUPSwARTeM?start=102\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 5
+    },
+    {
+        "name": "yo i was so boned this morning",
+        "description": "Meme spawned from Chawesy's <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=cQ9MQJDjEjU\">100+ Tickets stream</a>.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cQ9MQJDjEjU?start=3093\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 5
+    },
+    {
+        "name": "Going over the Cat Deploy Limit",
+        "description": "A bug present in stages with Cat Deploy Limit restrictions (most notably the Duels and Tag Arenas) lets you use the Iron Wall Cannon to have 1 more unit than the restriction would allow.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cf12o6SaP9U\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 5
+    },
+    {
+        "name": "r/battlecatsMK2",
+        "description": " Around 3 years ago, when the moderators of r/battlecats were starting to crack down on low-quality memes, not everyone found it agreeable, to say the least. \"If we so desperately need a place to post Battle Cats memes, why don't we just make our own subreddit instead of continuing to pester the mods of this one?\" some may have wondered. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecatsMK2/\">And so they did</a>.",
+        "media": "RBCMK2.png",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Everyplay",
+        "description": " The in-battle settings originally had a button that let you record and replay your conquests and upload them to a video sharing site known as Everyplay. Despite being one of the most popular ways to share Battle Cats gameplay, the feature was removed in April 2018 with the release of 7.0. On June 6, 2018, it was announced that Everyplay itself would be shutting down permanently come October, so keeping it in the game for any longer wouldn't have changed much.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3JcNAASwSoQ?start=84\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 5
+    },
+    {
+        "name": "Peninsula Sunfish",
+        "description": "Ayumi Manbosaki's name during the first of BCEN's Survive! Mola Mola collabs. The Wiki Page with the name Peninsula Sunfish <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battle-cats.fandom.com/wiki/Peninsula_Sunfish_(Event_Enemy)\">still exists</a>, but all of it's contents have been removed.",
+        "media": "PeninsulaSunfish.png",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Nyankogelion OP",
+        "description": "An offical parody of the Evangelion opening theme created for BCJP's most recent Evangelion collab by PONOS. All the lrics of the song are replaced with \"Nya~\". <br><br><i>Note: the embeded video player for this video is kind of glitchy, so if you are unable to view it from the Iceberg website, you can view it on YouTube <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/dVHdUakiEo4\">here</a>.</i>",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dVHdUakiEo4?start=2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 5
+    },
+    {
+        "name": "Survives onec",
+        "description": "An infamous typo once present in the Galaxy Gals event poster, which touted Kai's Survive ability as \"survives onec\".",
+        "media": "Onec.png",
+        "mediaType": "image",
+        "tier": 5
+    },
+    /* Entry removed because "the making of battle cats in real life" is no longer a publically available video.
+    {
+        "name": "The Making of \"Battle Cats in Real Life!!\"",
+        "description": "With over 10 million views, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=oEbtRMeZR24\">The Battle Cats in Real Life!</a> is far from obscure, but how many of you have seen <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=gZIeOcnpBak\">how it was made?</a>",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gZIeOcnpBak?start=2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 5
+    },
+    */
+    {
+        "name": "Barriers don't protect from \"God Bless You\"",
+        "description": "the only way to beat Ch. 2 Aguham without cheesing it or using Barrier Breakers or the Breakerblast Cannon.",
+        "media": "GodBlessYou.gif",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Lugas are based on a yokai",
+        "description": "\"Pasalan\" comes from <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://yokai.fandom.com/wiki/Kesaran-Pasaran\">Kesaran-Pasaran</a>, which also happens to be Unknown Cat's Japanese name.",
+        "media": "FuzzBuster.webp",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Buried Cat Food",
+        "description": "Before reaching 1600 User Rank, Gamatoto will find cans of Cat Food - as opposed to the usual Item Packs - when coming back from his expeditions.",
+        "media": "BuriedCatfood.png",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Non-collab XL Combo effects",
+        "description": "Witch Killer and Eva Angel Killer aren't the only Combo effects to have XL variants; many combos have a value coded in the game for an XL size combo, but they are just unused.",
+        "media": "XLCombos.png",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Warp and Toxic are trait-specific abilities",
+        "description": "This is why they can be disabled by Curse; their effects are limited by targeted trait when used by a cat unit, which is currently impossible in the vanilla game.",
+        "media": "CursedToxic.gif",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Challenge Mode removal",
+        "description": "Originally, the Challenge Battle had its own main menu button next to Legend Stages while the Catclaw Dojo was found in the Cat Base menu. This all changed in version 6.2, when the Challenge Battle was removed altogether so as to make room for the new Dojo button, which took over its spot in the main menu. However, it was brought back as a Legend Stage in version 6.3.",
+        "media": "ChallengeBattleOld.png",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Nerd Cat nerf",
+        "description": "Before Long Distance became a thing, Nerd Cat/Hacker Cat had no blind spot. To balance out the nerf, his attack power and frequency were doubled in the same update.",
+        "media": "NerdNerf.gif",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Sarukani Day",
+        "description": "An unofficial subreddit holiday celebrated by r/battlecats in 2017-2019. For one random day of each year, everyone's text and image flairs were changed to Sarukani, and users felt an uncontrollable urge to post Sarukani-themed fan art.",
+        "media": "sarukaniDay.png",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Enemy Guide-exclusive idle animations",
+        "description": "A ton of enemies have idle animations that never appear in gameplay but can still be seen in the Enemy Guide. A partial list includes all Bun Buns, all Bores, Master A., Professor A., Duche, R. Ost, General GreGory, Bakoo, Doremi and Kappy Jr., to name a few.",
+        "media": "IdleProfA.gif",
         "mediaType": "image",
         "tier": 5
     },
