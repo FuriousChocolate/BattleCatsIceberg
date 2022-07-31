@@ -21,7 +21,7 @@ window.onload = function noMobile() {
 } 
 
 // An array for the button spacing on each tier because I was too lazy to figure out a way to do it with css. Units are in rems.
-const buttonSpacing = [0.07, 0, 0.02, 0.01, 0, 0, 0, 0];
+const buttonSpacing = [0.07, 0, 0.02, 0.01, 0.02, 0, 0, 0];
 // creates a clickable text for each entry.
 
 // loops through each tier and adds buttons. 

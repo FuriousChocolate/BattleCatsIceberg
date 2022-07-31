@@ -1293,9 +1293,100 @@ export const entries = [
         "tier": 5
     },
     {
+        "name": "Occult Festival",
+        "description": "The original name for Ritual Happiness, I think it was only used once or twice before being changed to what it is now.",
+        "media": "OccultFestival.webp",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
         "name": "Enemy Guide-exclusive idle animations",
         "description": "A ton of enemies have idle animations that never appear in gameplay but can still be seen in the Enemy Guide. A partial list includes all Bun Buns, all Bores, Master A., Professor A., Duche, R. Ost, General GreGory, Bakoo, Doremi and Kappy Jr., to name a few.",
         "media": "IdleProfA.gif",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Ranking Dojo costing Cat Food",
+        "description": "During the first two Ranking Dojo events, you had to spend 1 Cat Food each time you entered the stage.",
+        "media": "RankingDojoCatfoodCost.png",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Slug Jockey Cat early preview",
+        "description": " In December of 2017, PONOS held <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ponos.s3.amazonaws.com/information/appli/battlecats/news/en/youtuberanking_2017.html\">The Great Cat Tournament</a>, an official competition in which Battle Cats YouTubers could compete for real money with Ranking Dojo videos. For round 2 they were given a pre-made account with nearly every unit at their disposal including Slug Jockey Cat, who at the time fell under unused content. Lucas IV showed it off for a few seconds in his round 2 video.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/40vNLv1OMuI?start=36\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 5
+    },
+    {
+        "name": "Z-Onel cake",
+        "description": " Twitter user @mugitesa <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://twitter.com/mugitesa/status/1269406710260621312\">got a patisserie to bake them a Z-Onel-themed cake!</a>",
+        "media": "ZonelCake.png",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "The First Apocalypse caused the Relics' empire to fall",
+        "description": " An empire spanning the entire world doesn't just collapse overnight, and I think the most likely culprit for the end of the Relics' reign is Bahamut Cat. He's said to be capable of oblitering Earth, and the stage preceding The Legend Ends - which is set in a fallen palace whose very walls are imbued with Relic power - is called Apocalypse Temple. This would perfectly explain both the First Apocalypse and the disappearance of the Relics, tying them together in a nice little cataclysmic knot.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Relic/Traitless Talent Orbs",
+        "description": "They exist, but they can only be obtained via hacking.",
+        "media": "UnusedOrbs.png",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Extra Enigma rarities",
+        "description": "There are six different sprites for Enigma maps, but only half are used in-game. The unused map designs include green with white border, blue with golden border, and platinum/legend.",
+        "media": "PlatinumEnigma.webp",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Relics' bodies can't handle their own cursed power",
+        "description": "This theory claims that the sudden influx of power they received upon becoming Relics was more than their bodies could hope to handle, causing them to rapidly deteriorate like we see with Oldhorn and Lowkey. It must not have taken long for them to adjust, though, as all of the Relics we fight still have some amount of skin/fur left on them. I can't decide what's worse: this or the molting theory.",
+        "media": "Decomposing.gif",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Advent bosses represent the seven deadly sins",
+        "description": "A <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/ger7nt/fluff_every_deadly_boss_represents_one_of_the_7/\">theory</a> hatched by u/XskullBC, and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battle-cats.fandom.com/wiki/Category:Advent_Bosses\">improved upon</a> by the battle cats wiki. <ul><li><b>Wrath</b> - <i>Cruel</i> Angel Clionel's description states just how overprotective it is, using its full power to protect its children.</li><li><b>Envy</b> - Hannya's description stats that she \"<i>...Breathes pure corruption born of vengeful hate...</i>\". If that isn't enough for you, in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://en.wikipedia.org/wiki/Noh\">Noh</a> theater, a <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://en.wikipedia.org/wiki/Hannya\">Hannya</a> mask is used to represent a jealous female demon.</li><li><b>Lust</b> - Queen B's JP description states that she is a \"<i>...Queen who rules over an entertainment district at night...</i>\", and \"entertainment\" isn't refferring to movies ;). In addtion, Real queen bees are the sole reproductive females in their hives, and Queen B's debut stage is named Honey Trap, a stratagem which involves using an attractive person to lure the victim into a false relationship.</li><li><b>Gluttony</b> - I mean... just <i>look</i> at Daboo. What else could he represent? His name also originates from the Japanese word <i>debu</i> meaning \"fat\" or \"chubby\".</li><li><b>Pride</b> - Despite being implied to envy his younger brother, him being a \"prideful king\" is still more likely, as Hannya's mask already symbolizes jealousy and the only alternative is Queen B, who fits much better with lust.</li><li><b>Sloth</b> - Bakoo's apperance is very clearly a sleeping tapir, as it's eyes are closed and it is wearing an almost cartoonish nightgown cap. It's Japanese name also almost literally translates to \"dream\" or \"dreamer\".</li><li><b>Greed</b> - Puffsly isn't a Deadly Boss, but it was clearly meant to be one. It's Japanese description writes that it \"<i>...Rolls at high speeds in pursuit of shiny things...</i>\" which would suggust that it represents greed.</li></ul>",
+        "media": "7DeadlySins.png",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Sangokushi Rumble collab",
+        "description": " Easily the most obscure collab in Battle Cats history, if only because it had no new stages or units to offer.",
+        "media": "ObscureCollab.jpg",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "Windless Island musical references",
+        "description": "The sub-chapter's romantic themes are a reference to the Happy End album <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=EZQQlzCqqNs\">Kazemachi Roman/Wind City Romance</a>. For another reference, Houses of the Holy is the name of a Led Zeppelin <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=ohDQ1FUUjPs\">song</a> and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=eLnD-CVIssY\">album</a>.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/EZQQlzCqqNs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 5
+    },
+    {
+        "name": "The ruins in UL belonged to the original Cat Empire",
+        "description": "It's probably not a coincidence that three of UL's unique backgrounds are filled with ruins as far as the eye can see. But to whose empire did they belong? Well, we know from Lowkey's description that the conflict between cats and Relics is already ongoing in UL; they certainly couldn't have been part of the Relics' empire, because the Relics are clearly still the ones in power in that campaign, so that leaves us with exactly one option.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 5
+    },
+    {
+        "name": "u/slavvis predicted Axoloty",
+        "description": "7 months before 8.3! In the comments of <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/8zknag/fanmade_enemy_idea/\">the post</a>, somone told him to send his idea to PONOS and he replied, \"<i>Well, I have Facebook. Im going to do it one day, not today or tomorrow. But some day probably.</i>\", so it's even possible that he was the one who allowed Axoloty to be in the game for real!",
+        "media": "Axoloty.png",
         "mediaType": "image",
         "tier": 5
     },
@@ -1304,6 +1395,6 @@ export const entries = [
         "description": "Example description. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"www.google.com\">Example link</a>.",
         "media": "none",
         "mediaType": "image",
-        "tier": 5
+        "tier": 6
     }
 ];
