@@ -248,7 +248,7 @@ export const entries = [
     {
         "name": "OG Balrog Cat",
         "description": "Players who joined around of the time of the second Street Fighter collab may know Balrog Cat as a mediocre collab Rare Cat, but before thenm that moniker belonged to Lesser Demon Cat's True Form, who is now called Greater Balrog Cat.",
-        "media": "BalrogCat.gif",
+        "media": "BalrogCat.webp",
         "mediaType": "image",
         "tier": 1
     },
@@ -1180,9 +1180,9 @@ export const entries = [
     },
     {
         "name": "yo i was so boned this morning",
-        "description": "Meme spawned from Chawesy's <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=cQ9MQJDjEjU\">100+ Tickets stream</a>.",
-        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cQ9MQJDjEjU?start=3093\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-        "mediaType": "HTML",
+        "description": "Originally thought to be a meme spawned from Chawesy's <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=cQ9MQJDjEjU\">100+ Tickets stream</a>, but the meme actually came from a discord message made by the Battle Cats YouTuber \"<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/channel/UC_OkAyExV67uT7oWljceq4A\">tAdPole</a>\" in a private discord server.",
+        "media": "Boned.png",
+        "mediaType": "image",
         "tier": 5
     },
     {
