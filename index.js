@@ -51,17 +51,27 @@ function changeSelected(id) {
     let mediaImage;
     if (entries[id].media == "none") {
         // Sets the image to a basic image that says "no media available" if there is no media to display for the current entry.
-        mediaImage = "<img class=\"entry-image-" + mode + "\" src=\"media/NoMedia.svg\">";
+        mediaImage = "<img id=\"entry-image-" + mode + "\" src=\"media/LoadingIcon.gif\">";
+        document.getElementById("entry-description-media").innerHTML = mediaImage;
+        document.getElementById("entry-image-" + mode).src = "media/NoMedia.svg";
     }
     else if (entries[id].mediaType == "image") {
-        mediaImage = "<img class=\"entry-image-" + mode + "\" src=\"media/" + entries[id].media + "\">";
+        mediaImage = "<img id=\"entry-image-" + mode + "\" src=\"media/LoadingIcon.gif\">";
+        document.getElementById("entry-description-media").innerHTML = mediaImage;
+        document.getElementById("entry-image-" + mode).src = "media/" + entries[id].media;
+        // 
     }
     else if (entries[id].mediaType == "HTML") {
         mediaImage = entries[id].media;
+        document.getElementById("entry-description-media").innerHTML = mediaImage;
     }
     // Updates all the content on the webpage so it is displaying the right stuff.
     document.getElementById("entry-description-title").innerHTML = "<h1>" + entries[id].name + "</h1>";
-    document.getElementById("entry-description-media").innerHTML = mediaImage;
+    // let entryDescMedia = document.getElementsByClassName("entry-image-" + mode);
+    // entryDescMedia.onload = function() {
+    //     console.log("THis code is running!:" + entryDescMedia);
+    //     entryDescMedia.setAttribute("background", "none");
+    // }
     document.getElementById("entry-description-content").innerHTML = "<h2 style=\"padding-top: 1rem;\">Description</h2><p><h4>" + entries[id].description + "</h4></p>";
     document.getElementById("entry-info").innerHTML = "(Tier: " + entries[id].tier + ") Entry No." + (id + 1) + " - " + entries[id].name
     // Makes the old entry slighlty dimmer.

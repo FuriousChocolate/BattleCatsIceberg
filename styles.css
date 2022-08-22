@@ -83,11 +83,11 @@ body {
     padding-block: 0px !important;
     color: #ffffff;
 }
-.entry-image-computer {
+#entry-image-computer {
     height: 18.75rem;
     width: auto;
 }
-.entry-image-mobile {
+#entry-image-mobile {
     width: 30rem;
     height: auto;
 }

@@ -148,7 +148,7 @@ export const entries = [
     {
         "name": "Power creep",
         "description": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerCreep\">Power creep</a> is the phenomenon that arises when a game is constantly being updated with more and more powerful characters, abilities or items and ways to upgrade them, which inevitably leads to older ones becoming obsolete, challenging stages becoming pushovers - and The Battle Cats is no exception to this. Gacha True Forms tend to be the worst offenders because of how early they can be unlocked; provided you can beat the Catfruit stages, you could have Octopus Cat, Cyberpunk Cat, and other such game breakers fresh out of beating EoC Ch. 3.",
-        "media": "none",
+        "media": "PowerCreep.gif",
         "mediaType": "image",
         "tier": 1
     },
@@ -1288,7 +1288,7 @@ export const entries = [
     {
         "name": "Sarukani Day",
         "description": "An unofficial subreddit holiday celebrated by r/battlecats in 2017-2019. For one random day of each year, everyone's text and image flairs were changed to Sarukani, and users felt an uncontrollable urge to post Sarukani-themed fan art.",
-        "media": "sarukaniDay.png",
+        "media": "SarukaniDay.png",
         "mediaType": "image",
         "tier": 5
     },
@@ -1391,8 +1391,117 @@ export const entries = [
         "tier": 5
     },
     {
+        "name": "Elizabitch",
+        "description": "Pigge's name in the original English version, it's not hard to guess why it was changed. Sorry for the bad image quality, but it was the only picture I could find, taken from <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/uVTmYX4uDnk\">this old video</a> on 2013 battle cats.",
+        "media": "Elizabitch.png",
+        "mediaType": "image",
+        "tier": 6
+    },
+    /* removed because there was already an entry generalizing stage nerfs.
+    {
+        "name": "Silenced Meowing nerf",
+        "description": "I have no idea what it was like before 5.8, so I'm just going to leave you with <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/5tdo7g/psa_the_schematics_for_silenced_meowing_changed/\">this</a>.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 6
+    },
+    */ 
+    {
+        "name": "Official \"Zat\"",
+        "description": "The only official appearance of a truly zombified cat (or \"Zat\") is in the thumbnail for Japanese Battle Cats TV episode 3; <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=NhKsytW96IE&list=PL4aIXhU983GCTeRv-7XHh-ysY_DphpNOv&index=57\">this</a> episode was about version 8.2, the update that added the Zombie Outbreak notifications.",
+        "media": "Zat.jpg",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Winged Pigge 0 minimum range",
+        "description": "When BCJP 6.7 was first released, it was purported that Winged Pigge had a Long Distance range of 0-340 (as opposed to an Omni Strike of -340~340), a claim which stayed on the wiki for a surprisingly long time before being changed to what it is now. It's hard to say if this was just an error on the community's part or if Winged Pigge actually had her effective range changed between updates, and I don't think anyone knows for sure. Back when the update was first released, Spica, AKA the battle cats database also noted that <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://web.archive.org/web/20171205085833/https://battlecats-db.com/enemy/381.html\">it had an LD of 0~340</a>, so it's hard to say what really happened.",
+        "media": "WikiBad.png",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "LINE Rangers",
+        "description": "A TBC-like tower defense RPG released by LINE Corporation in mid-2014(?). Though you'd be hard-pressed to find much about it in English-speaking communities, it apparently reached over 50 million players in March 2018, and has collaborated with such IPs as Attack on Titan, Goblin Slayer, Sonic the Hedgehog, Ace Attorney, Crayon Shin-chan and Neon Genesis Evangelion.",
+        "media": "LINERangers.webp",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "BotB Ubers were chosen by popularity surveys",
+        "description": "In June of 2017, each TBC version's Twitter/Facebook page <a href=\"https://twitter.com/ponos_en/status/893290422268817413?lang=es\">posted a survey</a> to know what at the time was the most popular Uber from each set. Fast forward 6 months and the highest voted Ubers overall were put together into one super-set, <a href=\"https://battle-cats.fandom.com/wiki/Best_of_the_Best_(Gacha_Event)\">Best of the Best.</a>",
+        "media": "BotBSurvey.png",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Xskull's old channel",
+        "description": " Before having a fresh start with the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/channel/UCCKJ5MXd0lT3KF1g_zArpLA\">Xskull & Dr. Skull joint channel</a> in August 2018, Xskull was known by \"Xskull the Manic Dark Cat\", another, less professional channel dating back to 2016 or 2017. It never really took off, and for good reason. Only a few of the videos from this deleted channel were reuploaded onto the new one, effectively turning the rest into lost media. While I obviously don't remember every single video that was lost (I'm not even sure if Xskull does), I can assure you you're not missing out on much.",
+        "media": "XSkullOldYT.png",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Weak Yet Bitter and SoL ending at Weak & Mildly Acidic",
+        "description": "The names of SoL sub-chapters 25-28 and their levels were hidden in the game files for quite some time before they were released. Because they only went as far as Weak & Mildly Acidic (then known as \"Weak Yet Bitter\"), some fans speculated that SoL would end at sub-chapter 28 - a misconception that persisted even past the release of 5.0. It is also possible that the name was stored in the game files in Japanese, and so when it was leaked from the game files \"Weak yet Bitter\" was just a mistranslation.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "PONOS streams",
+        "description": "From October 2016 to November 2018, the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/user/msdtak/videos\">Japanese PONOS channel</a> would periodically hold streams lasting around 2 hours. In the last segment of each stream, the developers would discuss or tease upcoming content and trivia about the game, such as CotC and the first Heavenly Tower extension in the <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/6mzm74/announcementbcjp_ponos_live_stream_today_13th/\">July 2017 stream</a>.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3sW5IrTdfaA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 6
+    },
+    {
+        "name": "Motorola freeze bug",
+        "description": "A bug which caused the game to freeze up at random times only when playing on a Motorola phone. If you put \"Motorola\" into r/battlecats' search bar, you can still find some ancient posts about this error, dating back 4 or 5 years.",
+        "media": "Motorola.png",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "SoL takes place in the mid-1960s or later",
+        "description": "This possibility came to mind because of the stage \"OS Graveyard\" in IT Catacombs (technically, it could put SoL as far back as 1951, but operating systems as we know them date back to the 60s). Dial-Up Dreams and Broadband Omens could put it as late as the 80s or even 90s, but \"Dreams\" and \"Omens\" may imply that they are just prophecies of things to come.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Real gachapon",
+        "description": "Exclusively in Japan, there exist real Battle Cats gachapon machines that can give keychains and figurines of various cat units.",
+        "media": "GachaponIRL.jpeg",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Blue Dolphina",
+        "description": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/channel/UCafXGW_8gLGc-Jh0Gb2vnjw\">Tackey</a> was a little-known Battle Cats YouTuber who would tackle challenges such as <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=Eed4YOzu8eQ\">no gacha \"Gestalt, Decay\" pre-Bombercat</a>, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=KrxYZk5Y_WM\">no gacha 3-star Morning Rush Hour</a>, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=GACwBsZK1SQ\">Uberless 3-star Swim Meet</a>, and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=KJp13TFNoz0\">no gacha 1-star Swim Meet</a> while gaining little to no recognition, as well as giving tips to other Battle Cats YouTubers on their videos. After being inactive for over a year, he randomly changed his channel's name to Blue Dolphina, but there still haven't been any new uploads since. He has also converted all but a few of his videos to unlisted, meaning most of them have become lost to time.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Eed4YOzu8eQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 6
+    },
+    {
+        "name": "Enemies 21 and 22",
+        "description": " Two unused enemies that can't be encountered without hacking (or Battle Cats Ultimate). Presumably used for testing purposes, they respectively appear as Zoge and Doge when spawned, but have stats that don't match either. According to <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://tcrf.net/The_Battle_Cats\">The Cutting Room Floor</a>, enemy 21 once had the sprites of \"Bloodsucker\" (the original version of Professor A.). <br><br><i>Note: in BCU (where the screenshot is from), enemy counting starts from ID 000, so the numbers are offset by 1, which is why it displays 19 and 20 instead of 20 and 21.</i>",
+        "media": "20&21.png",
+        "mediaType": "image",
+        "tier": 6
+    },
+    /* removed because there's already an entry on stage nerfs.
+    {
+        "name": "Black Premonition nerf",
+        "description": "6.2 reduced the Gory Blacks' and Shadow Boxer Ks' buffs to 150% (from 200%) and the enemy limit to 11 (from 13), but also raised the Doge Dark trios' buffs to 800% (from 200%).",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 6
+    },
+    */
+    {
         "name": "Example entry",
-        "description": "Example description. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"www.google.com\">Example link</a>.",
+        "description": "Example description.",
         "media": "none",
         "mediaType": "image",
         "tier": 6
