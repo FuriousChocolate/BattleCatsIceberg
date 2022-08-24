@@ -1501,7 +1501,7 @@ export const entries = [
     */
     {
         "name": "Example entry",
-        "description": "Example description.",
+        "description": "Example description. This is what text looks like. Use the &lt;a&gt; tag to create &lt;a href=\"www.google.com\"&gt;<a href=\"www.google.com\">links</a>&lt;/a&gt;, the &lt;em&gt; tag to create &lt;em&gt;<em>bold text</em>&lt;/em&gt;, and the &lt;i&gt; tag to create &lt;i&gt<i>italics</i>&lt;/i&gt.",
         "media": "none",
         "mediaType": "image",
         "tier": 6
