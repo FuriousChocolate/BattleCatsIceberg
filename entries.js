@@ -1500,6 +1500,83 @@ export const entries = [
     },
     */
     {
+        "name": "Reversed Jamiera icon",
+        "description": "A long time ago in a version far, far away (pre-5.0 at the very least), Jamiera Cat's and Sexy Bathtub Cat's icons faced left instead of right. Jamiera's reversed icon can still be seen in Nurse Wuffa's Head Shaker (Hard+++) guide.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/FOVmhPYjqSM?start=187\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 6
+    },
+    {
+        "name": "r/battlecatsweekend",
+        "description": "<a href=\"https://www.reddit.com/r/battlecatsweekend/\">r/battlecatsweekend</a> is The polar opposite of r/BattleCatsMK2, made in response to all the \"low-quality\" memes being upvoted more highly than fan art.",
+        "media": "Rbcweekend.png",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Official character ages",
+        "description": "Eight characters have confirmed ages: Cat God is around 20 years old, Princess Cat is 9, Ururun is 12, Sniper the Deadeye is 31, Bakoo's 14, Zoge's wife is 158, Moneko's 17, Neneko's 16; the latter two come from Merc Storia's end of the TBC x Merc Storia collab.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Money Monster",
+        "description": "One of the four enemies completely exclusive to Battle Cats Rangers, a two-armed, four-legged cat with a treasure chest strapped to its back. If you want to know about the other three BCR-only enemies, check out <a href=\"https://www.youtube.com/watch?v=XFcffcNdDsY\">The Definitive Battle Cats Iceberg Explanation</a>.",
+        "media": "MoneyMonster.webp",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "The Doge Army also has time travel",
+        "description": "There are many points that could be made to support this theory, but the most concrete evidence is that CyberFace, a weapon from humanity's final war, somehow appears in the past.",
+        "media": "DogeTimeTravel.gif",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Lucas IV vs. Sean Koble",
+        "description": "Players who visited PONOS' booth at GameStart 2018 (a game convention that was held in Singapore) could compete against translator Sean Koble in various stages. Several prominent YouTubers were there, including Lucas IV, whose many battles against Sean in the Silver Week event map were recorded and uploaded to YouTube by Kaxzer the 1337. As of now, kaxzer has taken down <a href=\"https://www.youtube.com/watch?v=BusPiG3uRuI\">the video</a> from youtube. When asked why, he said \"Oh its a little too live yknow\" suggusting that either him or Lucas were probably uncomfortable with Lucas' face reveal and removed it.",
+        "media": "LucasVSean.png",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Panties Cat is male (debatably canon)",
+        "description": "In the original English version, Panties Cat, Skirt Cat and Tights Cat went by masculine pronouns in their descriptions. Of course, like anything from the original English version, the canonicity of this entry is dubious at best.",
+        "media": "MalePanties.png",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "The Elite Four",
+        "description": "During a time when gacha True Forms were sparse, Mina was endgame and No Plan A was the hardest stage, it was universally agreed that Radiant Aphrodite, Mighty Lord Gao, Kasa Jizo and Catman were the best Ubers you could possibly get, and thus they were collectively known by some players as the Elite Four.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 6
+    },
+    { /*media name is DogeTimeTravel.gif because it uses the same gif from the entry for doge time travel*/
+        "name": "CyberFace nerf",
+        "description": "In version 5.8, CyberFace's speed was lowered to 32, down from 42.",
+        "media": "DogeTimeTravel.gif",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Nerd Cat cheese",
+        "description": "Due to his single target, Nerd Cat will hit only the base once it's within his attack area, made easier by his having a farther Long Distance range than his other forms (1100-1500 > 800-1200). This enables him to be used in some extremely niche cheeses.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7JxQpQ9In-M?start=80\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 6
+    },
+    {
+        "name": "The Great Crash Fever Migration",
+        "description": "The first collab with Crash Fever brought a lot of Battle Cats players to that game, many of whom ended up quitting The Battle Cats for Crash Fever. Most notable is former guidemaker Elichi, who wiped his channel of all Battle Cats videos save one and became a full-time Crash Fever YouTuber.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/388zpmllATc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 6
+    },
+    {
         "name": "Example entry",
         "description": "Example description. This is what text looks like. Use the &lt;a&gt; tag to create &lt;a href=\"www.google.com\"&gt;<a href=\"www.google.com\">links</a>&lt;/a&gt;, the &lt;em&gt; tag to create &lt;em&gt;<em>bold text</em>&lt;/em&gt;, and the &lt;i&gt; tag to create &lt;i&gt<i>italics</i>&lt;/i&gt.",
         "media": "none",
