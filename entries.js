@@ -1577,6 +1577,64 @@ export const entries = [
         "tier": 6
     },
     {
+        "name": "Hannya is female",
+        "description": "<a href=\"https://twitter.com/PONOS_EN/status/776236850591723520\">Confirmed in an old PONOS tweet.</a>",
+        "media": "FemaleHannya.png",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Metal Cyclone and CyberFace were unused enemies",
+        "description": "CyberFace has been in the game for as long as the Metal trait itself, but went unused until sometime around the release of ItF Ch. 2, when Facing Danger was added (and \"Bloodsucker\", funny enough). Metal Cyclone is older than Divine Cyclone, being added to the game files at the same time as the first three Cyclones, but its stage, Sweet Irony, didn't exist until a little after Wrath of Heaven. As an unused enemy, Metal Cyclone appeared floating.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Cat Food in Just Kill Me",
+        "description": " The iconic Cat Food tin (or \"Cat Can\") from The Battle Cats is an obtainable item in the \"<a href=\"https://play.google.com/store/apps/details?id=jp.co.kitasako.kimibokuen&hl=en_US&gl=US\">Just Kill Me</a>\" series, complete with a description referencing its intended use in Rare Cat Capsule draws.",
+        "media": "JustKillMeCan.jpg",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "The Cat Army's true goal is to defeat the Demon King before he possessed Emperor Cat",
+        "description": "If we assume that the Demon King's possession of Emperor Cat was one of the catalysts for the Great Cat War, then defeating him before that could happen would completely change history for the better. It's definitely possible given the cats' time machine and UL being even farther back than SoL, and keep in mind that it's never explained why the cats need to recruit all the Legends.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 6
+    },
+    /* removed because the evidence supporting this was shakey and unclear.
+    {
+        "name": "Gory Groom was Traitless/Black",
+        "description": "Before there was such a thing as dedicated anti-Traitless cats, a number of Red, Floating and Black enemies were also Traitless, and one of them was Gory Groom. Most of them lost their Traitlessness as soon as Shadow Gao was released, but Gory Groom was left unchanged for well over a year, leading to reports of Diabolic Gao freezing enemies he wasn't supposed to.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 6
+    },
+    */
+    {
+        "name": "Lowkey became The Face",
+        "description": "If you think about it, Lowkey's description really only makes sense from the perspective of someone who saw Lowkey in the present. The Face is infinitely weaker, to be sure, but being stuck on the moon for a millennia would take a toll on anyone's strength.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Idi:N2 still has Relic power",
+        "description": "The aura that appears around Idi:N2 in her attack animation is blue and green, which can only mean that she still has some traces of Relic power left in her.",
+        "media": "RelicIdi.gif",
+        "mediaType": "image",
+        "tier": 6
+    },
+    {
+        "name": "Nyanko New Japan",
+        "description": "A spin-off made specifically for the 8th anniversary of BCJP, where you make a tower out of the prefectures of Japan to earn rewards in The Battle Cats. If it ever gets an English release, perhaps players will be using the United States of America as building blocks instead.",
+        "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gAYoLNJq6b8?start=88\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+        "mediaType": "HTML",
+        "tier": 6
+    },
+    {
         "name": "Example entry",
         "description": "Example description. This is what text looks like. Use the &lt;a&gt; tag to create &lt;a href=\"www.google.com\"&gt;<a href=\"www.google.com\">links</a>&lt;/a&gt;, the &lt;em&gt; tag to create &lt;em&gt;<em>bold text</em>&lt;/em&gt;, and the &lt;i&gt; tag to create &lt;i&gt<i>italics</i>&lt;/i&gt.",
         "media": "none",
