@@ -4,23 +4,24 @@ export const entries = [
         "description": "Once every year, PONOS gives players the opportunity to earn some free Cat Food by answering an online survey. The questions players are asked typically relate to the game's future in some way; what collabs they'd like to see, what new features would be best for the game, what they want to see more of in cat units' designs, etc.",
         "media": "bcsurvey.png",
         "mediaType": "image",
-        "tier": 1
-        
-        
+        "tier": 1,
+        "tags": ["canon"]
     },
     {
         "name": "THAT",
         "description": "An embarassing lump that can grow on an Alien's head or rear end, presumably an Alien parasite or symptom of an extraterrestial virus. Pushing or pulling on it is apparently seen as comedy gold.",
         "media": "THAT.webp",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["canon"]
     },
     {
         "name": "Nova PRO doesn't make any cats or enemies himself",
         "description": "Because he only gives credit when introducing a fan-made unit for the first time, a common misconception is that he was the one behind all these characters, which is not true - each and every one of them was made by considerably more talented individuals than Nova, such as <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/ITStumbler/\">u/ITStumbler</a>. He did have some degree of involvement in the Crazed Nekolugas and other recent ones, but otherwise he has not created any units by himself.",
         "media": "Novapro.jpg",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["community", "low-evidence"]
     },
     {
         "name": "Cat Clan Heroes represent Rare Cats",
@@ -1639,6 +1640,7 @@ export const entries = [
         "description": "Example description. This is what text looks like. Use the &lt;a&gt; tag to create &lt;a href=\"www.google.com\"&gt;<a href=\"www.google.com\">links</a>&lt;/a&gt;, the &lt;em&gt; tag to create &lt;em&gt;<em>bold text</em>&lt;/em&gt;, and the &lt;i&gt; tag to create &lt;i&gt<i>italics</i>&lt;/i&gt.",
         "media": "none",
         "mediaType": "image",
-        "tier": 6
+        "tier": 6,
+        "tags": ["canon", "community", "legacy", "lore", "low-evidence", "non-canon", "PONOS-other", "version-difference"]
     }
 ];

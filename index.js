@@ -48,6 +48,12 @@ let selectedEntry = 0
 // changes the selected entry to the entry of whatever id was passed in.
 function changeSelected(id) {
     // Retrieves the media image. Formats it as an image if the type is image, or if the type is HTML, doesn't add any formatting.
+    document.getElementById("tags").innerHTML = "";
+    if (String(entries[id].tags) != "undefined") {
+        for (let i of entries[id].tags) {
+            document.getElementById("tags").innerHTML += "<a href=\"#\"><image src=\"tag-icons/" + i +".svg\" class=\"tag\"><a>";
+        }
+    }
     let mediaImage;
     if (entries[id].media == "none") {
         // Sets the image to a basic image that says "no media available" if there is no media to display for the current entry.

@@ -153,4 +153,8 @@ body {
     padding-top: 0.5rem;
     text-align: center;
 }
-
+.tag {
+    height: 2.5rem;
+    margin-right: 1rem;
+    margin-top: 0.75rem;
+}
