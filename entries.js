@@ -5,8 +5,9 @@ export const entries = [
         "media": "bcsurvey.png",
         "mediaType": "image",
         "tier": 1,
-        "tags": ["canon"]
+        "tags": ["fact"]
     },
+    /* not even sure what this one is talking about, so I think at the very least it shouldn't be tier 1. For now im leaving it out.
     {
         "name": "THAT",
         "description": "An embarassing lump that can grow on an Alien's head or rear end, presumably an Alien parasite or symptom of an extraterrestial virus. Pushing or pulling on it is apparently seen as comedy gold.",
@@ -15,48 +16,54 @@ export const entries = [
         "tier": 1,
         "tags": ["canon"]
     },
+    */
     {
         "name": "Nova PRO doesn't make any cats or enemies himself",
         "description": "Because he only gives credit when introducing a fan-made unit for the first time, a common misconception is that he was the one behind all these characters, which is not true - each and every one of them was made by considerably more talented individuals than Nova, such as <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/ITStumbler/\">u/ITStumbler</a>. He did have some degree of involvement in the Crazed Nekolugas and other recent ones, but otherwise he has not created any units by himself.",
         "media": "Novapro.jpg",
         "mediaType": "image",
         "tier": 1,
-        "tags": ["community", "low-evidence"]
+        "tags": ["community"]
     },
     {
         "name": "Cat Clan Heroes represent Rare Cats",
         "description": " Cat Clan Heroes - Viking, Bishop, Witch; Cat Guild Heroes - Captain, Fortune Teller, Gunslinger, Sword Master, Jurassic, Witch, Thief, Onmyoji, Bishop, Shaman, Viking; Cat Guild Heroes - Catley, Doctor, Rodeo, E. Duelist, Catasaurus, Witch, Phantom Thief, Magica, Sanzo, Necro-Dancer, Thor; the Chosen One represents Brave Cat.",
         "media": "CCH.webp",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["theory"]
     },
     {
         "name": "Crop monkey",
         "description": "A giant monkey-shaped crop circle on the map of ItF.",
         "media": "CropMonkey.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "Noob vs PRO vs HACKER",
         "description": "An infamously awful <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=jn6GTMygGTs\">\"video\"</a> by KuGo, best known for having the \"pro\" use Backhoe Cat, a cat that can only target Metal enemies, in a stage with no Metal enemies whatsoever. Despite its considerable lack of quality, the \"video\" got big enough to spawn both a <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=qHR3gahD3e8\">parody</a> by Lucas IV, which has more effort put into it than the real thing, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/UvErxqN_hj8\">a parody</a> made by Furious Chocolate, and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/jQnP0zo9nZE\">a similarly-titled abomination</a> by Lankybox, which, if you can believe it, is even less watchable than KuGo's.",
         "media": "NvPvH.jpg",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["community"]
     },
     {
         "name": "\"Crazed Nekolugas\" don't exist",
         "description": "Because he uses them so often throughout his videos but only clarified that they were fan-made when first introducing them, there are a few people who don't realize that <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/ODjgR34twsE\">the Crazed Nekolugas used by Nova PRO</a> are entirely unofficial.",
         "media": "CrazedLugas.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["community"]
     },
     {
         "name": "Red text",
         "description": "A much-maligned error message shown to players who do the energy glitch improperly. It reads: \"Your device time may have been altered. Energy will not recover for a short time.\"",
         "media": "RedText.jpg",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     /* I removed this one because I made a more comprehensive entry detailing a lot of  BC websites to replace it.
     {
@@ -72,14 +79,16 @@ export const entries = [
         "description": "During the early months of the COVID-19 pandemic, PONOS would give players a free Leadership every day of every weekend.",
         "media": "BattleCatsWeekend.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "\"The Burgle Cats\" is canon",
         "description": "The hand that gives you your Cat Shrine donation rewards belongs to The Burgle Cats Cat God, who can be seen peeking out from behind the shrine in a rare easter egg similar to the cat in Gamatoto's tent. In addition, two cats' descriptions in The Burgle Cats directly mention The Battle Cats, further confirming that the games share a universe.",
         "media": "TheBurgleCat.webp",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["PONOS-other", "theory"]
     },
     {
         "name": "<span style=\"color:red\">The Cat</span>",
@@ -93,49 +102,56 @@ export const entries = [
         "description": "Another pointer towards the fact that The Burgle Cats and The Battle Cats are really the same universe.",
         "media": "Zap.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["PONOS-other", "theory"]
     },
     {
         "name": "Unreleased Abilities",
         "description": "Resistant to warp, improved knockback, and warp are all abilities that can be found in the cat filter, but they currently go unused by all cats.",
         "media": "UnusedAbilities.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "7",
         "description": "One of the few Japanese Battle Cats YouTubers popular within the BCEN community, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/c/7r_yik\">7 / しち</a> is best known for being one of the fastest YouTubers to showcase new content, posting in-depth unit reviews à la SilumantomCat, and showing players how to do some of the lesser-known cheeses and unconventional strategies.",
         "media": "7.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["community"]
     },
     {
         "name": "Boss peons",
         "description": "Something you might notice a lot when looking through level schematics is 10% or 100% peons set as bosses, most commonly Those Guys and Squire Rel, but also Doge, Trolly Blogger, Zoge, Sir Rel and many others. Their only purpose is to create a boss shockwave; they always spawn at the same time as the actual threats of the stage, and as such they usually die off before you even notice them.",
         "media": "BossPeons.gif",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "Elemental Pixies could destroy the world",
         "description": "Plenty pushy players perpetually presume these pint-sized pixies to be practically powerless based on their petiteness, but their perplexingly potent powers purportedly pack peerless planet-pulverizing potential. <ul><li>Bazibon: With the power of a burning sun, its flares annihilates Barriers.</li><li>Bazibastra: Carries a red giant's rage within its tiny body, ready to unleash a supernova on enemy Barriers.</li><li>Marinmizu: With waves that can split the Earth, its attacks wash away enemy Barriers.</li><li>Erphuan: With winds that blast away the mountains, no Barrier can stand against its assaults.</li><li>Aervanta: Calling forth raging solar winds, can annihilate even a mighty nebula with the slightest of efforts.</li><li>Gigavolta: A mighty spirit who channels power from the storm that will eventually consume the cosmos.</li></ul>",
         "media": "Pixies.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["theory"]
     },
     {
         "name": "Cats in Costume",
         "description": "Every year, usually around October, PONOS holds a fan art contest in which players can submit drawings of their own custom units, though it's rare to see the winning artists get more than just Cat Food for their efforts. The most recent of these contests was called Cats in Costume.",
         "media": "CatsInCostume.jpg",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "Multipurpose Legend Catseyes",
         "description": "Contrary to their name, Legend Catseyes aren't just for Legend Rare Cats. Once you run out of other Catseyes of a given type, you can start using Legend Catseyes to fill in for them.",
         "media": "LegendEyes.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     /* I removed this one because I made a more comprehensive entry detailing a lot of  BC websites to replace it.
     {
@@ -151,7 +167,8 @@ export const entries = [
         "description": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerCreep\">Power creep</a> is the phenomenon that arises when a game is constantly being updated with more and more powerful characters, abilities or items and ways to upgrade them, which inevitably leads to older ones becoming obsolete, challenging stages becoming pushovers - and The Battle Cats is no exception to this. Gacha True Forms tend to be the worst offenders because of how early they can be unlocked; provided you can beat the Catfruit stages, you could have Octopus Cat, Cyberpunk Cat, and other such game breakers fresh out of beating EoC Ch. 3.",
         "media": "PowerCreep.gif",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     /* I removed this one because I made a more comprehensive entry detailing a lot of  BC websites to replace it.
     {
@@ -167,413 +184,473 @@ export const entries = [
         "description": "A little while <em>before</em> PONOS released legend helpers into the game, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/hkudjv/fanmade_i_made_a_gamatoto_helper_that_is_rarer/\">a fan made version</a> was posted on reddit that has a striking resemblance to the offical ones that came out after it. Coincidence? Believe what you want.",
         "media": "LegendHelper.png",
         "mediaType": "image",
-        "tier": 4
+        "tier": 4,
+        "tags": ["community", "theory"]
     },
     {
         "name": "Legend Stages are in the past",
         "description": "In the SoL intro, it's explicitly stated that after taking over the world, the cats channeled all the nuclear power on Earth into one place, by which they made a time machine to venture into the past and rescue the sealed Legend Cats. You can't use Cat God in Legend Stages because they take place before he was born (>20 years ago).",
         "media": "RelicsPast.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "Angel Fanboy is Metal",
         "description": "It may not say it in the Enemy Guide, but it can easily be proven by using cats with more than 5 attack.",
         "media": "AngelFanboy.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "Strength magnifications",
         "description": "Each enemy in a stage is given a specific strength magnification, a percentage value by which their health and attack are scaled accordingly. A 200% strength magnification, for instance, would make a given enemy 2x stronger than usual.",
         "media": "EnemyMagnification.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "Backswing",
         "description": "This is what players have grown to call the frames between a unit's attack and idle animation, like when Mr. Puffington lays on the ground for a few seconds after inflating. Backswing used to cause a lot of confusion because it wasn't acknowledged on the wiki nor on Battle Cats DB, which made some units seem like they had way faster attack rates than in practice.",
         "media": "Backswing.gif",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "Empire of Cats is not the beginning",
         "description": "It is the beginning of the game, but not of the Great Cat War. Lowkey's description says it outright, and if you're still not convinced, there's the abundance of Ancient Cat Weapons, the Legend Cats being in the past, and Primordial Cat's existence to serve as further confirmation.",
         "media": "Lowkey.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "Li'l Cats aren't gacha",
         "description": "There's a law surrounding gacha games which dictates that a feature may not be unlocked or obtained using two or more specific gacha items. Over 50 Combos were removed in 5.0 because of this very law, but Combos involving multiple Li'l Cats are still here to this day, showing that PONOS considers them to be non-gahca.",
         "media": "LilCats.webp",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "Free gold pass",
         "description": "You can get a free Officer's Club gold pass whenever you want, but it's limited to one per account.",
         "media": "GoldCard.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "Gory's character arc",
         "description": "According to their descriptions, Gory, Gory Black, Angelic Gory and Zory are all different iterations of the same gorilla. Gory and Kory used to live in a zoo together, but both had to be kicked out for one reason or another. The two continued to live together in a proper house, but without a job Gory became a gambling-addicted alcoholic while Kory gorged himself on Gory's presumably dwindling food supply. Some time after kicking out his roommate and finding a job, Gory died an untimely death (possibly at the hands of Berserkory) and ascended to Heaven, where his scary face got him kicked out all over again. Returning to his old ways as a fallen angel, he eventually got his scalp torn off while gambling, somehow turning him into an unsightly Zombie.",
         "media": "GoryStory.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact", "lore"]
     },
     {
         "name": "Inari",
         "description": "The servant of Cat God may join Gamatoto if you are exceptionally lucky with your Cat Fortunes, doubling his next expedition's rewards.",
         "media": "Inari.webp",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "There were two Devil Cats",
         "description": "Until 10.2, the Bikkuriman collab unit Cat Devil was called Devil Cat, which is also the name of Zombie Cat's evolved form.",
         "media": "DevilCat.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "Ecto Gang in SoL",
         "description": "Even though they're supposed to be event enemies, Ecto Doge, Ecto Snache and Ecto Baa Baa are spawned liberally all throughout the SoL stage \"The Haunted 1LDK\".",
         "media": "EctoGang.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "OG Balrog Cat",
         "description": "Players who joined around of the time of the second Street Fighter collab may know Balrog Cat as a mediocre collab Rare Cat, but before thenm that moniker belonged to Lesser Demon Cat's True Form, who is now called Greater Balrog Cat.",
         "media": "BalrogCat.webp",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "The Doron Tribe",
         "description": "It is heavily implied that Ururun is the daughter of Yulala, who is likely the son of Uril; all three belong to the same clan of masked warriors, the doron tribe.",
         "media": "DoronTribe.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "Wanwan is Wahwah's brother and Mistress Celeboodle's husband",
         "description": "More or less confirmed by their descriptions.",
         "media": "Wahwah.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "Relics are extinct in the present",
         "description": "Relics are some of the most powerful enemies both in-game and in the lore, having once ruled the entire world, yet are completely absent from both the present and the future, and the only time we see them in SoL is in the Laboratory of Relics, where Relic Doges are being preserved - almost as if they are the last few members of a dying breed.",
         "media": "none",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1, 
+        "tags": ["theory", "lore"]
     },
     {
         "name": "Gold Catfruit",
         "description": "A rare type of Catfruit only obtainable from 1,000,000 XP Cat Shrine donations, used to evolve Lasvoss and Cat God the Great.",
         "media": "GoldenFruit.webp",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["fact"]
     },
     {
         "name": "Togelan Pasalan's gender",
         "description": "A subject of many debates, as his description in his Uber set's info page says, \"<i>...gets stronger as <u>she</u> takes damage</i>\", while the rest of her descriptions say, \"<i>...gets stronger the more damage <u>he</u> takes.</i>\"",
         "media": "Togelan.webp",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["community"]
     },
     {
         "name": "Every Luga's True Form is a reference",
         "description": "Ultralan Pasalan - Ultraman (Ultraman); Assassinlan Pasalan - Kenshiro (Fist of the North Star); E. Kubilan Pasalan - E. Honda (Street Fighter); Lufalan Pasalan - Luffy (One Piece); Piccolan Pasalan - Sachiel (Evangelion); Shishilan Pasalan - Night Walker (Princess Mononoke); Mystican Pasalan - Ging (Hunter X Hunter)",
         "media": "LugasFamily.png",
         "mediaType": "image",
-        "tier": 1
+        "tier": 1,
+        "tags": ["theory"]
     },
     {
         "name": "Doge refuses Great Fortunes",
         "description": "Rather than snatching them up like with normal Item Packs, he stops in front of them, steps back for a second, then runs off without taking anything.",
         "media": "DogeHasHonor.gif",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Hidden cat face in Cat Base background",
         "description": "This one explains itself.",
         "media": "HiddenCat.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Ultra Souls are based on Japanese folktales",
         "description": "The Uber Rare ones, anyway; Ushiwakamaru is based on <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://en.wikipedia.org/wiki/Minamoto_no_Yoshitsune\">a real person</a> who inspired and appears in many legends. The first seven Ultra Souls' origins are explained in detail in <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/TheSupremeLordofPi/\">u/TheSupremeLordofPi</a>'s post \"<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/ai052t/cats_the_japanese_legends_behind_the_ultra_souls/\">The Japanese Legends behind the Ultra Souls (improved)</a>\". As for Kintaro, who didn't exist when that post was made, his design is a textbook description of <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://en.wikipedia.org/wiki/Kintar%C5%8D\">Kintarō</a>, and Kinrangers RoboForce brings in his animal friends.",
         "media": "UltraSouls.jpg",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["theory"]
     },
     {
         "name": "The Mask",
         "description": "Original name for The Burgle Cats' third Mega Huntfest exclusive, who was renamed to Musk after 9 days.",
         "media": "none",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Ferrari esports partnership",
-        "description": "For some weird reason, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.ponos.jp/news/2021/07/13/\">ponos partnered with Ferrari Esports.</a>",
+        "description": "For some weird reason, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.ponos.jp/news/2021/07/13/\">ponos partnered with Ferrari Esports.</a> Look closely at this image and you'll see \"The Battle Cats\" logo on the car door.",
         "media": "BattleCatsCar.jpg",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Bahamut is artificial",
         "description": "Bahamut's first form's description calls him an ancient Cat weapon, and anything else described in similar terms is quite clearly artifical, from Mecha-Bun to The Death Moon. He doesn't necessarily have to be a machine - he could have been made through genetic engineering like Idi:Re, maybe in some plot involving the Dragon Emperors.",
         "media": "Bahamut.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "One Lineup SoL",
         "description": "A group project between several Battle Cats YouTubers to beat all of SoL with only 10 different units. This challenge has been completed three times: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=u78rFeKMA2E\">once with no restrictions</a>, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=iC3Nz-TirTQ\">once without Ubers</a>, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/besbNdYdpO4\">once with only 3 units</a>, and finally <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=aaZg0b2WLEE\">once with 4-star restrictions</a>. The first discussion surrounding the idea of a \"One Lineup SoL\" on r/battlecats was started by <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/deltalaser99/\">u/deltalaser99</a>.",
         "media": "1LineupSoL.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["community"]
     },
     {
         "name": "\"Special\" Mitama",
         "description": "An OC designed by <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/u/pokemondogod/\">u/pokemondogod</a>, a failed clone of Mitama, and the unofficial mascot of r/battlecats. As you can see, she looks almost the same as the original, but with <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/hqfen2/fluff_what_can_she_do_and_other_miko_mitamas_cant/\">a</a> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/hswu9z/fluff_what_can_she_do_and_other_miko_mitamas_cant/\">few</a> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/ijw8y3/fluff_heres_special_mitamas_full_body_in_case_you/\">minor</a> <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/iwzd1z/fluff_if_you_remembered_special_mitama_is/\">differences</a> here and there. <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/hpamxa/fluff_when_people_asked_me_to_draw_mitama_the/\">Here</a> is her first appearance on r/battlecats, and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/hprocc/fluff_never_draw_miko_mitama_before_so_i_decided/\">this</a> is what she looked like before attaining her Oracle form.",
         "media": "SpecialMitama.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["community"]
     },
     {
         "name": "Non-linear strength magnifications",
         "description": "Major enemies in \"Baron\" stages typically have separate health and attack magnifications, a mechanic used nowhere else in the game.",
         "media": "DifferentStrengthMags.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "PONOS URLs",
         "description": "The url where ponos servers are located is known to the public, but getting data from them is not that simple... The key to unlocking <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/wiki/ponos_urls\">the encyption behind ponos' data</a> is known only to a select few members of the battle cats community, known as \"dataminers\".",
         "media": "PonosURLs.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Big BOSS",
         "description": "Big BOSS is a YouTube channel whose uploads mainly consist of ordinary gameplay of ordinary units... but B I G. (Edit: The channel was later revealed to be Nova PRO's backup account, and was promptly shut down like his original channel.)",
         "media": "none",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["community"]
     },
     {
         "name": "Layering",
         "description": "Lucas IV made <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=UDBdbD9IF-s\">a whole video</a> about this mechanic, explaining it better than I ever could, but in short, a unit's \"layer\" determines how offset it is from a normal unit path, so that it can be differentiated from the other units around it. As you can see in the image above, lolicats are coded to always be on the same layer, while mr. has normal layer spawning, which is why you can see multiple shadows slightly up and down from eachother in the same spot.",
         "media": "Layering.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Jizo demoted to S-tier",
         "description": "Long ago, the SS-tier Ubers of the BCEN tier list lived in harmony, originally only consisting of Kasa Jizo and Miko Mitama. But <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=uprW5mkQe7w\">everything changed</a> on October 24th, 2020.",
         "media": "NoooooJizooooo.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["community"]
     },
     {
         "name": "SarothCyngus' chiptunes",
         "description": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/channel/UCtdiO7Y3rpiEhQCYcJsa2-Q\">SarothCyngus</a> has a whole <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtube.com/playlist?list=PLlPQ7ILgUJ5w-eqHetAWWaLxa4ojPJKhq\">playlist</a>'s worth of Battle Cats songs recreated as chiptune arrangements, along with some completely original tunes designed for each of the advent bosses. He doesn't get much recognition despite his outstanding talent, so give them a listen when you have time, okay?",
         "media": "Chiptunes.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["community"]
     },
     {
         "name": "Gao True Form hoax",
         "description": "On the day that 10.6 was released for BCJP, two incredibly well-made images of Gao's supposed True Form started circulating throughout The Battle Cats community. Allegedly using 15 Elder Catfruit and 1 Gold Catfruit to gain Insane Damage, Weaken, Extra Money, Curse Immunity, and increased Critical Hit chance, this monster of a True Form would have been a complete and utter game breaker if not for the fact that it was revealed as fake less than 24 hours after it appeared.",
         "media": "GaoTF.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["community"]
     },
     {
         "name": "LD/OS vs. bases",
         "description": "When reaching a base, Long Distance units stand at their minimum effective range, Omni Strike units their maximum effective range. This causes most Long Distance units to get closer than necessary before attacking a base, but also gives Omni Strike units with a long negative range a major advantage against bases.",
         "media": "LDBase.gif",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Tales of the Glitchluga",
         "description": "It just wouldn't be April Fools' Day without Lucas IV posting a top-tier Battle Cats meme video to mark the occasion. His video for 2021, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=pqNCcGVG9LI\">Tales of the Glitchluga</a>, is a must-watch for sure, so I won't spoil it for you.",
         "media": "Glitchlugas.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["community"]
     },
     {
         "name": "Future Cat has human teeth",
         "description": "Pay close attention to her attack animation. Unlike most other cat units that bite to attack, future cat has a set of straight, humanlike teeth in its mouth. This could be some sort of foreshadowing done by ponos for some lore event that is supposed to happen in the future, or just because of the fact that future cat is humanoid and walks on two legs, so it might as well have human teeth.",
         "media": "TEETH.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "Cat in Gamatoto's tent",
         "description": "An easter egg that appears once in a blue moon. Some claim that tapping the tent a lot makes it come out, some say it only shows its face when gamatoto is away on a mission, but not much is known about this mysterious cat.",
         "media": "TentCat.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Fat Rice Cat",
-        "description": "An aptly-nicknamed cat that can be seen on all Iron Legion Ubers' True Forms, all he does is laze around and eat rice out of a bowl.",
+        "description": "An aptly-nicknamed cat that can be seen on all Iron Legion Ubers' True Forms, all he does is laze around and eat rice out of a bowl. He has become quite the celebrety among the battle cats community, and do I really need to say why? Just look at how amazing he is!",
         "media": "AGodAmongCats.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["community", "fact"]
     },
     {
         "name": "December 31, 2020",
         "description": "According to the lyrics of the Messier's Assault theme from the Shoumetsu Toshi collab, this is when Empire of Cats begins.",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/74Otu3nFwKk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact", "lore"]
     },
     {
         "name": "Cat God writes the Enemy Guide",
         "description": "Berserkory's, Zir Zeal's and Cat God's Enemy Guide entries are all written from a first-person perspective, implying that a single person was behind every enemy description. In Cat God's descriptions the perspective is his own, which would imply that he was also behind Berserkory's and Zir Zeal's, and consequently the entire Enemy Guide.",
         "media": "CatGod.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "Evangelist Cat",
         "description": "One of the oldest Ubers in the game, an early version of Filibuster Cat X, and... a poor man's Balaluga. BCKR had it in an event alongside the serial code units God and Maiko Cat, but the event is so utterly obscure that it may as well have never happened - even MrFailology, Nurse Wuffa and Lucas IV have had no luck at finding anything beyond one picture! For whatever reason, he replaces Filibuster Cat X as the final Cats of the Cosmos reward in The Battle Cats Together! (the Japan-exclusive Switch port of the game).",
         "media": "Evangelist.webp",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Serial codes",
         "description": "Once upon a time, you could input codes found in Battle Cats merch to unlock exclusive Special Cats directly from the main menu. There are 20 or so serial code cats including collab units, and a few of them have been repurposed for 2017 social media campaigns or The Battle Cats Together!.",
         "media": "SerialCodes.webp",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Crazed Baozi Cat",
         "description": "Where BCEN only has Catburger and BCKR Nekondo, BCTW gets both normal and Crazed Baozi Cats as exclusive units. While not quite on the level of Manic Mohawk, Crazed Baozi is one of the fastest meatshields there is, giving Taiwanese players a powerful defensive cat to use in 4-star stages.",
         "media": "CrazedBaoZi.webp",
         "mediaType": "image",
-        "tier": 2
-    },
+        "tier": 2,
+        "tags": ["fact"]
+    }, 
+    // What is this one even here for? How is it an iceberg entry? I'm not gonna take it out since its not really harmful in any way but im a little confused on the thought process that went into making this entry... 
     {
         "name": "Kubilan Pasalan cheese",
         "description": "When the enemy limit is full, you can use Kubilan Pasalan to gradually push the enemies behind their base and thereby win without having to kill them. In some stages you can even avoid facing the boss! One of the best stages for this strategy is Pitfall Zone, which fills the enemy limit with slow-moving SLOTHs and The Face right at the start.",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MEjckprHiYU?start=15\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Pandimensional crystals",
         "description": "According to Legeluga's description, these are what Legend Rare Cats are using for their prismatic powers.",
         "media": "PandimensionalCrystal.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact", "lore"]
     },
     {
         "name": "Legend Tickets",
         "description": "These were added specifically for BCJP's 8th anniversary. They worked almost exactly like Platinum Tickets (down to costing real money), but they had a 5% chance to give a regular Legend Rare instead of an Uber.",
         "media": "LegendTickets.webp",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Hayabusa and Sakura Sonic are related",
         "description": "Both fight evil, are part of a ninja clan, can Crit, and have fairly similar attack animations.",
         "media": "SamuraiFamily.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["theory"]
     },
     {
         "name": "Dragon Emperors' True Forms are Crazed",
         "description": "Just look at them! Now, as for the lore implications of them becoming Crazed... I have no idea.",
         "media": "CrazedDragons.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["theory"]
     },
     {
         "name": "Wildcat Slots",
         "description": "During the 7th and 8th anniversaries of BCJP, you could play a free in-game slot machine for a chance to receive lots and lots of Cat Food. Some players found ways to abuse this...",
         "media": "WildcatSlots.webp",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Angel Fanboy's rule has an exception",
         "description": "The March Lucky Ticket G event enemy Variety Bears is simultaneously Floating and Angelic, which goes against everything Angel Fanboy stands for.",
         "media": "Contradiction.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "SoL and UL are the same place at different times",
         "description": "Are we really meant to believe that the abundance of UL remake stages with suspiciously similar names to their SoL counterparts (Nyandaria - Nyandalucia, Marine Town - Macaroni Town, Inspirational Mural - Mural of the Devil, etc.) is just a coincidence? Should UL end at the Apocalypse Temple or Laboratory of Relics, we can safely cross this one off the unconfirmed theories list.",
         "media": "SoL=UL.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "Jeanne vs. Kalisa",
         "description": "Based on their descriptions, it's safe to assume that Headmistress Jeanne's ethereal spears were what stopped Kalisa from destroying the Cyber Academy with her magic sword; Kalisa later banished her to the netherworld as revenge, which would certainly explain Jeanne's sudden... personality changes after evolving.",
         "media": "GGalsBattle.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["theory"]
     },
     {
         "name": "W",
         "description": "The BCJP-exclusive <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battle-cats.fandom.com/wiki/Nico_Training_Yawame\">second Dojo stage</a> features literal Ws as enemies. In Japan the character \"w\" is used to represent laughter, so if this were ever translated to English (Which probably won't ever happen), they would be replaced with \"ha\" so that when a lot of them come out of the base at once it would form \"hahahahahahaha\"",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/k62Bj_EteDU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Unique death animations",
         "description": "Some units go out in more flashy ways than turning into a generic white soul and ascending into the heavens. Examples I know of include Legend Rare Cats, Eva Angels, Moneko, Crazed Moneko, the Nenekos and Hatsune Miku.",
         "media": "SpecialDeath.jpg",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Relic rubble in The Legend Ends background",
         "description": "At the very bottom of the ruined palace background seen in The Legend Ends, Happily Ever After and Church of Mercator, you can see some rubble imbued with what can only be Relic power.",
         "media": "RelicRubble.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["theory"]
     },
     {
         "name": "The Legendary Cat Artifacts",
         "description": "Most of the Vajiras look the way they do because of the Legendary Cat Artifacts, which are cursed to transform the unworthy into immortal beasts, for better or for worse. Known artifacts include the Legendary Cat Armor (Yukimura and Keiji), the Legendary Cat Shield (Masamune), the Legendary Cat Sword (Shingen), the Nyanko Engine (Kenshin), the cursed Cat Fan (Yoshimoto) and the Nyanko Katana (Kaihime, only in her Japanese description). Curiously, the Sword and Shield also appear as Treasures in EoC.",
         "media": "LegendaryArtifacts.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Regional Li'l Valkyries",
         "description": "The evolved forms of Li'l Valkyrie and Li'l Valkyrie Dark are dressed differently depending on which version of the game you're playing. BCJP and BCTW share the same outfits, so there are three for each Valkyrie.",
         "media": "Valks.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Organizable Storage",
         "description": "Hold your finger on the screen when viewing any of the three Storages (As of update 11.4, it only works on cat storage, not on catfruit or talent orbs), and watch the magic happen!",
         "media": "OrganizableStorage.gif",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact"]
     },
     {
         "name": "Gamatoto Harry Potter reference.",
@@ -1128,7 +1205,8 @@ export const entries = [
         "description": "There are <em>tons</em> of websites created by the community to help battle cats players with various things. Here is a list of just a few of them: <ul><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://clamchowder.pythonanywhere.com/static/update.html\">Clamchowder's website</a> for automatically datamining info on the latest update.</li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battlecats-db.com/\">\"Spica\"</a>, also known as the battle cats database. A site with info about all sorts of cats, stages, enemies, and more!</li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://battle-cats.fandom.com/wiki/Battle_Cats_Wiki\">The battle cats wiki</a>, a website for everything you could want to know about The Battle Cats. Often known for having info that isn't 100% trustable or reliable, especially for strategies and non-factual information, but still an overall very useful resource for people looking to know more about The Battle Cats.</li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\" https://thanksfeanor.pythonanywhere.com/UDP\">The Uber description project (UDP)</a> is a website created by ThanksFëanor to document the usefulness of all Ubers and what scenarios they might work best in, if at all. It has a lot of work put into it and a lot of people spent a lot of time writing info for it, so I recommend you check it out!</li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://thanksfeanor.pythonanywhere.com/black-catculator\">The Black Calculator</a> is a website (technically just a really advanced google spreadsheet) that is designed so that a Battle Cats player would be able to create a copy of it and input all of their unit, treasure, and progress info into it so that they wouldn't have to constantly post screenshots of their ubers or other things when asking for help. I haven't looked into it too much so it probably has a lot more features than what I just described, and it is an overall very useful tool.</li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://alcantha.github.io/cat_combo_viewer/\">The Catcombo Viewer</a> Pretty self explanatory. The ultimate website for all things Catcombo.</li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://clamchowder.pythonanywhere.com/missions.html\">The Monthly Mission Finder</a> is a website that helps you find the most efficient way to do your monthly missions and help you get the most XP possible while simultaneously spending the least energy.</li></li><li><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://bc.godfat.org/help\">Battle Cats Rolls</a>, a website to \"track\" your gacha rolls and see what units you will get next. I <b>strongly</b> discourage anyone from using this site as I beleive it ruins the fun of the game, but I had to leave it in this list because I valued an ultimate comprehensive iceberg above all else.</li></ul>",
         "media": "Spica.png",
         "mediaType": "image",
-        "tier": 2
+        "tier": 2,
+        "tags": ["fact", "community"]
     },
     {
         "name": "There are two versions of Sliming to Victory and A Cultured Festival",
