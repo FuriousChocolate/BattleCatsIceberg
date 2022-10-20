@@ -657,287 +657,328 @@ export const entries = [
         "description": "Some of Gamatoto's misadventures in the expedition log take him to the Chamber of Secrets (\"GAMATOTO took a naughty photo in the Chamber of Secrets.\")",
         "media": "ChamberOfSecrets.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "Waves randomly hurting Wave Shields",
         "description": "Wave Shields are supposed to be immune to waves, but a bug in version 10.1 made them lose that behavior at random times until being fixed in 10.2.",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6DUUIJB_9Q4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "Cats the Commander",
         "description": "A free-to-play mobile tower defense game with some very obvious similarities to The Battle Cats, and some interesting differences, some good, others not so much. On the surface it may look like nothing more than a shameless rip-off, but in truth it actually plays completely different from The Battle Cats.",
         "media": "CatsTheCommander.jpg",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact", "PONOS-other"]
     },
     {
         "name": "Berserkory killed Gory",
         "description": "That blood on his axe had to have come from someone...",
         "media": "none",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["theory", "low-evidence"]
     },
     {
         "name": "Undead Cat",
         "description": "A character from the defunct puzzle RPG GirlsMons, immortalized as a BCJP-exclusive Special Cat that is unlocked by clicking a hidden <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://ponos.s3.amazonaws.com/information/appli/battlecats/news/girlsmons_charaget.html\">URL</a> (found in the Help menu IIRC).",
         "media": "UndeadCat.webp",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact", "legacy"]
     },
     {
         "name": "Highest possible damage",
         "description": "The highest damage a cat unit can deal in one hit is 5,313,000, which requires a strengthened level 50+70 Eva Unit-02, Code 777 to strike an Eva Angel while under the effect of \"You Will Find Happiness\" (Shinji & Cat + Kaworu & Cat) and \"Cosplay Fans\" (Wolf Princess Deale + Ritual Cat).",
         "media": "Eva02.webp",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "UltraBaaBaa's early debut",
         "description": "While most players associate UltraBaaBaa with CotC, her first appearance was in SoL sub-chapter 46, Singularityville, 4 months before the release of CotC Ch. 2. Depending on who you are, you could say that CotC gives newer players an early taste of a late SoL enemy, or that late SoL gave veteran players a sneak peek of a then-upcoming CotC enemy.",
         "media": "UltraBaaBaa.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "Animated bases aren't immune to Surges",
         "description": "Unlike ordinary bases, animated bases' immunities are specific to the unit, meaning they are independent of the enemy's... baseness, so to speak. Though at first they really were immune to every effect, they haven't been updated with immunities to newer effects, including Surges. Oddly, this applies even for the Surge Base, which of course was not introduced until after Surges were well established.",
         "media": "SurgeVsBase.gif",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "Realm of Whyworry is about protesting a dictatorship",
         "description": "Authority & Gravity explains itself: the cats are dealing with someone of very high authority. Raise Your Torches is about rallying a mob armed with pitchforks and torches, to rise up against this dictator. Despotism at Home is also self-explanatory: even at home, it's hard to feel safe from the tyrant's rampant abuse of power. Unauthorized Breathing is an example of the inhumane laws that may be enacted if you put too much power in the wrong person's hands, and Bare Fangs at the Throne is when the cats and the mob corner the tyrant in his throne room and put an end to his reign of terror. The one outlier is Slave to Energy; my best guess is that it's saying how, no matter how determined you are to achieve your goal, you're still limited by the limits of your body and its constant need for energy, which leads to the enlisting of others in Raise Your Torches.",
         "media": "none",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["theory"]
     },
     {
         "name": "Anniversary Platinum Tickets",
         "description": "During BCJP's 7th and 8th anniversaries, there was a limited-time mission which gave players a free Platinum Ticket just for beating the first chapter of Empire of Cats.",
         "media": "FreePlat.jpg",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "Ghostly Houseguests' suicidal narrator",
         "description": "In the context of Ghostly Houseguests' storyline, there are only so many ways you could interpret \"I'm not here anymore.\" Presumably, the narrator lost their mind after wasting inheritance to find out that their dead dad is still alive and is also the world's worst prankster.",
         "media": "none",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["theory"]
     },
     {
         "name": "Big Jimmy",
         "description": "A popular nickname for Axoloty that's been in use for as long as Axoloty has been in the game. According to u/JustAnAmpharos, it originated from a Discord chat.",
         "media": "Axoloty.webp",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["community"]
     },
     {
         "name": "Early Sleeping Forest bug",
         "description": "When In the Sleeping Forest first became available in BCEN, a short-lived bug made it playable by anyone who had unlocked Uncanny Legends, effectively letting them jump up to 26 sub-chapters ahead.",
         "media": "InTheSleepingForest.jpg",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "r/battlecatscomics",
         "description": "A small subreddit for posting battle cats comics. Visit it <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecatscomics/\">here</a>.",
         "media": "BCComics.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["community"]
     },
     {
         "name": "Floor 30 Sniper cheese",
         "description": "The first-ever Floor 30 cheese involves using Sniper the Cat to send Awakened Bahamut flying past Hermit Cat, thereby letting you attack the enemy base with the boss still alive. It's technically one of the most accessible means of beating the stage, but it's so hard to pull off that most players would never even consider it, and the amount of power creep affecting Floor 30 has not helped in that regard.",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4qEEpHs8vqI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "Long Distance Daboo",
         "description": "Daboo of the Dead originally had Long Distance, with an effective range of 0-800. The sudden change to Omni Strike was made because of a cheese discovered not long after Dead on Debut was released, but some clever players have made do and worked out even more cunning ways of cheesing it.",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/94hDsvTdVsw?start=30\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "Cheetah cat",
         "description": "Cheetah cat (Japanese: ネコチーター, neko chiita) is an Uber Rare cat unit with horrendus stats that is only possible to get by cheating, as it has no means of obtaining. In japanese, cheetah and cheater are pronounced the exact same way (chiita), and so the name of the unit is a play on words, as it is a cheetah that only \"cheaters\" would be able to obtain.",
         "media": "Cheetah.gif",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "St. Dober's Savage Blows",
         "description": "A typo that stuck around for a few months before it was fixed to say Surge Attacks. Kasli the Bane's descriptions used to have this error too, and hers were fixed in the same update as St. Dober's.",
         "media": "DoberSBlow.jpg",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "\"Mr.\" games",
         "description": "True to his descriptions, Mr. was the star of his own mobile game series before being added to The Battle Cats. Some of his games included <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=bff97aiPMHM\">Mr.Oops!!</a>, <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=phndpuyHgzo\">Mr.AahH!!</a> and <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=9nojWrkolk4\">Mr.NooO!!</a>; none of them can be downloaded anymore.",
         "media": "MrAahh.webp",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact", "PONOS-other"]
     },
     {
         "name": "Strongest possible enemy",
         "description": "In terms of overall stats, the strongest enemy you could possibly fight is Wrath of the Wormhole's 600% Super Cosmic Cyclone without any anti-Starred Alien Treasures, which has a colossal 63,999,936 health and an average-for-a-Cyclone-but-still-pretty-high 53,280 attack.",
         "media": "SCC.gif",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "The real reason why Nurse Wuffa uses unevolved Crazed Cats",
         "description": "According to his channel description, he usually does it out of laziness: \"I upload some game about cats takin over the world. I use first form Crazeds because I'm too lazy to change the form or because I don't want to use Manics.\"",
         "media": "WuffaCrazedReason.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact", "community"]
     },
     {
         "name": "Careful advocat 22",
         "description": "Ever since early 2020 IIRC, it's been rare not to see Battle Cats videos on YouTube getting spammed with bizarre, meaningless comments such as \"Helpful engineer 19\" and \"Strong advocat 53\" within seconds of being uploaded. While you may think that these are just bots, many of them have actual videos and profiles, and some were even created before these comments started appearing; this may suggest that something more insidious is going on behind the scenes.",
         "media": "BotComment.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["community"]
     },
     {
         "name": "Mr. Mer reused from Kumanchu Royale",
         "description": "The enemy \"Mr. Mer\" that was introduced into battle cats in version 10.4 was actually a reused enemy from one of Ponos' old games, Kumanchu Royale, also known as The Battle Bears or Kumanchu Rowairu",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nIyrIKVgics\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact", "PONOS-other"]
     },
     {
         "name": "Gamatoto isn't a cat",
         "description": "One of the activities that Gamatoto can get up to in the expedition log is discovering that he's not actually a cat.",
         "media": "WhatIsGamatoto.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "Fatherly Cat (Shopkeeper)",
         "description": "A Special Cat that went unused for some time before finally being implemented as part of the BCJP x The Burgle Cats collab. Oddly, this collab has shown no signs of coming to BCEN even after The Burgle Cats' official English release.",
         "media": "FatherlyCat.webp",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact", "PONOS-other"]
     },
     {
         "name": "The Demon King",
         "description": "A mysterious entity sealed away(?) by Master Uril(?), allegedly a threat to the entire world. Read more about it <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/mw5c5z/battle_cats_lore_theory_2_the_demon_king_part_2/\">here</a> or <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.reddit.com/r/battlecats/comments/mcc5qi/discussion_the_lore_of_emperor_cat_and_the_demon/\">here</a>.",
         "media": "none",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "The REAL ultimate superweapon",
         "description": "This is mentioned in the SoL ending, but its identity remains ambiguous. It's either Relic Bun-Bun or the final boss of UL.",
         "media": "REALSuperweapon.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["lore"]
     },
     {
         "name": "Idi is female",
         "description": " Confirmed by the description of the Meow Medal \"Ancient Annihilator\".",
         "media": "FemaleIDI.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "The guild of forbidden knowledge",
         "description": "Another mystery from the SoL ending, it could be the Relics, the Doges who revived Mecha-Bun, or something else entirely.",
         "media": "GuildOfKnowladge.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["lore"]
     },
     {
         "name": "The ancient forest",
         "description": "The source of Emperor Cat's cursed power, a place with major connections to Relic enemies - and perhaps even the Demon King as well. It could be the sacred forest that Urs & Fenrir were supposed to guard, but it's hard to say with how little we know about it. (Edit: Confirmed to be Ancient Forest Labyrinth.)",
         "media": "AncientForest.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["lore"]
     },
     {
         "name": "Alpacky is trans",
         "description": "Camelle is male and Alpacky is female, and yet both are supposed to be the same character. Of course, it's entirely possible that this was just a translation error or a result of the writers forgetting Camelle's gender.",
         "media": "TransAlpacky.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "Body & Soul and Weak & Mildly Acidic are about the cats' darkest hour",
         "description": "While it's hard to say for certain what's going on these sub-chapters, the level names paint a very bleak picture overall, with Sunset's Howl bringing out the hidden dark powers of three Berserkories, Warrior's Dawn bringing flashbacks to when the cats fought one of their first truly challenging battles, At Least I'm a Cat being about finding the positives in a situation with only negatives, and so on. No More Bad Dreams is when the despair reaches its end, and finding, or rather, being found by the next Legend, Red Riding Mina, is what finally lifts the cats' spirits and gets them Learning to Love again.",
         "media": "none",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["theory"]
     },
     {
         "name": "The guild of assassins",
         "description": "It's heavily implied that most of the Black cats and enemies are assassins of some sort, and Black Betakkuma's description confirms that there exists a guild of them.",
         "media": "AssassinGuild.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "Japanese Empire of Cats takes place entirely within Japan",
         "description": " This is why Japanese gameplay videos of stage 48 always use the dawn/sunset overworld background instead of the iconic dark cave. Other differences include alternate sprites for every Treasure and enemy base, some of which can be seen in the default title screen regardless of game version.",
         "media": "BCJPMoon.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "\"Any enemy can Crit\" bug",
         "description": "When a non-Critting enemy attacks at just the right moment during a Critical wave, the enemy in question will also launch a Crit. This is most commonly seen with the Owlbrows in Floor 47, the infamous Corrupted Moneko + Puffsley's Comet stage.",
         "media": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Rl6Np2hOydU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
         "mediaType": "HTML",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "Cat Beacon",
         "description": "BCJP has this seldom-used feature which from my understanding lets you use Bluetooth when attending certain real-life events to unlock free units such as Maneki Cat... and Maneki Cat... and Maneki Cat.",
         "media": "CatBeacon.webp",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "PONOS Art Contests",
         "description": "Ponos has held art contests so that fan-designed cats could make their way into the game. Some examples are Catburger, Mightycat, and Farmer cat.",
         "media": "ArtContest.webp",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "Knights of the Round Table",
         "description": "Due to character limits, Weak & Mildly Acidic's second stage has always been known as Knights of the Round, but the full name, Knights of the Round Table, could once be seen under the sub-chapter's info section.",
         "media": "KnightsOfTheRoundTable.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "Cargo ship base",
         "description": "Shown in the Into the Future main menu background, yet it doesn't actually appear in any stage.",
         "media": "TheBoat.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["fact"]
     },
     {
         "name": "Mystic Uril's parrot is a liar",
         "description": "His English description clarifies that it's the parrot who says he sealed away the Demon King, and in Japanese it outright states that he makes the parrot (or cockatoo) do it. Either the Demon King was never truly sealed away or it wasn't Uril who stopped him.",
         "media": "Parrot.png",
         "mediaType": "image",
-        "tier": 3
+        "tier": 3,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "Rain D. is (possibly) a man in a costume",
         "description": "Hinted at in his Japanese description: \"Is very confident in his ability to sing. Naturally, he's a huge fan of the Yomiuri Giants. <b>There are also rumors that somebody is inside his fur</b>, but he himself has denied them.\"",
         "media": "RainD.png",
         "mediaType": "image",
-        "tier": 4
+        "tier": 4,
+        "tags": ["theory", "lore"]
     },
     {
         "name": "Mini-games",
