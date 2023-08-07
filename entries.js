@@ -1755,11 +1755,283 @@ export const entries = [
         "tier": 6
     },
     {
+        "name": "Taking the Stage (Insane) breaks the enemy species limit",
+        "description": "It's often said that a stage can't contain more than 10 different enemies at a time, but Taking the Stage (Insane) has 11: Beefcake Cat, Those Guys, B.B.Bunny, Celeboodle, Otta-smack-u, Dark Otter, Owlbrow, Heavenly Hippoe, Angelic Gory, Ginger Snache and Ms. Sign.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "GAOちゃんねる (GAO Channel)",
+        "description": "Along with ordinary Battle Cats videos, <a href=\"https://www.youtube.com/channel/UC8UWYAZLgcY8Ua1NTa-l1KQ\">GAO Channel</a> would upload drawings of unofficial cats or enemies every few days with no sign of stopping; more than 600 characters were posted in all! Sadly, in May 2021 they announced that they would be leaving YouTube indefinitely, and now all that remains on the channel is a single video.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Taiwan (stage) and Hong Kong",
+        "description": "While BCTW's EoC is largely the same as BCEN's, the first six stages are all shuffled around or replaced with new ones. Instead of Korea, stage 1 is Taiwan, which has its own exclusive base when replaying it; Korea later appears as stage 6, completely replacing the Philippines. BCEN's stage 2, Mongolia, is stage 5 in BCTW; stage 2 is Hong Kong, which has another base of its own. China and Thailand are swapped, and Cambodia is MIA. By the way, all of this is just cosmetic.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Nyantama (Cat Souls)",
+        "description": "An upgrade system exclusive to the now-defunct PC version, which allowed you to individually level up a unit's health, attack, cost or speed for use in PvP and PvP only. After a few upgrades, the buffs would appear during battle as a colored flame around a sword, heart, yen sign or roller skate under the buffed-up unit, the flame's color depending on the upgrade's level. Footage of players making upgrades can be found <a href=\"https://www.youtube.com/watch?v=0dgUGA-tPUs\">here</a>.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "The Cat Base's interior has been shown twice",
+        "description": "The first time was in the manga, and the second was in BCPC, in which the Cat Base began as an empty room but could be filled out with decorations collected from various sources.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Crazed Cats were caused by the The First Apocalypse",
+        "description": "The auras surrounding the enemy Crazed Cats are somewhat reminescent of the ball of dark energy used by Bahamut, who becomes Crazed in his evolved form. Is it a stretch to say that when Bahamut caused the First Apocalypse, some of the dark energy in the air was absorbed into the bodies of the Normal Cats, thereby corrupting them and giving them that purple aura they have as enemies...?",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Mobile game ad parody (pin puzzle)",
+        "description": "Everyone's seen those <em>awful</em>, awful mobile game ads that promote their games through pin-pulling \"puzzles\" that even a toddler could solve, yet are somehow always failed by the \"people\" playing them. Well, it seems even the folks at PONOS have taken notice, and their way of speaking out against them is through a <a href=\"https://www.youtube.com/watch?v=bNGXmN71Bog\">parody</a> at the beginning of one BCJP's newest ads.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Cat Manufacturing Lines and All troops are synthetic clones",
+        "description": "In the first chapter of the manga, it's shown that there exist \"Cat Manufacturing Lines\" that are literally fueled by money. It's likely that these machines also exist in the game, and that the Doge Army has some equivalent of them; the most concrete evidence is the icon for the Research upgrade, which literally shows the process of a cat being created synthetically, but that's not all. Characters are usually treated as one of a kind, but in battle you can see up to 50 of them at a time, or two or more iterations of the same character. Sometimes, even the descriptions aren't consistent about this: Hippoe's and Metal Hippoe's descriptions are phrased as though Hippoe is a single character, but later on in Hyppoh's and Super Metal Hippoe's descriptions you have \"<em>this</em> Hippoe\" and \"Metal Hippoe <em>who...</em>\"; the same goes for One Horn and Metal One Horn (\"<em>a</em> One Horn\"), Teacher Bear and Cadaver Bear (\"made from the parts of several expired Teacher Bears\"). The latest sub-chapter, DNA Plantation, pushes this theory even further: It starts with the cloning of plants and eventually moves onto the cloning of farmers; might I remind you that this is the sub-chapter whose gimmick is spamming copies of the same units?",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "2009 flip phone release",
+        "description": "The oldest known Battle Cats <em>anything</em>, a subscription-based game exclusive to Japanese mobile phones. <a href=\"http://www.ponos.co.jp/taisenbaka/nyanko.htm\">This version</a> had 49 stages - EoC Ch. 1 and the Challenge Battle, with only the nine Normal Cats to defend your base. Despite lacking in content, it was popular enough to spawn a sequel, also subscription-based: Kumanchu Royale.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Rock-Paper-Scissors",
+        "description": "In BCPC's PvP mode, each Uber had one of four affinities: Rock, Paper, Scissors, or All. These affinities served to limit what units were affected by trait-specific skills. For example, an Uber with a Scissors affinity would only affect Paper-affinity Ubers with its abilities, and be weak to those with a Rock affinity.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Enemy Type 10 redesign",
+        "description": "In 2014, BCJP had a collab with the Japanese military - the Hometown Self-Defense Force collab, it was called. It introduced a cat and enemy both known as Type 10, a real-life tank with no rider (until evolved, as a cat unit). While the collab itself has not returned since, the enemy came back for the last stage of Most Defeated 2019, where despite having the same ID as before, it was redesigned to have a Doge riding the tank, a Metal trait, and lower health and attack.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Burgle Cats merch",
+        "description": "<a href=\"https://www.amazon.co.jp/stores/page/74DEBE89-1B03-4F31-9121-E9079C0BD13D\">https://www.amazon.co.jp/stores/page/74DEBE89-1B03-4F31-9121-E9079C0BD13D</a>",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Last Boss Combo",
+        "description": "Cat Cannon Power Up (M) Combo requiring only the BCJP-exclusive Mega Cat, removed alongside the \"illegal\" Combos in 5.0 despite not having multiple gacha cats.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Friends list",
+        "description": "PC-exclusive feature.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Epic Catfruit Seeds were PC-exclusive",
+        "description": "Well, I guess that makes <em>one</em> PC-exclusive feature that's come back in full. I don't know how they were originally obtained, but I can say for certain that it wasn't from Growing Epic.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Hiyoko Race",
+        "description": "Another region-locked racing game, this one about a variety of strangely-proportioned chicks racing against each other, the clock, and... <a href=\"https://youtu.be/ZIkaJQzsmn8\">the Battle Cats</a>? Yes, like so many other PONOS games, Hiyoko Race featured Battle Cats characters as part of a one-way collab; Bahamut Cat, Moneko, Cow Cat, Gross Cat and Flower Cat. Unfortunately, that was not enough to extend its lifespan long past that of GirlsMons; it only lasted from December 13, 2017 to June 12, 2018. Well, at least the <a href=\"https://www.youtube.com/playlist?list=PLjsmfXvmmB_6BXcuwQ_XJtVNPtUTgClDk\">soundtrack</a> can still be found.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Knockback ability distance variable",
+        "description": "The Knockback ability has an unused variable that controls the distance of the effect, which means it is theoretically possible for there to be a unit that knocks foes back to the edge of the battlefield, or even forward.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "SUPER STAR IZ*ONE",
+        "description": "A rhythm game released by PONOS and Dalcomsoft, Inc. on April 23, 2020, featuring 65 songs from the Korean-Japanese girl group IZONE. <em>Stone Music Entertainment</em>, the company behind one of IZONE's record labels, went defunct on April 20, 2021, which was soon followed by IZ*ONE themselves disbanding on April 29 and the game meeting its end on May 31.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "ItF Outbreaks were leaked",
+        "description": "I misremembered this one when I was making the iceberg; it's really more like they had the potential to be leaked. Into the Future Chapter 1's Zombie Outbreaks are one of the few non-collab features to be officially announced by PONOS, specifically in a <a href=\"https://www.instagram.com/p/BnP5OmUnyyU/?hl=ja&taken-by=insta_nyanko\">preview</a> posted on the <a href=\"https://www.instagram.com/insta_nyanko/\"insta_nyanko</a> account not long before the release of version 7.4. Before the announcement was made, however, it was already possible for dataminers to find unused assets related to ItF Outbreaks in the game data of version 7.3, which would have spoiled the surprise for everyone had they not been <a href=\"https://www.reddit.com/r/battlecats/comments/9chzaw/comment/e5b34lw/\">discovered</a> on the same day that the Instagram post was made.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Hyphenated cat names",
+        "description": "In the original English version, every \"Cat\" in cats' names was preceded by a hyphen. Giraffe Cat, for instance, was called <a href=\"https://www.youtube.com/watch?v=uVTmYX4uDnk\">Giraffe-Cat</a>.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Official music names",
+        "description": "The Battle Cats CD includes official names for each and every single non-collab music track... in Japanese. On a similar note, contrary to popular belief, the names \"<a href=\"https://www.youtube.com/watch?v=9qR9OH-1tCk\">Face of No Mercy</a>\" and \"<a href=\"https://www.youtube.com/watch?v=2zc02qUeUJg\">Corrupt Angel</a>\" are entirely unofficial (read the videos' descriptions).",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Human Witch Cat",
+        "description": "Minor character in the manga, a Witch Cat who could switch between cat and human forms at will.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Bun Bun's Belly",
+        "description": "For this one to fully make sense, you'll have to know that Legend Catseyes were added in 8.2, but went unused until 8.6, when Legend Quest was introduced. Now, that alone could easily be its own entry, but it doesn't end there. On February 28th, 2019, <a href=\"https://www.reddit.com/u/ITStumbler/\">u/ITStumbler</a> posted a contextless image titled \"<a href=\"https://www.reddit.com/r/battlecats/comments/avoc3f/fluff_robbing_the_bank_wasnt_enough/\">Robbing the bank wasn't enough</a>\". The image shows a screen full of television static labeled \"Bun Bun's Belly\", a supposed Gamatoto area from which you could obtain Cat Food, Catamin Cs, and the then-unused Legend Catseyes (with a different design). I initially thought that it was just another one of ITStumbler's random Photoshops, but, according to a <a href=\"https://www.reddit.com/r/battlecats/comments/avoc3f/fluff_robbing_the_bank_wasnt_enough/ehhchq2/\">comment</a> by <a href=\"https://www.reddit.com/u/GoldheroXD/\">u/GoldheroXD</a>, this \"Bun Bun's Belly\" area was real, just unimplemented, and was supposed to be unlocked after obtaining a Legend Rare. The validity of this claim is for you to judge.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Sweets Parade",
+        "description": "One of the first proper stages made in Battle Cats Ultimate, designed by Nurse Wuffa, play tested by u/TheXientist, and <a href=\"https://www.youtube.com/watch?v=JMnMbkJxJiY\">showcased</a> by Anthony89810, who also <a href=\"https://www.youtube.com/watch?v=B-upy07KsWA\"covered</a> an earlier version of the stage.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Bahamut and Idi connection",
+        "description": "The amount of similarities shared between Bahamut and Idi may hint at some sort of connection between them. For one, both are all-powerful ancient Legend Cats who were presumably created in a lab. Bahamut is theorized to have caused the extinction of the Relics, which could be seen as similar to Idi:N's vast anti-Relic potential. In addition, they both share the role of speedy, short-ranged DPS units, and Idi:N2 even has the same exact health as Bahamut (25,500).",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Australian Flame Sniper Vehwoo",
+        "description": "Google Translate would once give you this gem if you used it to translate Kachiyama Assault Brigade's Japanese name to English, inspiring a piece of <a href=\"https://www.reddit.com/r/battlecats/comments/6w2p9j/off_topic_fanmade_the_best_of_google_translate_on/\">fan art</a> from u/DragonSushi95. It doesn't go any deeper than that, I just thought it was hilarious.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Battle Bunny: Tower Defense",
+        "description": "Have you ever wondered what The Battle Cats would be like if it starred bunnies instead of cats? Well, wonder no longer, because that's already existed on the App Store and Google Play Store since March 2020, courtesy of u/BytesArt! While I haven't played it myself, its creator responded well to feedback in the <a href=\"https://www.reddit.com/r/battlecats/comments/fm71p2/fanmadei_made_a_game_inspired_by_battle_cats/\">announcement post</a>; that's the hallmark of a good developer right there!",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Killer Wall, Killer Gross and Killer Titan",
+        "description": "These units were exclusive to Metal Slug Defense's end of the MSD x TBC collab; they've never appeared in an actual Battle Cats game at any point in time, and have long since been unobtainable in MSD. <a href=\"https://www.youtube.com/watch?v=7WZ2XOboHN0\">Here</a> they are in all their glory.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Nyandam is a descendant of Emperor Cat",
+        "description": "UL is all about recruiting the ancestors of the SoL Legends, and if we assume that Emperor Cat really was meant to be the UL counterpart of Li'l Nyandam, then that would make him an ancestor of Nyandam. The question is, at what point did his bloodline end up going from cats to demons? Hey, maybe that's why he was taken out of UL.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "One of the main developers of Battle Cats was behind Cats the Commander",
+        "description": "Confirmed by the Cats the Commander <a href=\"https://en.bokuneko.ignm-games.com/\">website</a>.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Bronze Cat base",
+        "description": "One of the oldest pieces of unused content in the game. It looks just like the monthly/seasonal events' bases, but with an imprisoned Bronze Cat, who is from Heaven of Darkness.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Nyanko Daiboso",
+        "description": "An obscure spin-off about mixing and matching cats and vehicles/mounts to chase Teacher Bun Bun through different worlds. This game was only around from October 31st, 2013 to November 28, 2014, which makes it the shortest-lived Battle Cats spin-off to date. <a href=\"https://www.youtube.com/watch?v=6hNUqc7jNd4\">Video</a>",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Encyclopedia Nekonica",
+        "description": "A project by u/Deeakron, who aimed to add more context to each and every SoL sub-chapter and stage. Unfortunately, he abandoned it after the <a href=\"https://www.reddit.com/r/battlecats/comments/6qigcc/fanmade_encyclopedia_nekonica_vol_1_ver_13/_\">Windless Island update</a>; I would have loved to see his attempt at detailing the events of The Legend Ends and Laboratory of Relics.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
+        "name": "Doge has had five Red variants",
+        "description": "The first is, of course, Lord Enma, and the next three are Pigge Back, Pigge Victorious and Samurai Doggy. The last one is the Red UFO Doge from Nyanko Defense Force, a defunct space shooter spin-off with fully colored units and many, many exclusive enemies. You can see Red UFO Doge around 3 minutes into <a href=\"https://www.youtube.com/watch?v=qVW9vQDkRnk\">this video</a>.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 7,
+        "tags": []
+    },
+    {
         "name": "Example entry",
         "description": "Example description. This is what text looks like. Use the &lt;a&gt; tag to create &lt;a href=\"www.google.com\"&gt;<a href=\"www.google.com\">links</a>&lt;/a&gt;, the &lt;em&gt; tag to create &lt;em&gt;<em>bold text</em>&lt;/em&gt;, and the &lt;i&gt; tag to create &lt;i&gt<i>italics</i>&lt;/i&gt.",
         "media": "none",
         "mediaType": "image",
-        "tier": 6,
+        "tier": 7,
         "tags": ["canon", "community", "legacy", "lore", "low-evidence", "non-canon", "PONOS-other", "version-difference"]
     }
 ];
