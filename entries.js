@@ -2027,11 +2027,291 @@ export const entries = [
         "tags": []
     },
     {
+        "name": "Completely unused idle animations",
+        "description": "Due to lacking Enemy Guide entries, some event enemies have idle animations that go completely unused, like Gory Groom and Pigge Back.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Li'l Stage Passes",
+        "description": "In BCPC, winning PvP battles could reward you with <a href=\"https://www.reddit.com/r/battlecats/comments/9is05c/bcpc_what_the_bloody_hell_does_this_do_to_help_me/\">special passes</a> used to challenge the Li'l Awakens! Stages. Each stage cost 1 pass on top of the standard 200 energy.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Ignited Relic Bun-Bun",
+        "description": "A boss exclusive to Nyanko Defence Force. What pushed me to add it to the iceberg was that the wiki's article on the game only lists a fiery variant of Teacher Bun Bun, which was a seperate boss altogether. Other Nyanko Defense Force enemies I've found that aren't on the wiki include <a href=\"https://www.youtube.com/watch?v=ulcxKyOh_qI\">Frosty Relic Nyandam</a>, <a href=\"https://www.youtube.com/watch?v=j3L9HnmCHzg\">Ignited Nyandam</a> and <a href=\"https://www.youtube.com/watch?v=RSfs2m0qAr0\">Ignited Kory</a>.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Sawblade-spitting Metal Tackey (AC:TL)",
+        "description": "In the fan game Archer Cat: The Legacy, Cat Machine's stage contains only Metal enemies. The thing is, there were exactly six regular Metal enemies at the time, and so <a href=\"https://www.reddit.com/user/Harbige12/\">u/Harbige12</a> had mostly reached his limits when it came to enemy variety. When he realized it needed a little something extra to make the stage more interesting, what was his solution? Why, Metal Tackeys that spit sawblades at you! Only two are present, both in the same room. What makes them so odd is that every other character in the game (or at least the most recent demo) is an actual cat or enemy unit - everyone except for these Metal Tackeys.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "\"Brollow only gets one attack\" bug",
+        "description": "Introduced in BCJP 5.7 and fixed in 5.7.1, <a href=\"https://www.reddit.com/r/battlecats/comments/5mcypr/whats_with_the_brollow_here/\">this forgotten bug</a> rendered each Brollow in a level unable to attack more than once, or stop attacking after being knocked back.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Insane XP",
+        "description": "A map seen in the Tesalan Pasalan video \"<a href=\"https://www.youtube.com/watch?v=MjSrAU-mHe4\">The Battle Cats - EVERY EVENT STAGE ON AT ONCE</a>\". He doesn't enter the map and there's nothing about it on any Battle Cats fan site, so who can say what's in it? Well, the most likely answer is that it's the English name for the original Weekend Stage - yes, there are two versions of the Weekend Stage, the first of which has only three stages and never came to BCEN.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "GirlsMons was added because of a fan's letter",
+        "description": "In <a href=\"https://www.reddit.com/r/battlecats/comments/67uwk9/bcjp_ponos_v60_stream_is_up/dgti8yd/\">PONOS' stream for 6.0</a>, it was revealed that the GirlsMons Ubers were added because the developers were touched by a letter from a GirlsMons player who wished that the characters could still exist on his phone in some capacity.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Preacher Bun Bun and Angelan Pasalan were stolen for clickbait",
+        "description": "The Angel Bun Bun in the thumbnail for Fady's video \"<a href=\"https://www.youtube.com/watch?v=bcIOxRB4HOo\">IS THIS THE HIGHEST LEVEL CAT BOSS EVOLUTION? (9999+ STRONGEST MONSTER LEVEL) l Battle Cats New Game</a>\" is actually Preacher Bun Bun from <a href=\"https://www.reddit.com/r/battlecats/comments/69lvun/idea_subchapter_grindhouse_theater_w_new_enemy/\">Grindhouse Theater</a>, a fan-made sub-chapter conceptualized by <a href=\"https://www.reddit.com/user/CountOrlok1/\">u/CountOrlok1</a>. Likewise, the four-armed Legelan Pasalan in the thumbnail for LYFP's video \"<a href=\"https://www.youtube.com/watch?v=VVBUrc-LMH0\">Battle Cats All Cats HACK Legeluga Evolution 9999+ Level (Legend Rare Cat)</a>\" is <a href=\"https://www.reddit.com/user/TheUlt1mateGuy/\">u/TheUlt1mateGuy</a>'s concept for Legeluga's True Form, <a href=\"https://www.reddit.com/r/battlecats/comments/ciq01u/fanmade_legelan_pasalan_tf_angelan_pasalan/\">Angelan Pasalan</a>. And no, they don't actually appear outside the thumbnails (that's clickbait for you).",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "r/battlecats wasn't made for The Battle Cats",
+        "description": "In 2011, <a href=\"https://www.reddit.com/r/battlecats/\">r/battlecats</a> was created as a hub for people to post photos of real cats who looked like they were ready for battle, such as <a href=\"https://www.reddit.com/r/battlecats/comments/rklp7/i_present_to_you_battlecat_chuck_in_all_his/\">Chuck</a>. It garnered little to no attention until 2013 or 2014, when <a href=\"https://www.reddit.com/user/DanielGibbs/\">u/DanielGibbs</a> looked to Reddit for a place to discuss The Battle Cats, and, due to the lack of activity, asked <a href=\"https://www.reddit.com/user/reverendcat/\">u/reverendcat</a> if he could see it repurposed into a Battle Cats subreddit. <a href=\"https://www.reddit.com/user/reverendcat/\">u/reverendcat</a> accepted the request and passed the torch of ownership onto <a href=\"https://www.reddit.com/user/DanielGibbs/\">u/DanielGibbs/</a>, who served as head moderator until more were recruited 1 or 2 years later.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Big Sal in Little Korea",
+        "description": "As far as I know, this was the first-ever attempt at a modded stage (at least in the BCEN community), made by none other than <a href=\"https://www.reddit.com/user/DanielGibbs/\">u/JulietCat/</a>. The video is now unlisted, so the only way you're finding it is through the <a href=\"https://www.reddit.com/r/battlecats/comments/5w5lrb/levels_ch1_korea_with_a_twist/\">Reddit post</a>.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "1 year of Ruckus",
+        "description": "During their first appearance in BCEN, the event maps Monthly Event All-Stars Special Celebration!, Monthly Event All-Stars Ultra Celebration! and Monthly Event All-Stars Miracle Celebration! were titled \"1 year of Ruckus\" instead of Monthly Event All-Stars.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Emperor Cat gave other cats sapience and Crazed Cats are the originals",
+        "description": "The line \"tame all of Catkind\" in his description could be taken to mean that before Emperor Cat came onto the scene, all the other cats roamed free as wild animals, or perhaps even as Crazed Cats.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "r/BattleCatsTwistedSeed",
+        "description": "A joke subreddit made by <a href=\"https://www.reddit.com/user/Mr_Skelcat/\">u/Mr_Skelcat 5</a> years ago, in some ways a precursor to <a href=\"https://www.reddit.com/r/battlecatsMK2/\">r/battlecatsMK2</a>. I have no idea where the \"Twisted Seed\" part comes from; it's probably some reference or inside joke that went over my head.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Cossack Cat is meant for post-UL stages",
+        "description": " The only time you would even consider using Cossack Cat is against Oldhorn - one enemy out of hundreds. While this could easily be chalked up to poor design, another possibility is that he was never meant to be used against the current roster of enemies in the first place. With all the parallels between the main story and Legend Stages, there's no doubt that after UL there will be a third \"Legends\" campaign with a new set of enemies to challenge. A new trait is not unlikely, but we could another possibility is that we'll see a more powerful subtype of Relics with new abilities - and short range - to mirror CotC and its Starred Aliens. Speaking of which, Wheel Cat was in a similar position to Cossack when Aliens were first introduced: He had little to no use outside of Cyberhorn and Nimoy Bore until the release of CotC, which brought in a host of strong, short-ranged peons and slow-attacking backliners for him to prove his worth.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Butt Warrior",
+        "description": "Mistranslated ability name in Battle Cats Rangers.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Google Android collab in BCEN",
+        "description": "Fully implemented, just unreleased to this day. In the original iceberg, this entry was \"Steampunk SoL sub-chapter\", which stemmed from me misremembering things and an old <a href=\"https://www.reddit.com/r/battlecats/comments/4bmbry/enemy_castle_with_bronze_cat_as_prisoner_found_in/d1aq6t9/\">misconception</a> that the collab stages' names were for an early version of Swimming Cats.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Disneyland",
+        "description": "When 2-star Mouseyland was released, the in-game patch notes misspelled its name as \"Disneyland\".",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "PC-exclusive stages",
+        "description": "BCPC had its own exclusive stages as part of a contest/tournament in which you could win furniture for the Cat Base. Beating these stages was how you would raise your score in the event; a higher score would get you a higher ranking, and higher ranked players would get rarer furniture. From what I've seen, there is no documentation of these stages on any English site and very little elsewhere, which is what puts them this deep below the iceberg. To see what they were like, look through the YouTube channels <a href=\"https://www.youtube.com/channel/UCLA3b7RMKIrEHGmJh2WSZKg\">猫道channel</a> (don't worry about the \"Battle Doges\" videos, they're fan-made), <a href=\"https://www.youtube.com/channel/UChp6eBzZzEDTKH9pI51W9yA\">大戦争にゃんこ</a> and <a href=\"https://www.youtube.com/user/tama3fool\">しらたまP</a>; they can easily be identified by the unique backgrounds, though a few of them used regular backgrounds.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Enemy Berius",
+        "description": "<a href=\"https://www.youtube.com/watch?v=MKmnzwr6rUg\">One of the PC-exclusive stages</a> had an enemy version of the VIP Dragon Emperor King Berius.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "The Battle Cats Sploder",
+        "description": "Fan game made in Sploder (a rudimentary game-making site that went down with Adobe Flash Player in 2020) by <a href=\"https://www.youtube.com/channel/UC_91ld432zVPq2ul6C5EYNw\">Pawsy</a>, formerly known as Paws And Punches. Despite its obscurity, a ton of stages and enemies were made for it over the years; check out <a href=\"https://www.youtube.com/playlist?list=PLIC0VdHyZ7gieKkT1MRFEfblgz4vNddAW\">this playlist</a> if you want to see just some of them.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Demonic cult",
+        "description": "This theory is exactly what it sounds like: a demonic cult exists in the world of The Battle Cats, likely overlapping with the Relics, the Doges who revived Mecha-Bun, the guild researching forbidden knowledge, or all three. However, the only real evidence to back this up is the possibility that Relic Bun-Bun is a life-size idol of the Demon King, whom they may have been responsible for summoning.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Teacher Bun Bun is biphobic/transphobic",
+        "description": "This theory attempts to explain a headline in the <a href=\"https://ponos.s3.amazonaws.com/information/appli/battlecats/aprilfool/2018/index_en.html\">April Fools' Day article for 2018</a>: \"Popular DogeTuber 'T. Bun Bun' under fire after anti-Hippoe comments\". There's no saying exactly why Teacher Bun Bun would target Hippoe of all characters, but we can make an educated guess based on their descriptions. Hippoe was explicitly stated to be bisexual in the original English version, and Hippoe's and Zomboe's descriptions make a point of how we don't know their gender, therefore it is possible that these \"anti-Hippoe comments\" were related to their sexuality and/or gender identity. Or maybe I'm just looking too deep into an April Fools' joke.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Cat Bells",
+        "description": "Currency used in place of energy when challenging PC-exclusive stages.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "コアエッジ (Core Edge)",
+        "description": "The company licensed by PONOS to operate BCPC, their <a href=\"https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A2%E3%82%A8%E3%83%83%E3%82%B8\">Wikipedia article</a> is only available in Japanese. They disbanded on May 31, 2021 after 9 years of service, according to the article.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Untranslated Japanese text in English Cat Guide",
+        "description": "When the Easter Carnival first came to BCEN, the exclusive units' \"EVOLVE at Level 10\" hints in the Cat Guide were left completely untranslated.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Doge variation of Cat Base background",
+        "description": "Some time around the release of 8.0, PONOS added to the game files a variation of the default Cat Base background, with one subtle change: the hidden cat face is replaced with a Doge. The thing is, no one seems to know how or when it appears. Is it just unused? Is it a rare Easter egg that no one has noticed? Was it meant for an event that ended up being cancelled? Who can say except the ones who develop the game?",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Possible fourth form icon",
+        "description": "<a href=\"https://www.reddit.com/r/battlecats/comments/4f8m2p/ponos_is_possibly_now_introducing_the_fourth_form/\">The spritesheet for the Equip menu</a> once had an unused empty unit icon with a background that may have been intended for fourth forms.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Super Rare Cat from SoL",
+        "description": "From BCEN 3.5.0 to 5.0(?), there was an unused line of text which read: \"Stories of Legend Clear Reward|Clear the Stories of Legend for a chance to get the Super Rare unit ●●●●●●●!\" That being said, the previews for Moneko and the Bean Cats also had them mislabeled as Super Rares, so it may have just been a typo.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Relic Bear, Relic Seal, and Relic Nyandam",
+        "description": "Some of the more interesting Nyanko Defense Force bosses - and some of the most obscure. There's <a href=\"https://www.reddit.com/r/battlecats/comments/bsd390/fluff_also_in_battle_cats_galaxy/\">one picture of Relic Bear</a> and <a href=\"https://www.youtube.com/watch?v=2OwnBLRu_nA\">one video of Relic Seal</a>, and that's as much as I've been able to find. There was also an image of Relic Nyandam that I saw a couple years back, but it's seemingly been lost to time.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Marching band trio",
+        "description": "In <a href=\"https://tcrf.net/images/5/5e/The_Battle_Cats_Drumcorps_Cat_Unused_Sprites.png\">Drumcorps Cat's spritesheet</a>, there are two more cats that are supposed to follow behind him, complete with instruments for them to play.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Master Capy",
+        "description": "As its name suggests, this atrocity is a hybrid of Master A. and Capy, more specifically the former's body with the latter's head and coloration. Luckily, it only appears in the box art for <a href=\"https://www.reddit.com/r/battlecats/comments/7c8rcb/fanmade_fanmade_3ds_box_art_for_a_nonexistent/\">Battle Cats Mania</a>, an idea pitched by <a href=\"https://www.reddit.com/user/Kaxzer/\">u/Kaxzer</a> for another 3DS version. I still wonder what was going through his head when he designed this thing...",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Rare Cat Capsules are time capsules",
+        "description": "Rare Cat Capsules physically exist in-universe - they're mentioned in Angel Fanboy's description and are used as traps in The Burgle Cats - which raises all sorts of questions. The Laboratory of Relics is shown to have ample technology for storing life for extended periods of time; could it be that Rare Cat Capsules were the original Cat Army's attempt at such technology, and all the Rare Capsules we're opening have been hidden/buried for countless years, perhaps intended as the first cats' backup plan against the Doge Army? For more technologically advanced units such as Nerd Cat or the Galaxy Gals, they could have been sent back in time from the future (although that may actually raise even more questions).",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Elderitch Winds",
+        "description": "Instead of Wrath of the Divine, the Cat Guide's True Form hint for Clockwork Cat originally said \"Eldritch Winds\". The only logical explanation is that this was the original name for Typhoon Nihil, though how it ended up there in the first place is anyone's guess.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Battle Cats Origin Story, STEAMED, and Cosmic Mysteries",
+        "description": "<a href=\"https://www.reddit.com/r/battlecats/comments/5cr8wj/battle_cats_origin_story/\">Battle Cats Origin Story</a> was a 3-part fan fiction collaboratively written by <a href=\"https://www.reddit.com/user/IAmofExperience/\">u/IAmofExperience</a> and <a href=\"https://www.reddit.com/user/Ethanlac/\">u/Ethanlac</a> in late 2016, and <a href=\"https://www.reddit.com/r/battlecats/comments/7d3ec0/in_time_to_celebrate_en_65_and_the_original/\">The Battle Cats - STEAMED</a> and <a href=\"https://www.reddit.com/r/battlecats/comments/7n2jzz/nope_not_waiting_for_space_chapter_2_ethan_and_i/\">Battle Cats: Cosmic Mysteries</a> were glorified 4th and 5th parts that they posted seperately a year later.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
+        "name": "Beta barrier design",
+        "description": "An <a href=\"https://cdn.discordapp.com/attachments/297065853239689217/339630854227623947/skill002.png\">early design for barriers</a> was added to the game files in 6.3, two updates before CotC Chapter 1.",
+        "media": "none",
+        "mediaType": "image",
+        "tier": 8,
+        "tags": []
+    },
+    {
         "name": "Example entry",
         "description": "Example description. This is what text looks like. Use the &lt;a&gt; tag to create &lt;a href=\"www.google.com\"&gt;<a href=\"www.google.com\">links</a>&lt;/a&gt;, the &lt;em&gt; tag to create &lt;em&gt;<em>bold text</em>&lt;/em&gt;, and the &lt;i&gt; tag to create &lt;i&gt<i>italics</i>&lt;/i&gt.",
         "media": "none",
         "mediaType": "image",
-        "tier": 7,
+        "tier": 8,
         "tags": ["canon", "community", "legacy", "lore", "low-evidence", "non-canon", "PONOS-other", "version-difference"]
     }
 ];
